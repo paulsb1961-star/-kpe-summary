@@ -1,0 +1,4686 @@
+{
+  "series": {
+    "name": "Korean Photo Essay Archive",
+    "name_kr": "한국 포토에세이 아카이브",
+    "abbr": "KPE Archive",
+    "season": "Season I — Coming and Going Time",
+    "publisher": "HongSahn Media (홍산미디어)",
+    "website": "https://hongsahnmedia.com",
+    "author": "HongSahn (홍산)",
+    "total_volumes": 30,
+    "total_collections": 10,
+    "year": 2026
+  },
+  "volumes": [
+    {
+      "vol": "01",
+      "title_en": "Beyond the Palace: The Secret Garden",
+      "title_kr": "궁궐 너머 후원",
+      "subtitle_en": "A Photographic Meditation on Changdeokgung Palace, Seoul",
+      "place_en": "Changdeokgung Palace",
+      "place_kr": "창덕궁",
+      "lat": 37.579431,
+      "lon": 126.991043,
+      "category": "History › Asia › Korea",
+      "collection": "Palaces — Where Time Rests (궁궐 — 시간이 머무는 곳)",
+      "description_en": "Beyond the palace walls, the Secret Garden of Changdeokgung waits in silence.\nA quiet photographic meditation set in Changdeokgung Palace — a UNESCO World Heritage Site in the heart of Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, the garden becomes a space where time lingers — where now and not-now coexist. Autumn sunlight pauses on the pond before drifting away. A solitary pavilion rests behind ancient trees. Visitors pass like shadows, and branches bathed in light stand in quiet witness.\nBuilt in the 15th century, Changdeokgung Palace remains one of Korea's most intimate royal spaces. Its Secret Garden — the Huwon — was shaped not for spectacle but for contemplation. This volume approaches the garden not as history, but as lived time: the still water of Buyongji, the seclusion of Aeryeonjeong, and the quiet halls of Yeongyeongdang.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume marks the first chapter in an ongoing archive of emotional time.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "The Rear Garden",
+          "scenes": [
+            {
+              "en": "Buyongji 2",
+              "kr": "부용지"
+            },
+            {
+              "en": "Pavilion",
+              "kr": "부용정"
+            },
+            {
+              "en": "Visitors",
+              "kr": null
+            },
+            {
+              "en": "Old Tree",
+              "kr": null
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Autumn",
+          "scenes": [
+            {
+              "en": "Seungjaejeong",
+              "kr": "승재정"
+            },
+            {
+              "en": "Doorway",
+              "kr": null
+            },
+            {
+              "en": "Aeryeonji",
+              "kr": "애련지"
+            },
+            {
+              "en": "Ginkgo Tree",
+              "kr": null
+            },
+            {
+              "en": "Yeongyeongdang",
+              "kr": "연경당"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "People",
+          "scenes": [
+            {
+              "en": "Fading Time",
+              "kr": null
+            },
+            {
+              "en": "Visitors 2",
+              "kr": null
+            },
+            {
+              "en": "Visitors 3",
+              "kr": null
+            },
+            {
+              "en": "Gate",
+              "kr": "연경당 대문"
+            },
+            {
+              "en": "Gate 2",
+              "kr": "연경당 대문"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Children",
+          "scenes": [
+            {
+              "en": "Children",
+              "kr": null
+            },
+            {
+              "en": "Woman",
+              "kr": null
+            },
+            {
+              "en": "Injeongjeon",
+              "kr": "인정전"
+            }
+          ]
+        }
+      ],
+      "scene_count": 17,
+      "bg_places": [
+        "Buyongji",
+        "Aeryeonjeong",
+        "Yeongyeongdang"
+      ],
+      "ep_titles": [
+        "The Rear Garden",
+        "Autumn",
+        "People",
+        "Children"
+      ],
+      "keywords": [
+        "Changdeokgung Secret Garden Seoul",
+        "contemplative documentary photography",
+        "Korean palace photo book",
+        "Joseon Dynasty palace essay",
+        "Korea travel photography",
+        "Korean photo essay HongSahn",
+        "Korean cultural heritage UNESCO"
+      ],
+      "pages": 114,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791199339798",
+        "paperback": "9791199339767",
+        "hardcover": "9791124751503"
+      },
+      "price": {
+        "kindle": "4.99 USD",
+        "paperback": "19.99 USD",
+        "hardcover": "29.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2026-11-15",
+        "paperback_hardcover": "2026-12-10",
+        "phase": "Phase 1"
+      },
+      "cover": "en_cover_kpe_01.jpg"
+    },
+    {
+      "vol": "02",
+      "title_en": "Rainfall in the Secret Garden",
+      "title_kr": "비 내리는 후원",
+      "subtitle_en": "A Photographic Meditation on Changdeokgung Palace in Autumn Rain, Seoul",
+      "place_en": "Changdeokgung Palace II",
+      "place_kr": "창덕궁 2",
+      "lat": 37.579431,
+      "lon": 126.991043,
+      "category": "History › Asia › Korea",
+      "collection": "Palaces — Where Time Rests (궁궐 — 시간이 머무는 곳)",
+      "description_en": "Autumn rain settles over the Secret Garden, and the palace breathes more slowly.\nA quiet photographic meditation set in Changdeokgung Palace — a UNESCO World Heritage Site in the heart of Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, rain becomes its own language. Drops gather on the still face of Buyongji, streams gain strength along the eaves, and the zelkova stands darkened and patient. Mallards drift across a soaked pond while visitors move beneath a grey, low sky — every surface softened, every sound hushed.\nTucked along the slope of Bugaksan, the Secret Garden of Changdeokgung was made for stillness rather than display. In the rain its pavilions and ponds turn inward, and the garden reveals a different season of feeling: Buyongji under a steady shower, Yeonghwadang in the wet, and Aeryeonji veiled by falling water.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume continues the Secret Garden sequence — the same place, seen through the weather of memory.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Sudden Shower",
+          "scenes": [
+            {
+              "en": "Shower Buyongjeong",
+              "kr": "소나기"
+            },
+            {
+              "en": "Rain Yeonghwadang",
+              "kr": "비오는 영화당"
+            },
+            {
+              "en": "Raindrops",
+              "kr": "빗방울"
+            },
+            {
+              "en": "Zelkova",
+              "kr": "느티나무"
+            },
+            {
+              "en": "Visitors",
+              "kr": null
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Rainfall",
+          "scenes": [
+            {
+              "en": "Soaked Pond",
+              "kr": "비오는 연못"
+            },
+            {
+              "en": "Mallard",
+              "kr": "청둥오리"
+            },
+            {
+              "en": "Rain Aeryeonji",
+              "kr": "빗속의 애련지"
+            },
+            {
+              "en": "Raindrops 2",
+              "kr": "빗방울"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Eaves",
+          "scenes": [
+            {
+              "en": "Flowing Steps",
+              "kr": "흐르는 계단"
+            },
+            {
+              "en": "Soaked Gate",
+              "kr": "빗속의 대문"
+            },
+            {
+              "en": "Rainy Eaves",
+              "kr": "빗속의 처마"
+            },
+            {
+              "en": "Soaked Tiles",
+              "kr": "빗속의 기와"
+            },
+            {
+              "en": "Soaked Gate 2",
+              "kr": "빗속의 대문"
+            },
+            {
+              "en": "Rainyeaves 2",
+              "kr": "빗속의 처마"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Courtyard",
+          "scenes": [
+            {
+              "en": "Man Umbrella",
+              "kr": "우산 쓴 남자"
+            },
+            {
+              "en": "Soaked Pine",
+              "kr": "빗속의 소나무"
+            },
+            {
+              "en": "Visitor",
+              "kr": null
+            },
+            {
+              "en": "Faint Palace",
+              "kr": "희미한 궁궐"
+            },
+            {
+              "en": "Faint Palace 2",
+              "kr": "희미한 궁궐"
+            },
+            {
+              "en": "Raindrops 3",
+              "kr": "빗방울"
+            }
+          ]
+        }
+      ],
+      "scene_count": 21,
+      "bg_places": [],
+      "ep_titles": [
+        "Sudden Shower",
+        "Rainfall",
+        "Eaves",
+        "Courtyard"
+      ],
+      "keywords": [
+        "Changdeokgung Secret Garden rain",
+        "autumn rain Korean garden",
+        "Secret Garden Huwon Seoul",
+        "contemplative palace photo book",
+        "Korea rainy season photography",
+        "Korean photo essay HongSahn",
+        "UNESCO Joseon palace Seoul"
+      ],
+      "pages": 114,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791199339781",
+        "paperback": "9791199339750",
+        "hardcover": "9791124751510"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2026-11-15",
+        "paperback_hardcover": "2026-12-10",
+        "phase": "Phase 1"
+      },
+      "cover": "en_cover_kpe_02.jpg"
+    },
+    {
+      "vol": "03",
+      "title_en": "Flowing Time",
+      "title_kr": "흐르는 시간",
+      "subtitle_en": "A Photographic Meditation on Gyeongbokgung Palace, Seoul",
+      "place_en": "Gyeongbokgung Palace",
+      "place_kr": "경복궁",
+      "lat": 37.579617,
+      "lon": 126.977041,
+      "category": "History › Asia › Korea",
+      "collection": "Palaces — Where Time Rests (궁궐 — 시간이 머무는 곳)",
+      "description_en": "Even across five hundred years of memory, time continues to flow through the royal palace.\nA quiet photographic meditation set in Gyeongbokgung Palace — the principal palace of the Joseon dynasty, in the heart of Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, the grand palace turns intimate. Wind passes over open courtyards, lotus leaves rest on the water before Gyeonghoeru, and light moves slowly across Sujeongjeon. Visitors come and go beneath vast roofs, small against the centuries, carrying their own quiet stories.\nAs the principal palace of the dynasty, Gyeongbokgung has stood at the center of Korean history — built, burned, and raised again. This volume approaches it not as monument but as flowing time: the reflecting pavilion of Gyeonghoeru, the scholar's hall of Sujeongjeon, and the long courtyards where the present and the past keep passing through one another.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume turns from the Secret Garden to the great palace at the city's heart.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Wind",
+          "scenes": [
+            {
+              "en": "Visitors",
+              "kr": null
+            },
+            {
+              "en": "Sujeongjeon",
+              "kr": "수정전"
+            },
+            {
+              "en": "Passing Wind",
+              "kr": "흐르는 바람"
+            },
+            {
+              "en": "Lotus Gyeonghoeru",
+              "kr": "경회루 연지"
+            },
+            {
+              "en": "Stories",
+              "kr": "이야기들"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Memory",
+          "scenes": [
+            {
+              "en": "Woman",
+              "kr": null
+            },
+            {
+              "en": "Child Woman",
+              "kr": "아이와 여인"
+            },
+            {
+              "en": "Scattered",
+              "kr": "흩어짐"
+            },
+            {
+              "en": "Scattered 2",
+              "kr": "흩어짐"
+            },
+            {
+              "en": "Scattered 3",
+              "kr": "흩어짐"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Tale",
+          "scenes": [
+            {
+              "en": "Returning",
+              "kr": "돌아옴"
+            },
+            {
+              "en": "Returning 2",
+              "kr": "돌아옴"
+            },
+            {
+              "en": "Returning 3",
+              "kr": "돌아옴"
+            },
+            {
+              "en": "Dispersal",
+              "kr": "흩어지다"
+            },
+            {
+              "en": "Gathering",
+              "kr": "모이다"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Shadow",
+          "scenes": [
+            {
+              "en": "Recomposition",
+              "kr": "재구성"
+            },
+            {
+              "en": "Coming Going",
+              "kr": "오고 감"
+            },
+            {
+              "en": "Visitors 2",
+              "kr": null
+            },
+            {
+              "en": "Woman 2",
+              "kr": null
+            },
+            {
+              "en": "Pond",
+              "kr": "연못"
+            },
+            {
+              "en": "Shadow",
+              "kr": null
+            },
+            {
+              "en": "Lotus Leaves",
+              "kr": "연잎"
+            },
+            {
+              "en": "Lotus Leaves 2",
+              "kr": "연잎"
+            }
+          ]
+        }
+      ],
+      "scene_count": 23,
+      "bg_places": [
+        "Full Text"
+      ],
+      "ep_titles": [
+        "Wind",
+        "Memory",
+        "Tale",
+        "Shadow"
+      ],
+      "keywords": [
+        "Gyeongbokgung Palace photography",
+        "Joseon royal palace Seoul",
+        "Gyeonghoeru Sujeongjeon",
+        "Korean palace photo essay",
+        "Korea travel photography Seoul",
+        "Korean photo essay HongSahn",
+        "Korean cultural heritage UNESCO"
+      ],
+      "pages": 114,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791199339774",
+        "paperback": "9791199339712",
+        "hardcover": "9791124751527"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2026-11-15",
+        "paperback_hardcover": "2026-12-10",
+        "phase": "Phase 1"
+      },
+      "cover": "en_cover_kpe_03.jpg"
+    },
+    {
+      "vol": "04",
+      "title_en": "Snow Falls on the Village",
+      "title_kr": "눈 내리는 마을",
+      "subtitle_en": "A Photographic Meditation on Eunpyeong Hanok Village in Winter, Seoul",
+      "place_en": "Eunpyeong Hanok Village",
+      "place_kr": "은평한옥마을",
+      "lat": 37.641319,
+      "lon": 126.939204,
+      "category": "Religion & Spirituality › New Age & Spirituality › Mindfulness",
+      "collection": "Snow — Silence After Footsteps (설경 — 발자국 이후의 침묵)",
+      "description_en": "On the day the first snow falls, the village grows even quieter.\nA quiet photographic meditation set in Eunpyeong Hanok Village, beneath Bukhansan in Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, winter settles over the tiled roofs one flake at a time. The first snow softens the lanes, the hanok eaves carry a thin white line, and the village seems to hold its breath. Each frame lingers on the hush between falling and fallen — the moment a place becomes still.\nAt the foot of Bukhansan in Jingwan-dong, Eunpyeong Hanok Village gathers traditional Korean houses against the mountain's ridgelines. In snow it sheds its postcard brightness and turns inward — courtyards, walls, and rooflines reduced to quiet shapes, a contemporary village remembering an older way of being still.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume opens the winter sequence beneath Bukhansan, where snow becomes a kind of silence.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "First Snow",
+          "scenes": [
+            {
+              "en": "First Snow",
+              "kr": "첫눈"
+            },
+            {
+              "en": "First Snow 2",
+              "kr": "첫눈"
+            },
+            {
+              "en": "First Snow 3",
+              "kr": "첫눈"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "The Village",
+          "scenes": [
+            {
+              "en": "The Village",
+              "kr": "마을"
+            },
+            {
+              "en": "The Village 2",
+              "kr": "마을"
+            },
+            {
+              "en": "The Village 3",
+              "kr": "마을"
+            },
+            {
+              "en": "The Village 4",
+              "kr": "마을"
+            },
+            {
+              "en": "The Village 5",
+              "kr": "마을"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Snowflakes",
+          "scenes": [
+            {
+              "en": "Snowflakes",
+              "kr": "눈송이"
+            },
+            {
+              "en": "Snowflakes 2",
+              "kr": "눈송이"
+            },
+            {
+              "en": "Snowflakes 3",
+              "kr": "눈송이"
+            },
+            {
+              "en": "Snowflakes 4",
+              "kr": "눈송이"
+            },
+            {
+              "en": "Snowflakes 5",
+              "kr": "눈송이"
+            },
+            {
+              "en": "Snowflakes 6",
+              "kr": "눈송이"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Snow Flowers",
+          "scenes": [
+            {
+              "en": "Snow Flowers",
+              "kr": "눈꽃"
+            },
+            {
+              "en": "Snow Flowers 2",
+              "kr": "눈꽃"
+            },
+            {
+              "en": "Snow Flowers 3",
+              "kr": "눈꽃"
+            },
+            {
+              "en": "Snow Flowers 4",
+              "kr": "눈꽃"
+            }
+          ]
+        }
+      ],
+      "scene_count": 18,
+      "bg_places": [],
+      "ep_titles": [
+        "First Snow",
+        "The Village",
+        "Snowflakes",
+        "Snow Flowers"
+      ],
+      "keywords": [
+        "Eunpyeong Hanok Village snow",
+        "Korean hanok winter photography",
+        "first snow Seoul village",
+        "Bukhansan Jingwan-dong",
+        "Korea winter travel photography",
+        "Korean photo essay HongSahn",
+        "traditional Korean village"
+      ],
+      "pages": 108,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791199339705",
+        "paperback": "9791124751237",
+        "hardcover": "9791124751534"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-01-13",
+        "paperback_hardcover": "2027-02-10",
+        "phase": "Phase 2"
+      },
+      "cover": "en_cover_kpe_04.jpg"
+    },
+    {
+      "vol": "05",
+      "title_en": "Hill of Snow Blossoms",
+      "title_kr": "눈꽃 피는 언덕",
+      "subtitle_en": "A Photographic Meditation on Yongchuljeong Pavilion in Winter, Seoul",
+      "place_en": "Yongchuljeong Pavilion",
+      "place_kr": "용출정",
+      "lat": 37.640445,
+      "lon": 126.938121,
+      "category": "Religion & Spirituality › New Age & Spirituality › Mindfulness",
+      "collection": "Snow — Silence After Footsteps (설경 — 발자국 이후의 침묵)",
+      "description_en": "When shadows fall across the snow blossoms, the hill holds its breath.\nA quiet photographic meditation set at Yongchuljeong Pavilion, the symbol of Eunpyeong Hanok Village beneath Bukhansan in Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, snow gathers like blossom across the open field and along the pavilion's lines. White layers the railings and steps; the ridges of Bukhansan rise pale behind. Light shifts slowly over the snowfield, and the pavilion stands as a single quiet form between earth and winter sky.\nYongchuljeong rises as the symbol of Eunpyeong Hanok Village, where the ridgelines of Bukhansan meet the rooftops below. Under snow the hill becomes a field of soft blossoms, and the pavilion — built for pause and prospect — turns into a place to measure stillness rather than distance.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume continues the winter beneath Bukhansan, rising from the village to the snow-covered hill.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Snow Flowers",
+          "scenes": [
+            {
+              "en": "Snowfield",
+              "kr": "눈밭"
+            },
+            {
+              "en": "Snowfield 2",
+              "kr": "눈밭"
+            },
+            {
+              "en": "Snowfield 3",
+              "kr": "눈밭"
+            },
+            {
+              "en": "Snowfield 4",
+              "kr": "눈밭"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Pavilion",
+          "scenes": [
+            {
+              "en": "Pavilion",
+              "kr": "정자"
+            },
+            {
+              "en": "Pavilion 2",
+              "kr": "정자"
+            },
+            {
+              "en": "Pavilion 3",
+              "kr": "정자"
+            },
+            {
+              "en": "Pavilion 4",
+              "kr": "정자"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "The Hill",
+          "scenes": [
+            {
+              "en": "The Hill",
+              "kr": "언덕"
+            },
+            {
+              "en": "The Hill 2",
+              "kr": "언덕"
+            },
+            {
+              "en": "The Hill 3",
+              "kr": "언덕"
+            },
+            {
+              "en": "The Hill 4",
+              "kr": "언덕"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Traces",
+          "scenes": [
+            {
+              "en": "The Traces",
+              "kr": "흔적"
+            },
+            {
+              "en": "The Traces 2",
+              "kr": "흔적"
+            },
+            {
+              "en": "The Traces 3",
+              "kr": "흔적"
+            },
+            {
+              "en": "The Traces 4",
+              "kr": "흔적"
+            }
+          ]
+        }
+      ],
+      "scene_count": 16,
+      "bg_places": [],
+      "ep_titles": [
+        "Snow Flowers",
+        "Pavilion",
+        "The Hill",
+        "Traces"
+      ],
+      "keywords": [
+        "Yongchuljeong Pavilion snow",
+        "Eunpyeong Hanok Village winter",
+        "snow blossoms Korea",
+        "Korean pavilion photography",
+        "Bukhansan winter Seoul",
+        "Korean photo essay HongSahn",
+        "Korean cultural landscape"
+      ],
+      "pages": 108,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791199339729",
+        "paperback": "9791124751244",
+        "hardcover": "9791124751541"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-01-13",
+        "paperback_hardcover": "2027-02-10",
+        "phase": "Phase 2"
+      },
+      "cover": "en_cover_kpe_05.jpg"
+    },
+    {
+      "vol": "06",
+      "title_en": "Snow Path Beneath the Hill",
+      "title_kr": "언덕 아래 눈길",
+      "subtitle_en": "A Photographic Meditation on Gijachon Village in Winter, Seoul",
+      "place_en": "Gijachon Village",
+      "place_kr": "기자촌",
+      "lat": 37.634227,
+      "lon": 126.933479,
+      "category": "Religion & Spirituality › New Age & Spirituality › Mindfulness",
+      "collection": "Snow — Silence After Footsteps (설경 — 발자국 이후의 침묵)",
+      "description_en": "As snow begins to fall, the world grows quiet, and I walk along the path beneath the hill.\nA quiet photographic meditation set in Gijachon Village, beneath Bukhansan in Jingwan-dong, Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, a single snow path leads beneath the hill and into stillness. Footprints, fences, and bare branches gather under falling snow; the slope rises softly into white. Each frame follows the quiet of walking — the way a familiar place turns unfamiliar, and tender, under the first heavy snow.\nNestled beneath Bukhansan in Jingwan-dong, Gijachon was once home to journalists and has slowly faded at the city's edge. In snow its lanes and low houses become a path of memory — a vanishing village held for a moment in white, walked rather than viewed.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume closes the first winter cluster beneath Bukhansan, following a single path into the snow.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "The Hill",
+          "scenes": [
+            {
+              "en": "Hill",
+              "kr": "언덕"
+            },
+            {
+              "en": "Hill 2",
+              "kr": "언덕"
+            },
+            {
+              "en": "Hill 3",
+              "kr": "언덕"
+            },
+            {
+              "en": "Hill 4",
+              "kr": "언덕"
+            },
+            {
+              "en": "Hill 5",
+              "kr": "언덕"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "The Snow Path",
+          "scenes": [
+            {
+              "en": "Snow Path 2",
+              "kr": "눈길"
+            },
+            {
+              "en": "Snow Path 3",
+              "kr": "눈길"
+            },
+            {
+              "en": "Snow Path 4",
+              "kr": "눈길"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "The Traces",
+          "scenes": [
+            {
+              "en": "Traces",
+              "kr": "흔적"
+            },
+            {
+              "en": "Traces 2",
+              "kr": "흔적"
+            },
+            {
+              "en": "Traces 3",
+              "kr": "흔적"
+            },
+            {
+              "en": "Traces 4",
+              "kr": "흔적"
+            },
+            {
+              "en": "Traces 5",
+              "kr": "흔적"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "The Silence",
+          "scenes": [
+            {
+              "en": "Silence",
+              "kr": "고요"
+            },
+            {
+              "en": "Silence 2",
+              "kr": "고요"
+            },
+            {
+              "en": "Silence 3",
+              "kr": "고요"
+            }
+          ]
+        }
+      ],
+      "scene_count": 16,
+      "bg_places": [],
+      "ep_titles": [
+        "The Hill",
+        "The Snow Path",
+        "The Traces",
+        "The Silence"
+      ],
+      "keywords": [
+        "Gijachon Village snow path",
+        "Jingwan-dong Bukhansan",
+        "Korean village winter photography",
+        "snow path meditation",
+        "Korea winter travel",
+        "Korean photo essay HongSahn",
+        "vanishing village Korea"
+      ],
+      "pages": 112,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791199339736",
+        "paperback": "9791124751251",
+        "hardcover": "9791124751558"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-01-13",
+        "paperback_hardcover": "2027-02-10",
+        "phase": "Phase 2"
+      },
+      "cover": "en_cover_kpe_06.jpg"
+    },
+    {
+      "vol": "07",
+      "title_en": "Where Flowers Come and Go",
+      "title_kr": "꽃이 오고 단풍 가던",
+      "subtitle_en": "A Photographic Meditation on Gijachon and Umulgol, Seoul",
+      "place_en": "Gijachon II & Umulgol",
+      "place_kr": "기자촌 2",
+      "lat": 37.636201,
+      "lon": 126.93167,
+      "category": "Religion & Spirituality › New Age & Spirituality › Mindfulness",
+      "collection": "Time — Moments That Overlap (시간 — 겹쳐지는 순간)",
+      "description_en": "Once, more than five hundred households shared these lanes; now wild grass grows where autumn leaves come and go.\nA quiet photographic meditation set in Gijachon and Umulgol, beneath Bukhansan in Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, two timelines flow side by side. Leaves arrive and fall along a built walking path; a few ginkgo trees still stand firm where houses once stood. Flowers come, leaves turn, and a peaceful emptiness settles over the slope.\nBuilt between 1969 and 1974, Gijachon was Korea's first residential community for journalists — more than 500 households in its narrow lanes. Today a new town has risen around it, and the old village lingers at the edge, half-remembered, as autumn keeps passing through.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume returns to Gijachon, where the seasons go on coming and going over a vanishing village.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Flowers Came",
+          "scenes": [
+            {
+              "en": "Came",
+              "kr": "오다"
+            },
+            {
+              "en": "Came 2",
+              "kr": "오다"
+            },
+            {
+              "en": "Came 3",
+              "kr": "오다"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Maples Went",
+          "scenes": [
+            {
+              "en": "Went",
+              "kr": "가다"
+            },
+            {
+              "en": "Went 2",
+              "kr": "가다"
+            },
+            {
+              "en": "Went 3",
+              "kr": "가다"
+            },
+            {
+              "en": "Went 4",
+              "kr": "가다"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "The Village",
+          "scenes": [
+            {
+              "en": "Village",
+              "kr": "마을"
+            },
+            {
+              "en": "Village 2",
+              "kr": "마을"
+            },
+            {
+              "en": "Village 3",
+              "kr": "마을"
+            },
+            {
+              "en": "Village 4",
+              "kr": "마을"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "People",
+          "scenes": [
+            {
+              "en": "People",
+              "kr": null
+            },
+            {
+              "en": "People 2",
+              "kr": null
+            },
+            {
+              "en": "People 3",
+              "kr": null
+            },
+            {
+              "en": "People 4",
+              "kr": null
+            },
+            {
+              "en": "People 5",
+              "kr": null
+            }
+          ]
+        }
+      ],
+      "scene_count": 16,
+      "bg_places": [],
+      "ep_titles": [
+        "Flowers Came",
+        "Maples Went",
+        "The Village",
+        "People"
+      ],
+      "keywords": [
+        "Gijachon village Seoul",
+        "autumn Korean village photography",
+        "vanishing village Bukhansan",
+        "Eunpyeong Jingwan-dong",
+        "Korea autumn travel photography",
+        "Korean photo essay HongSahn",
+        "Korean village memory archive"
+      ],
+      "pages": 112,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791199339743",
+        "paperback": "9791124751268",
+        "hardcover": "9791124751565"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-01-13",
+        "paperback_hardcover": "2027-02-10",
+        "phase": "Phase 2"
+      },
+      "cover": "en_cover_kpe_07.jpg"
+    },
+    {
+      "vol": "08",
+      "title_en": "The Living and the Dead",
+      "title_kr": "산 자와 죽은 자",
+      "subtitle_en": "A Photographic Meditation on Sangnim Village and Pokpodong, Seoul",
+      "place_en": "Sangnim · Pokpodong",
+      "place_kr": "상림마을·폭포동",
+      "lat": 37.645135,
+      "lon": 126.927222,
+      "category": "Religion & Spirituality › New Age & Spirituality › Mindfulness",
+      "collection": "Time — Moments That Overlap (시간 — 겹쳐지는 순간)",
+      "description_en": "On Mount Imal, where court ladies and eunuchs lie at rest, the living and the dead dwell together.\nA quiet photographic meditation set in Sangnim Village and Pokpodong, beneath Bukhansan in Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, life and death share a single hillside. Between old gravestones the barefoot living pass quietly by; one life watches another; a trace remains where fear once moved. The village unfolds slowly, holding presence and absence in the same frame.\nSangnim Village takes its name from a single juniper — the “Sang Tree” — that once stood at Jingwan-nae-dong, beside an old well where neighbors gathered. On the slopes of Mount Imal, the resting places of court ladies and eunuchs overlap with the everyday life of the living, and time itself seems to fold.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume turns to a place where the living and the dead keep quiet company.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Life and Death",
+          "scenes": [
+            {
+              "en": "Life and Death",
+              "kr": "생사"
+            },
+            {
+              "en": "Life and Death 2",
+              "kr": "생사"
+            },
+            {
+              "en": "Life and Death 3",
+              "kr": "생사"
+            },
+            {
+              "en": "Life and Death 4",
+              "kr": "생사"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Traces",
+          "scenes": [
+            {
+              "en": "Traces",
+              "kr": "흔적"
+            },
+            {
+              "en": "Traces 2",
+              "kr": "흔적"
+            },
+            {
+              "en": "Traces 3",
+              "kr": "흔적"
+            },
+            {
+              "en": "Traces 4",
+              "kr": "흔적"
+            },
+            {
+              "en": "Traces 5",
+              "kr": "흔적"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Sunlight",
+          "scenes": [
+            {
+              "en": "Sunlight",
+              "kr": null
+            },
+            {
+              "en": "Sunlight 2",
+              "kr": null
+            },
+            {
+              "en": "Sunlight 3",
+              "kr": null
+            },
+            {
+              "en": "Sunlight 4",
+              "kr": null
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Lives",
+          "scenes": [
+            {
+              "en": "Lives",
+              "kr": "생명"
+            },
+            {
+              "en": "Lives 2",
+              "kr": "생명"
+            },
+            {
+              "en": "Lives 3",
+              "kr": "생명"
+            }
+          ]
+        }
+      ],
+      "scene_count": 16,
+      "bg_places": [],
+      "ep_titles": [
+        "Life and Death",
+        "Traces",
+        "Sunlight",
+        "Lives"
+      ],
+      "keywords": [
+        "Sangnim Village Seoul",
+        "Korean village photography Bukhansan",
+        "life and death photo essay",
+        "Jingwan-dong Eunpyeong",
+        "Korea contemplative photography",
+        "Korean photo essay HongSahn",
+        "Korean cultural landscape memory"
+      ],
+      "pages": 114,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751008",
+        "paperback": "9791124751275",
+        "hardcover": "9791124751572"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-01-13",
+        "paperback_hardcover": "2027-02-10",
+        "phase": "Phase 2"
+      },
+      "cover": "en_cover_kpe_08.jpg"
+    },
+    {
+      "vol": "09",
+      "title_en": "Memories of Those Who Left",
+      "title_kr": "떠난 이들의 기억",
+      "subtitle_en": "A Photographic Meditation on Eunpyeong Hanok Village and Jegakmal, Seoul",
+      "place_en": "Hanok Village II & Jegakmal",
+      "place_kr": "한옥마을 2",
+      "lat": 37.641319,
+      "lon": 126.939204,
+      "category": "Religion & Spirituality › New Age & Spirituality › Mindfulness",
+      "collection": "Time — Moments That Overlap (시간 — 겹쳐지는 순간)",
+      "description_en": "A hanok village where past and present stand side by side, and three philosophies once shared a single hillside.\nA quiet photographic meditation set in Eunpyeong Hanok Village and Jegakmal, beneath Bukhansan in Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, the past and the present rest together. On one patch of grass lies a descendant of a king; across the stream, Buddhist prayer rises on the mountain slope. Tiled roofs hold the memory of filial devotion while today's village goes quietly about its day.\nBefore the tiled roofs of today's Eunpyeong Hanok Village, this land was called Jegangmal, named for royal ancestral shrines once built here. The teachings of Confucianism, Buddhism, and Taoism were passed down together — and their traces still linger where past and present coexist.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume lingers where the village's past and present keep each other company.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "The Past",
+          "scenes": [
+            {
+              "en": "Past",
+              "kr": "과거"
+            },
+            {
+              "en": "Past 2",
+              "kr": "과거"
+            },
+            {
+              "en": "Past 3",
+              "kr": "과거"
+            },
+            {
+              "en": "Past 4",
+              "kr": "과거"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "The Present",
+          "scenes": [
+            {
+              "en": "Present",
+              "kr": "현재"
+            },
+            {
+              "en": "Present 2",
+              "kr": "현재"
+            },
+            {
+              "en": "Present 3",
+              "kr": "현재"
+            },
+            {
+              "en": "Present 4",
+              "kr": "현재"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "The Graves",
+          "scenes": [
+            {
+              "en": "Graves",
+              "kr": "묘지"
+            },
+            {
+              "en": "Graves 2",
+              "kr": "묘지"
+            },
+            {
+              "en": "Graves 3",
+              "kr": "묘지"
+            },
+            {
+              "en": "Graves 4",
+              "kr": "묘지"
+            },
+            {
+              "en": "Graves 5",
+              "kr": "묘지"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "The Village",
+          "scenes": [
+            {
+              "en": "Village",
+              "kr": "마을"
+            },
+            {
+              "en": "Village 2",
+              "kr": "마을"
+            },
+            {
+              "en": "Village 3",
+              "kr": "마을"
+            },
+            {
+              "en": "Village 4",
+              "kr": "마을"
+            }
+          ]
+        }
+      ],
+      "scene_count": 17,
+      "bg_places": [],
+      "ep_titles": [
+        "The Past",
+        "The Present",
+        "The Graves",
+        "The Village"
+      ],
+      "keywords": [
+        "Eunpyeong Hanok Village",
+        "Korean hanok photography",
+        "past and present photo essay",
+        "Jegangmal Bukhansan",
+        "Korea heritage travel photography",
+        "Korean photo essay HongSahn",
+        "Confucian Buddhist Taoist village"
+      ],
+      "pages": 112,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751015",
+        "paperback": "9791124751282",
+        "hardcover": "9791124751589"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-01-13",
+        "paperback_hardcover": "2027-02-10",
+        "phase": "Phase 2"
+      },
+      "cover": "en_cover_kpe_09.jpg"
+    },
+    {
+      "vol": "10",
+      "title_en": "Beyond the Forest Railway",
+      "title_kr": "철길 숲속 저편에서",
+      "subtitle_en": "A Photographic Meditation on Gongneung Stream, Seoul",
+      "place_en": "Gongneung Stream",
+      "place_kr": "공릉천",
+      "lat": 37.67427,
+      "lon": 126.882476,
+      "category": "Religion & Spirituality › New Age & Spirituality › Mindfulness",
+      "collection": "Walks — Between Leaving and Returning (산책 — 떠남과 돌아옴 사이)",
+      "description_en": "From high above the apartments, I watched the traces of the departed scatter along the stream.\nA quiet photographic meditation set along Gongneungcheon, on the northern edge of Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, a stream becomes a river of time. Walking paths, railway lines, and quiet water carry memory southward. Seen from above, the everyday turns tender — a place to walk a while with someone who has gone before, and to glimpse, in the ordinary, the back of a feeling once held.\nGongneungcheon rises in the hills of Goyang and moves south through the northern edge of the city before joining the Han River. Along its banks lie footpaths and old railway traces — an ordinary waterway that, walked slowly, becomes a passage through memory.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume follows the water beyond the forested railway, where memory crosses the river of time.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Memory",
+          "scenes": [
+            {
+              "en": "Memory",
+              "kr": "기억"
+            },
+            {
+              "en": "Memory 2",
+              "kr": "기억"
+            },
+            {
+              "en": "Memory 3",
+              "kr": "기억"
+            },
+            {
+              "en": "Memory 4",
+              "kr": "기억"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Heart",
+          "scenes": [
+            {
+              "en": "Heart",
+              "kr": "마음"
+            },
+            {
+              "en": "Heart 2",
+              "kr": "마음"
+            },
+            {
+              "en": "Heart 3",
+              "kr": "마음"
+            },
+            {
+              "en": "Heart 4",
+              "kr": "마음"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Window",
+          "scenes": [
+            {
+              "en": "Window",
+              "kr": "창문"
+            },
+            {
+              "en": "Window 2",
+              "kr": "창문"
+            },
+            {
+              "en": "Window 3",
+              "kr": "창문"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Time",
+          "scenes": [
+            {
+              "en": "Time",
+              "kr": "시간"
+            },
+            {
+              "en": "Time 2",
+              "kr": "시간"
+            },
+            {
+              "en": "Time 3",
+              "kr": "시간"
+            },
+            {
+              "en": "Time 4",
+              "kr": "시간"
+            }
+          ]
+        }
+      ],
+      "scene_count": 15,
+      "bg_places": [],
+      "ep_titles": [
+        "Memory",
+        "Heart",
+        "Window",
+        "Time"
+      ],
+      "keywords": [
+        "Gongneungcheon stream Seoul",
+        "Korean stream photography",
+        "memory and loss photo essay",
+        "northern Seoul waterway",
+        "Korea contemplative travel photography",
+        "Korean photo essay HongSahn",
+        "walking meditation Korea"
+      ],
+      "pages": 112,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751022",
+        "paperback": "9791124751299",
+        "hardcover": "9791124751596"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-03-09",
+        "paperback_hardcover": "2027-04-08",
+        "phase": "Phase 3"
+      },
+      "cover": "en_cover_kpe_10.jpg"
+    },
+    {
+      "vol": "11",
+      "title_en": "Those Who Pass Without Notice",
+      "title_kr": "무심히 오가는 이들",
+      "subtitle_en": "A Photographic Meditation on Bulgwang-dong and Changneung Stream, Seoul",
+      "place_en": "Changneung Stream · Bulgwang",
+      "place_kr": "창릉천·불광동 골목",
+      "lat": 37.647934,
+      "lon": 126.885864,
+      "category": "Religion & Spirituality › New Age & Spirituality › Mindfulness",
+      "collection": "Walks — Between Leaving and Returning (산책 — 떠남과 돌아옴 사이)",
+      "description_en": "Beneath pale streetlights, only passing figures remain, and the alleys quietly fade from view.\nA quiet photographic meditation set in Bulgwang-dong, along Changneung Stream beneath Bukhansan in Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, darkness keeps its small secrets. Figures pass without a glance; a crescent moon lingers, then moves on; old signboards go on naming shops that may soon be gone. In alleys unsettled by redevelopment, the ordinary takes on the tenderness of things about to disappear.\nBulgwang-dong — “the place touched by Buddha's light” — sits at the foot of Bukhansan, where temples once shaped the rhythm of daily life. Today the neighborhood is changing, and along Changneung Stream the old passages quietly give way, noticed by almost no one.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume walks the fading alleys, attentive to those who pass without notice.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Darkness",
+          "scenes": [
+            {
+              "en": "Darkness",
+              "kr": "어둠"
+            },
+            {
+              "en": "Darkness 2",
+              "kr": "어둠"
+            },
+            {
+              "en": "Darkness 3",
+              "kr": "어둠"
+            },
+            {
+              "en": "Darkness 4",
+              "kr": "어둠"
+            },
+            {
+              "en": "Darkness 5",
+              "kr": "어둠"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Signboards",
+          "scenes": [
+            {
+              "en": "Signboards",
+              "kr": "간판"
+            },
+            {
+              "en": "Signboards 2",
+              "kr": "간판"
+            },
+            {
+              "en": "Signboards 3",
+              "kr": "간판"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Primitive Man",
+          "scenes": [
+            {
+              "en": "Primitive Men",
+              "kr": "원시인"
+            },
+            {
+              "en": "Primitive Men 2",
+              "kr": "원시인"
+            },
+            {
+              "en": "Primitive Men 3",
+              "kr": "원시인"
+            },
+            {
+              "en": "Primitive Men 4",
+              "kr": "원시인"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Survival",
+          "scenes": [
+            {
+              "en": "Survival",
+              "kr": "생존"
+            },
+            {
+              "en": "Survival 2",
+              "kr": "생존"
+            },
+            {
+              "en": "Survival 3",
+              "kr": "생존"
+            },
+            {
+              "en": "Survival 4",
+              "kr": "생존"
+            }
+          ]
+        }
+      ],
+      "scene_count": 16,
+      "bg_places": [],
+      "ep_titles": [
+        "Darkness",
+        "Signboards",
+        "Primitive Man",
+        "Survival"
+      ],
+      "keywords": [
+        "Bulgwang-dong Seoul",
+        "Korean alley photography",
+        "urban redevelopment photo essay",
+        "Changneungcheon Bukhansan",
+        "Korea night street photography",
+        "Korean photo essay HongSahn",
+        "vanishing neighborhood Korea"
+      ],
+      "pages": 114,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751039",
+        "paperback": "9791124751305",
+        "hardcover": "9791124751602"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-03-09",
+        "paperback_hardcover": "2027-04-08",
+        "phase": "Phase 3"
+      },
+      "cover": "en_cover_kpe_11.jpg"
+    },
+    {
+      "vol": "12",
+      "title_en": "Steps Moving Slowly",
+      "title_kr": "느린 걸음 오가던",
+      "subtitle_en": "A Photographic Meditation on the Road to Bulgwangsa and Bulgwang Park, Seoul",
+      "place_en": "Bulgwangsa · Bulgwang Park",
+      "place_kr": "불광사 길·불광근린공원 길",
+      "lat": 37.619694,
+      "lon": 126.930112,
+      "category": "Religion & Spirituality › New Age & Spirituality › Mindfulness",
+      "collection": "Walks — Between Leaving and Returning (산책 — 떠남과 돌아옴 사이)",
+      "description_en": "I used to look broadly; now I look through a narrow gap, and the near and the far come together as one.\nA quiet photographic meditation set along the road to Bulgwangsa and Bulgwang Neighborhood Park, beneath Bukhansan in Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, walking slows until distance dissolves. Through the narrowest gap, nearness and farness quietly meet; vague memories appear gently; the fruit of time grown in indifference is seen anew. Each frame is a step taken without hurry.\nAt the foot of Bukhansan, in the quiet folds of Bulgwang-dong, the road climbs toward Bulgwangsa, beside Bulgwang Neighborhood Park where legend and stillness share a single hill. Here a slow walk becomes its own kind of seeing.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume slows to a walking pace, where steps moving slowly bring the near and the far into one.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Gap",
+          "scenes": [
+            {
+              "en": "Gap",
+              "kr": "틈새"
+            },
+            {
+              "en": "Gap 2",
+              "kr": "틈새"
+            },
+            {
+              "en": "Gap 3",
+              "kr": "틈새"
+            },
+            {
+              "en": "Gap 4",
+              "kr": "틈새"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Fruit",
+          "scenes": [
+            {
+              "en": "Fruits",
+              "kr": "열매"
+            },
+            {
+              "en": "Fruits 2",
+              "kr": "열매"
+            },
+            {
+              "en": "Fruits 3",
+              "kr": "열매"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Library",
+          "scenes": [
+            {
+              "en": "Library",
+              "kr": "도서관"
+            },
+            {
+              "en": "Library 2",
+              "kr": "도서관"
+            },
+            {
+              "en": "Library 3",
+              "kr": "도서관"
+            },
+            {
+              "en": "Library 4",
+              "kr": "도서관"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Train",
+          "scenes": [
+            {
+              "en": "Train",
+              "kr": "기차"
+            },
+            {
+              "en": "Train 2",
+              "kr": "기차"
+            },
+            {
+              "en": "Train 3",
+              "kr": "기차"
+            }
+          ]
+        }
+      ],
+      "scene_count": 14,
+      "bg_places": [],
+      "ep_titles": [
+        "Gap",
+        "Fruit",
+        "Library",
+        "Train"
+      ],
+      "keywords": [
+        "Bulgwang Seoul walking path",
+        "Korean temple road photography",
+        "walking meditation photo essay",
+        "Bulgwang Bukhansan",
+        "Korea contemplative travel",
+        "Korean photo essay HongSahn",
+        "slow walking contemplation Korea"
+      ],
+      "pages": 106,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751046",
+        "paperback": "9791124751312",
+        "hardcover": "9791124751619"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-03-09",
+        "paperback_hardcover": "2027-04-08",
+        "phase": "Phase 3"
+      },
+      "cover": "en_cover_kpe_12.jpg"
+    },
+    {
+      "vol": "13",
+      "title_en": "Lanterns Beneath Spring Blossoms",
+      "title_kr": "봄꽃 아래 연등",
+      "subtitle_en": "A Photographic Meditation on Jingwansa Temple, Seoul",
+      "place_en": "Jingwansa Temple",
+      "place_kr": "진관사",
+      "lat": 37.638388,
+      "lon": 126.946406,
+      "category": "Religion & Spirituality › Buddhism › Zen / Chan",
+      "collection": "Temples — The Shape of Stillness (절집 — 비움의 자리)",
+      "description_en": "When lotus lanterns bloom among brilliant spring flowers, the temple windows glow with quiet prayer.\nA quiet photographic meditation set at Jingwansa, deep in the folds of Bukhansan in Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, lantern light and blossom share the same air. Paper lanterns drift in rows above the courtyard; petals settle on stone; the old halls hold their stillness as spring moves softly through.\nFounded in the early Goryeo period and sheltered in mountain light, Jingwansa is one of Seoul's enduring temples — a place where prayer has continued for a thousand years. In spring it fills with lotus lanterns, and the sacred and the seasonal quietly overlap.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume opens the temple sequence beneath Bukhansan, where prayer endures beneath the blossoms.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Lantern",
+          "scenes": [
+            {
+              "en": "New Buds",
+              "kr": "새싹"
+            },
+            {
+              "en": "Visitors",
+              "kr": "방문객들"
+            },
+            {
+              "en": "Spring Flowers",
+              "kr": "봄꽃"
+            },
+            {
+              "en": "Lotus Lanterns",
+              "kr": "연등"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Reflection",
+          "scenes": [
+            {
+              "en": "Temple Window",
+              "kr": "사찰 창문"
+            },
+            {
+              "en": "Reflection",
+              "kr": "반영"
+            },
+            {
+              "en": "Lotus Lanterns 2",
+              "kr": "연등"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Three Poisons",
+          "scenes": [
+            {
+              "en": "Visitors 2",
+              "kr": "방문객들"
+            },
+            {
+              "en": "Meditation",
+              "kr": "명상"
+            },
+            {
+              "en": "Mountain Path",
+              "kr": "산길"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Humility",
+          "scenes": [
+            {
+              "en": "Drain",
+              "kr": "하수구"
+            },
+            {
+              "en": "Rubber Shoes",
+              "kr": "고무신"
+            },
+            {
+              "en": "Flower Branch",
+              "kr": "꽃가지"
+            },
+            {
+              "en": "Temple Wall",
+              "kr": "절집 담장"
+            }
+          ]
+        }
+      ],
+      "scene_count": 14,
+      "bg_places": [],
+      "ep_titles": [
+        "Lantern",
+        "Reflection",
+        "Three Poisons",
+        "Humility"
+      ],
+      "keywords": [
+        "Jingwansa temple Seoul",
+        "lotus lantern festival Korea",
+        "spring blossoms Buddhist temple",
+        "Bukhansan temple photography",
+        "Korean Buddhism photo essay",
+        "Korean photo essay HongSahn",
+        "contemplative temple photography"
+      ],
+      "pages": 106,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751053",
+        "paperback": "9791124751329",
+        "hardcover": "9791124751626"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-03-09",
+        "paperback_hardcover": "2027-04-08",
+        "phase": "Phase 3"
+      },
+      "cover": "en_cover_kpe_13.jpg"
+    },
+    {
+      "vol": "14",
+      "title_en": "The Seat the Monk Left Behind",
+      "title_kr": "선승이 비운 자리",
+      "subtitle_en": "A Photographic Meditation on Samhwasa Temple, Seoul",
+      "place_en": "Samhwasa Temple",
+      "place_kr": "삼화사",
+      "lat": 37.634836,
+      "lon": 126.941436,
+      "category": "Religion & Spirituality › Buddhism › Zen / Chan",
+      "collection": "Temples — The Shape of Stillness (절집 — 비움의 자리)",
+      "description_en": "Silence fills the emptied seat, and time is made whole through letting go.\nA quiet photographic meditation set at Samhwasa, hidden deep in the folds of Bukhansan in Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, absence becomes presence. An empty cushion holds the shape of the one who left; light rests on worn wood; the small hermitage keeps a silence deep enough to forget the city below.\nBeyond the familiar path to Jingwansa, hidden deeper in the mountain, stands Samhwasa — small enough to miss, quiet enough to forget. Founded by a nun in the late 1950s, it remains a hermitage of returning silence, where what is absent speaks as clearly as what remains.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume follows the temple path to a hermitage where the seat the monk left behind still speaks.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Temple",
+          "scenes": [
+            {
+              "en": "Stone Buddha",
+              "kr": "돌부처"
+            },
+            {
+              "en": "Empty Bowl",
+              "kr": "빈 그릇"
+            },
+            {
+              "en": "New Sprout",
+              "kr": "새싹"
+            },
+            {
+              "en": "Signpost",
+              "kr": "이정표"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Fallen Leaves",
+          "scenes": [
+            {
+              "en": "Courtyard",
+              "kr": "마당"
+            },
+            {
+              "en": "Empty Chair",
+              "kr": "빈 의자"
+            },
+            {
+              "en": "Fallen Leaves",
+              "kr": null
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Dharma Hall",
+          "scenes": [
+            {
+              "en": "Temple Door",
+              "kr": "법당 문"
+            },
+            {
+              "en": "Worn Roof",
+              "kr": "낡은 지붕"
+            },
+            {
+              "en": "Dharma Hall",
+              "kr": "법당"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Episode 4",
+          "scenes": [
+            {
+              "en": "Mud Wall",
+              "kr": "흙벽"
+            },
+            {
+              "en": "Rooftop",
+              "kr": "지붕"
+            },
+            {
+              "en": "Evening Shadow",
+              "kr": "저녁 그림자"
+            }
+          ]
+        }
+      ],
+      "scene_count": 13,
+      "bg_places": [
+        "Section Title",
+        "Full Text"
+      ],
+      "ep_titles": [
+        "Temple",
+        "Fallen Leaves",
+        "Dharma Hall"
+      ],
+      "keywords": [
+        "Samhwasa temple Bukhansan",
+        "Korean hermitage photography",
+        "Buddhist contemplation photo essay",
+        "emptiness and presence",
+        "Korean Zen temple",
+        "Korean photo essay HongSahn",
+        "mountain temple Seoul"
+      ],
+      "pages": 102,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751060",
+        "paperback": "9791124751336",
+        "hardcover": "9791124751633"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-03-09",
+        "paperback_hardcover": "2027-04-08",
+        "phase": "Phase 3"
+      },
+      "cover": "en_cover_kpe_14.jpg"
+    },
+    {
+      "vol": "15",
+      "title_en": "Buddha Beyond the Wind Chime",
+      "title_kr": "풍경 너머 마애불",
+      "subtitle_en": "A Photographic Meditation on Samcheonsa Temple, Seoul",
+      "place_en": "Samcheonsa Temple",
+      "place_kr": "삼천사",
+      "lat": 37.642205,
+      "lon": 126.952501,
+      "category": "Religion & Spirituality › Buddhism › Zen / Chan",
+      "collection": "Temples — The Shape of Stillness (절집 — 비움의 자리)",
+      "description_en": "Even the thousand-year stone Buddha flows; impermanence is not grief but grace.\nA quiet photographic meditation set at Samcheonsa, on the slopes of Bukhansan in Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, stone and wind keep an old conversation. A wind chime trembles at the eaves; water echoes faintly in the valley; the rock-carved Buddha gazes out, weathered and serene, beyond the reach of the visible.\nOn the slopes of Bukhansan, Samcheonsa keeps an older memory — tradition traces it to the Silla monk Wonhyo, and the Goryeosa records its monks across the centuries. Carved into stone and into time, it holds the long patience of a place that has watched everything pass.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume rests at a stone temple where what lies beyond the visible flows on, unceasing.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Mountain Path",
+          "scenes": [
+            {
+              "en": "Mountain Path",
+              "kr": "산길"
+            },
+            {
+              "en": "Warning Sign",
+              "kr": "경고"
+            },
+            {
+              "en": "Mountain Path 2",
+              "kr": "산길"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Wind Chime",
+          "scenes": [
+            {
+              "en": "Wind Chime",
+              "kr": null
+            },
+            {
+              "en": "Wind Chime 2",
+              "kr": null
+            },
+            {
+              "en": "Visitors",
+              "kr": null
+            },
+            {
+              "en": "Stone Wall",
+              "kr": "돌담"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Rock-carved Buddha",
+          "scenes": [
+            {
+              "en": "Rock Carved Buddha",
+              "kr": "마애불"
+            },
+            {
+              "en": "Sky",
+              "kr": null
+            },
+            {
+              "en": "Sky 2",
+              "kr": null
+            },
+            {
+              "en": "Prayer",
+              "kr": "기도"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Temple",
+          "scenes": [
+            {
+              "en": "Sanryeongak",
+              "kr": "산령각"
+            },
+            {
+              "en": "Valley View",
+              "kr": "계곡 전망"
+            },
+            {
+              "en": "Valley Stream",
+              "kr": "계곡물"
+            },
+            {
+              "en": "Sunset",
+              "kr": "석양"
+            }
+          ]
+        }
+      ],
+      "scene_count": 15,
+      "bg_places": [
+        "Section Title",
+        "Full Text"
+      ],
+      "ep_titles": [
+        "Mountain Path",
+        "Wind Chime",
+        "Rock-carved Buddha",
+        "Temple"
+      ],
+      "keywords": [
+        "Samcheonsa temple Bukhansan",
+        "stone Buddha Korea",
+        "impermanence photo essay",
+        "Korean Buddhist temple",
+        "Silla Wonhyo temple",
+        "Korean photo essay HongSahn",
+        "mountain temple meditation"
+      ],
+      "pages": 106,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751077",
+        "paperback": "9791124751343",
+        "hardcover": "9791124751640"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-03-09",
+        "paperback_hardcover": "2027-04-08",
+        "phase": "Phase 3"
+      },
+      "cover": "en_cover_kpe_15.jpg"
+    },
+    {
+      "vol": "16",
+      "title_en": "Shadows Beneath Sunlight",
+      "title_kr": "햇살 아래 그림자",
+      "subtitle_en": "A Photographic Meditation on Changgyeonggung Palace, Seoul",
+      "place_en": "Changgyeonggung Palace",
+      "place_kr": "창경궁",
+      "lat": 37.578815,
+      "lon": 126.99493,
+      "category": "History › Asia › Korea",
+      "collection": "Palaces II — Echoes in Seasonal Light (궁궐 II — 계절빛의 울림)",
+      "description_en": "When spring sunlight settles on the leaves, the pond is embroidered with petals of many colors.\nA quiet photographic meditation set in Changgyeonggung Palace — a Joseon royal palace in the heart of Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, shadow and sunlight share the spring. Petals drift onto still water; the laughter of visitors passes lightly between old halls; light moves slowly across the courtyards, embroidering the day.\nAmong Seoul's palaces, Changgyeonggung feels closest to spring. Built as a residence for royal elders, it carries a gentler intimacy than the grander palaces — and when spring fully blooms, its ponds and pavilions soften into color and shade.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume returns to the palaces, where spring sunlight casts its quiet shadows.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Sunlight",
+          "scenes": [
+            {
+              "en": "Sunlight",
+              "kr": null
+            },
+            {
+              "en": "Sunlight 2",
+              "kr": null
+            },
+            {
+              "en": "Sunlight 3",
+              "kr": null
+            },
+            {
+              "en": "Flower Petals",
+              "kr": "꽃잎"
+            },
+            {
+              "en": "Flower Petals 2",
+              "kr": "꽃잎"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Pond",
+          "scenes": [
+            {
+              "en": "Flower Petals 3",
+              "kr": "꽃잎"
+            },
+            {
+              "en": "Spring Visitors",
+              "kr": "상춘객"
+            },
+            {
+              "en": "Spring Visitors 2",
+              "kr": "상춘객"
+            },
+            {
+              "en": "Youth",
+              "kr": "청소년"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Palace",
+          "scenes": [
+            {
+              "en": "Beyond Changgyeonggung",
+              "kr": "너머"
+            },
+            {
+              "en": "Two Girls",
+              "kr": "두 소녀"
+            },
+            {
+              "en": "Photography",
+              "kr": "촬영"
+            },
+            {
+              "en": "Shadow",
+              "kr": null
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Shadows",
+          "scenes": [
+            {
+              "en": "Inner Courtyard",
+              "kr": "안마당"
+            },
+            {
+              "en": "Shadow 2",
+              "kr": null
+            },
+            {
+              "en": "Shadow 3",
+              "kr": null
+            }
+          ]
+        }
+      ],
+      "scene_count": 16,
+      "bg_places": [],
+      "ep_titles": [
+        "Sunlight",
+        "Pond",
+        "Palace",
+        "Shadows"
+      ],
+      "keywords": [
+        "Changgyeonggung Palace spring",
+        "Joseon palace Seoul",
+        "Korean palace photography",
+        "spring blossoms palace pond",
+        "Korea travel photography",
+        "Korean photo essay HongSahn",
+        "Korean cultural heritage"
+      ],
+      "pages": 110,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751084",
+        "paperback": "9791124751350",
+        "hardcover": "9791124751657"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-03-09",
+        "paperback_hardcover": "2027-04-08",
+        "phase": "Phase 3"
+      },
+      "cover": "en_cover_kpe_16.jpg"
+    },
+    {
+      "vol": "17",
+      "title_en": "People of Spring and Autumn",
+      "title_kr": "봄 가을 사람들",
+      "subtitle_en": "A Photographic Meditation on Deoksugung Palace, Seoul",
+      "place_en": "Deoksugung Palace",
+      "place_kr": "덕수궁",
+      "lat": 37.565886,
+      "lon": 126.974902,
+      "category": "History › Asia › Korea",
+      "collection": "Palaces II — Echoes in Seasonal Light (궁궐 II — 계절빛의 울림)",
+      "description_en": "Beyond the pond, spring blossoms and autumn leaves arrive in turn, and new faces pass between the gates.\nA quiet photographic meditation set in Deoksugung Palace — a Joseon palace at the center of modern Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, the seasons turn within the old walls. Blossoms give way to leaves; shadows lengthen and recede; people of spring and autumn pass through the palace gates, each carrying their own quiet time.\nFive minutes from City Hall, where glass towers rise and traffic moves, Deoksugung keeps history at walking distance. Its blend of palace halls and early-modern architecture makes it a threshold between eras — a place where the past and the present meet beneath the same sky.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume lingers where palace seasons turn, among the people of spring and autumn.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Spring and Autumn",
+          "scenes": [
+            {
+              "en": "Spring Blossoms",
+              "kr": "봄꽃"
+            },
+            {
+              "en": "Spring Blossoms 2",
+              "kr": "봄꽃"
+            },
+            {
+              "en": "Autumn Foliage",
+              "kr": "가을 단풍"
+            },
+            {
+              "en": "Spring Pond",
+              "kr": "봄 연못"
+            },
+            {
+              "en": "Autumn Foliage 2",
+              "kr": "가을 단풍"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Between Doors",
+          "scenes": [
+            {
+              "en": "Spring Visitor",
+              "kr": "봄 관람객"
+            },
+            {
+              "en": "Autumn Visitors",
+              "kr": "가을 관람객"
+            },
+            {
+              "en": "Spring Visitors",
+              "kr": "봄 관람객들"
+            },
+            {
+              "en": "Autumn Visitors 2",
+              "kr": "가을 관람객"
+            },
+            {
+              "en": "Woman in Spring Blossoms",
+              "kr": "봄꽃 여인"
+            },
+            {
+              "en": "Autumn Visitors 3",
+              "kr": "가을 관람객"
+            },
+            {
+              "en": "Women in Spring Blossoms",
+              "kr": "봄꽃 여인들"
+            },
+            {
+              "en": "Deoksugung in Autumn",
+              "kr": "가을 덕수궁"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Beyond the Wall",
+          "scenes": [
+            {
+              "en": "Autumn Shade",
+              "kr": "가을 그늘"
+            },
+            {
+              "en": "Autumn Shade 2",
+              "kr": "가을 그늘"
+            },
+            {
+              "en": "Elderly Man in Spring",
+              "kr": "봄 노인"
+            },
+            {
+              "en": "Deoksugung in Autumn 2",
+              "kr": "가을 덕수궁"
+            },
+            {
+              "en": "Deoksugun in Spring",
+              "kr": "봄 덕수궁"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Shade of Time",
+          "scenes": [
+            {
+              "en": "Elderlyman in Spring 2",
+              "kr": "봄 노인"
+            },
+            {
+              "en": "Spring Visitors 2",
+              "kr": "봄 관람객"
+            },
+            {
+              "en": "Autumn Visitors 4",
+              "kr": "가을 관람객"
+            },
+            {
+              "en": "Beyond Deoksugung in Spring",
+              "kr": "봄 덕수궁 너머"
+            },
+            {
+              "en": "Beyond Deoksugung in Autumn",
+              "kr": "가을 덕수궁 너머"
+            },
+            {
+              "en": "Deoksugung Women",
+              "kr": "덕수궁 여인들"
+            }
+          ]
+        }
+      ],
+      "scene_count": 24,
+      "bg_places": [],
+      "ep_titles": [
+        "Spring and Autumn",
+        "Between Doors",
+        "Beyond the Wall",
+        "Shade of Time"
+      ],
+      "keywords": [
+        "Deoksugung Palace Seoul",
+        "Joseon palace City Hall",
+        "Korean palace photography",
+        "spring autumn palace",
+        "Korea travel photography Seoul",
+        "Korean photo essay HongSahn",
+        "Korean modern history palace"
+      ],
+      "pages": 110,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751091",
+        "paperback": "9791124751367",
+        "hardcover": "9791124751664"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-03-09",
+        "paperback_hardcover": "2027-04-08",
+        "phase": "Phase 3"
+      },
+      "cover": "en_cover_kpe_17.jpg"
+    },
+    {
+      "vol": "18",
+      "title_en": "Where Immortals Once Played",
+      "title_kr": "신선이 노닐던 곳",
+      "subtitle_en": "A Photographic Meditation on Seonyudo Park, Seoul",
+      "place_en": "Seonyudo Park",
+      "place_kr": "선유도",
+      "lat": 37.543569,
+      "lon": 126.899716,
+      "category": "Religion & Spirituality › New Age & Spirituality › Mindfulness",
+      "collection": "Sunlight — Where Warmth Remains (햇살 — 온기가 남는 자리)",
+      "description_en": "On the island where immortals were said to wander, a passerby pauses her steps.\nA quiet photographic meditation set in Seonyudo Park, on the wide breathing of the Han River in Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, water and concrete learn to rest. Vines climb the old tanks; reflections gather in still basins; a passerby pauses, youth whispers nearby, and the island holds many ages of life at once.\nOnce a water treatment plant, Seonyudo was reborn as a garden where industry softened into green. Along the river's slow breath, it rests like a quiet pause in the city — a place where immortals were once imagined to play, now open to anyone walking slowly.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume drifts to a river island where water learned, at last, to rest.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "The Woman",
+          "scenes": [
+            {
+              "en": "Leaves",
+              "kr": "잎새"
+            },
+            {
+              "en": "Woman",
+              "kr": null
+            },
+            {
+              "en": "Woman 2",
+              "kr": null
+            },
+            {
+              "en": "Visitors",
+              "kr": null
+            },
+            {
+              "en": "Visitors 2",
+              "kr": null
+            },
+            {
+              "en": "Spring Blossoms",
+              "kr": "봄꽃"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "The Youth",
+          "scenes": [
+            {
+              "en": "Youth",
+              "kr": "청춘"
+            },
+            {
+              "en": "Tree",
+              "kr": null
+            },
+            {
+              "en": "Youth 2",
+              "kr": "청춘"
+            },
+            {
+              "en": "Swing Chair",
+              "kr": "그네의자"
+            },
+            {
+              "en": "Pavilion",
+              "kr": "정자"
+            },
+            {
+              "en": "Photography",
+              "kr": "촬영"
+            },
+            {
+              "en": "Garden Viewing",
+              "kr": "정원 감상"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "The Child",
+          "scenes": [
+            {
+              "en": "Child and Nun",
+              "kr": "아이와 수녀"
+            },
+            {
+              "en": "Child and Nun 2",
+              "kr": "아이와 수녀"
+            },
+            {
+              "en": "Two Children",
+              "kr": "두 아이"
+            },
+            {
+              "en": "Two Elders",
+              "kr": "두 노인"
+            },
+            {
+              "en": "Homeward",
+              "kr": "귀가"
+            },
+            {
+              "en": "Sunset",
+              "kr": "석양"
+            },
+            {
+              "en": "Another Elder",
+              "kr": null
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Sunset",
+          "scenes": [
+            {
+              "en": "Ripples",
+              "kr": "물결"
+            },
+            {
+              "en": "Railway Bridge",
+              "kr": "철교"
+            },
+            {
+              "en": "Boat",
+              "kr": "보트"
+            },
+            {
+              "en": "Han River",
+              "kr": "한강"
+            },
+            {
+              "en": "Han River 2",
+              "kr": "한강"
+            }
+          ]
+        }
+      ],
+      "scene_count": 25,
+      "bg_places": [],
+      "ep_titles": [
+        "The Woman",
+        "The Youth",
+        "The Child",
+        "Sunset"
+      ],
+      "keywords": [
+        "Seonyudo Park Seoul",
+        "Han River island garden",
+        "eco park photography Korea",
+        "water garden Seoul",
+        "Korea contemplative photography",
+        "Korean photo essay HongSahn",
+        "urban renewal landscape"
+      ],
+      "pages": 114,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751107",
+        "paperback": "9791124751374",
+        "hardcover": "9791124751671"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-03-09",
+        "paperback_hardcover": "2027-04-08",
+        "phase": "Phase 3"
+      },
+      "cover": "en_cover_kpe_18.jpg"
+    },
+    {
+      "vol": "19",
+      "title_en": "Slow Sunlight and Shadows",
+      "title_kr": "느린 햇살 그림자",
+      "subtitle_en": "A Photographic Meditation on Eunpyeong Hanok Village, Seoul",
+      "place_en": "Eunpyeong Hanok Village",
+      "place_kr": "은평한옥마을",
+      "lat": 37.641319,
+      "lon": 126.939204,
+      "category": "Religion & Spirituality › New Age & Spirituality › Mindfulness",
+      "collection": "Sunlight — Where Warmth Remains (햇살 — 온기가 남는 자리)",
+      "description_en": "As slow sunlight brushes past the pavilion, the walls are washed in primary colors.\nA quiet photographic meditation set in Eunpyeong Hanok Village, beneath Bukhansan in Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, light moves at a walking pace. Slow sunlight crosses Yongchuljeong; deep shadows travel with it across museum walls; the village turns its quiet faces toward the mountain as the afternoon unfolds.\nOn the hill behind the Eunpyeong Hanok Museum stands Yongchuljeong, a modest pavilion facing Bukhansan. Around it the hanok village gathers tiled roofs against the ridgelines — a contemporary place built to hold an older quiet, where sunlight and shadow keep slow company.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume returns to the village beneath Bukhansan, where slow sunlight and shadow move as one.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Sunlight",
+          "scenes": [
+            {
+              "en": "Roof",
+              "kr": "용출정 지붕"
+            },
+            {
+              "en": "Spring Blossoms",
+              "kr": "용출정 봄꽃"
+            },
+            {
+              "en": "Wooden Floor",
+              "kr": "용출정 마루"
+            },
+            {
+              "en": "Earthenware Jar Stand",
+              "kr": "용출정 장독대"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Shadow",
+          "scenes": [
+            {
+              "en": "Sunlight",
+              "kr": null
+            },
+            {
+              "en": "Sunlight 2",
+              "kr": null
+            },
+            {
+              "en": "Sunlight 3",
+              "kr": null
+            },
+            {
+              "en": "Sunlight 4",
+              "kr": null
+            },
+            {
+              "en": "Sunlight 5",
+              "kr": null
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Hanok",
+          "scenes": [
+            {
+              "en": "Shadow",
+              "kr": null
+            },
+            {
+              "en": "Shadow 2",
+              "kr": null
+            },
+            {
+              "en": "Shadow 3",
+              "kr": null
+            },
+            {
+              "en": "Shadow 4",
+              "kr": null
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Evening",
+          "scenes": [
+            {
+              "en": "Observation Deck",
+              "kr": "전망대"
+            },
+            {
+              "en": "Clouds",
+              "kr": null
+            },
+            {
+              "en": "Novelist Lee Ho-chul",
+              "kr": "이호철 (소설가)"
+            },
+            {
+              "en": "Chair",
+              "kr": "의자"
+            }
+          ]
+        }
+      ],
+      "scene_count": 17,
+      "bg_places": [],
+      "ep_titles": [
+        "Sunlight",
+        "Shadow",
+        "Hanok",
+        "Evening"
+      ],
+      "keywords": [
+        "Eunpyeong Hanok Village",
+        "Yongchuljeong pavilion",
+        "Korean hanok photography",
+        "slow light and shadow",
+        "Korea travel photography",
+        "Korean photo essay HongSahn",
+        "contemplative village Korea"
+      ],
+      "pages": 110,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751114",
+        "paperback": "9791124751381",
+        "hardcover": "9791124751688"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-03-09",
+        "paperback_hardcover": "2027-04-08",
+        "phase": "Phase 3"
+      },
+      "cover": "en_cover_kpe_19.jpg"
+    },
+    {
+      "vol": "20",
+      "title_en": "Reflections Beneath the Blue Sky",
+      "title_kr": "푸른 하늘 그림자",
+      "subtitle_en": "A Photographic Meditation on the National Museum of Modern and Contemporary Art, Gwacheon",
+      "place_en": "National Museum of Modern and Contemporary Art",
+      "place_kr": "국립현대미술관",
+      "lat": 37.578833,
+      "lon": 126.980428,
+      "category": "Religion & Spirituality › New Age & Spirituality › Mindfulness",
+      "collection": "Sunlight — Where Warmth Remains (햇살 — 온기가 남는 자리)",
+      "description_en": "On a languid afternoon bathed in blue sky, even time itself becomes a shadow.\nA quiet photographic meditation set at the National Museum of Modern and Contemporary Art in Gwacheon, at the foot of the mountain near Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, architecture and sky reflect one another. Glass and stone gather the blue overhead; figures cross open plazas; a photograph taken twenty years ago surfaces again, and the present folds gently into memory.\nAt the foot of Gwacheon's mountain, the museum breathes with the landscape around it — its architecture rising and resting with the slope. Here art, building, and sky meet, and a slow afternoon becomes a quiet meditation on reflection and time.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume pauses where architecture breathes with the mountain, beneath a reflecting sky.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Sky",
+          "scenes": [
+            {
+              "en": "Afternoon",
+              "kr": null
+            },
+            {
+              "en": "Afternoon 2",
+              "kr": null
+            },
+            {
+              "en": "Leaves",
+              "kr": "잎사귀"
+            },
+            {
+              "en": "Leaves 2",
+              "kr": "잎사귀"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Shadow",
+          "scenes": [
+            {
+              "en": "Chairs",
+              "kr": "의자"
+            },
+            {
+              "en": "Chairs 2",
+              "kr": "의자"
+            },
+            {
+              "en": "Sculpture",
+              "kr": "야외 조각물"
+            },
+            {
+              "en": "Sculpture 2",
+              "kr": "야외 조각물"
+            },
+            {
+              "en": "Visitors",
+              "kr": null
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Chair",
+          "scenes": [
+            {
+              "en": "Lighting",
+              "kr": "조명"
+            },
+            {
+              "en": "Photo Exhibition Room",
+              "kr": "사진 전시실"
+            },
+            {
+              "en": "Photo Exhibition Room 2",
+              "kr": "사진 전시실"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Time",
+          "scenes": [
+            {
+              "en": "Wall Shadow",
+              "kr": "벽 그림자"
+            },
+            {
+              "en": "Five Footsteps",
+              "kr": "다섯 발자국"
+            },
+            {
+              "en": "Five Footsteps 2",
+              "kr": "다섯 발자국"
+            },
+            {
+              "en": "Shadow",
+              "kr": null
+            },
+            {
+              "en": "Shadow 2",
+              "kr": null
+            }
+          ]
+        }
+      ],
+      "scene_count": 17,
+      "bg_places": [],
+      "ep_titles": [
+        "Sky",
+        "Shadow",
+        "Chair",
+        "Time"
+      ],
+      "keywords": [
+        "MMCA Gwacheon museum",
+        "Korean modern art museum",
+        "architecture photography Korea",
+        "blue sky reflection",
+        "Korea contemplative photography",
+        "Korean photo essay HongSahn",
+        "museum landscape Korea"
+      ],
+      "pages": 110,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751121",
+        "paperback": "9791124751398",
+        "hardcover": "9791124751695"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-03-09",
+        "paperback_hardcover": "2027-04-08",
+        "phase": "Phase 3"
+      },
+      "cover": "en_cover_kpe_20.jpg"
+    },
+    {
+      "vol": "21",
+      "title_en": "Bond of Mother and Child",
+      "title_kr": "모자의 인연",
+      "subtitle_en": "A Photographic Meditation on Taegangneung Royal Tomb, Seoul",
+      "place_en": "Taegangneung Royal Tomb",
+      "place_kr": "태강릉",
+      "lat": 37.63614,
+      "lon": 127.097679,
+      "category": "History › Asia › Korea",
+      "collection": "Royal Tombs — Names That Stay in Earth (왕릉 — 이름이 머무는 곳)",
+      "description_en": "Even after five hundred years, the bond between mother and son remains unbroken.\nA quiet photographic meditation set at Taegangneung Royal Tomb, in the pine-scented hills of Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, the royal tombs keep their long silence. Pine shadows fall across stone guardians; grass bends in the wind; two burial mounds rest near one another, holding a bond that time has not loosened.\nIn the quiet hills of Gongneung-dong lie two royal tombs — Taereung and Gangneung — joined in name and memory. Though crowns have long since passed, the tie between mother and son endures here, kept in stone and pine across five centuries.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume turns to the royal tombs, where a bond of mother and son outlasts the dynasty.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Taeneung",
+          "scenes": [
+            {
+              "en": "Taeneung Tomb",
+              "kr": "태릉"
+            },
+            {
+              "en": "Children",
+              "kr": null
+            },
+            {
+              "en": "Children 2",
+              "kr": null
+            },
+            {
+              "en": "Children 3",
+              "kr": null
+            },
+            {
+              "en": "Autumn Foliage",
+              "kr": "가을 단풍"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Two Women",
+          "scenes": [
+            {
+              "en": "Taeneung Visitors",
+              "kr": "태릉 방문객"
+            },
+            {
+              "en": "Foundation Stone",
+              "kr": "주춧돌"
+            },
+            {
+              "en": "Forest Trail",
+              "kr": "숲길"
+            },
+            {
+              "en": "Visitor",
+              "kr": null
+            },
+            {
+              "en": "Two Women of Taeneung",
+              "kr": "태릉 앞 두 여인"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Forest Path",
+          "scenes": [
+            {
+              "en": "Forest Trail 2",
+              "kr": "숲길"
+            },
+            {
+              "en": "Visitor 2",
+              "kr": null
+            },
+            {
+              "en": "Visitor 3",
+              "kr": null
+            },
+            {
+              "en": "Path to Gangneung",
+              "kr": "강릉 가는 길"
+            },
+            {
+              "en": "Path to Gangneung 2",
+              "kr": "강릉 가는 길"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Gangneung",
+          "scenes": [
+            {
+              "en": "Visitor 4",
+              "kr": null
+            },
+            {
+              "en": "Gangneung Tomb",
+              "kr": "강릉"
+            },
+            {
+              "en": "Gangneung Tomb 2",
+              "kr": "강릉"
+            },
+            {
+              "en": "Foundation Stone 2",
+              "kr": "주춧돌"
+            },
+            {
+              "en": "Gangneung Visitors",
+              "kr": "강릉 방문객"
+            }
+          ]
+        }
+      ],
+      "scene_count": 20,
+      "bg_places": [],
+      "ep_titles": [
+        "Taeneung",
+        "Two Women",
+        "Forest Path",
+        "Gangneung"
+      ],
+      "keywords": [
+        "Taegangneung royal tomb",
+        "Joseon royal tomb Seoul",
+        "Korean royal tomb photography",
+        "mother and son bond",
+        "Korea history travel",
+        "Korean photo essay HongSahn",
+        "Korean UNESCO royal tomb"
+      ],
+      "pages": 110,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751138",
+        "paperback": "9791124751404",
+        "hardcover": "9791124751701"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-05-09",
+        "paperback_hardcover": "2027-06-15",
+        "phase": "Phase 4"
+      },
+      "cover": "en_cover_kpe_21.jpg"
+    },
+    {
+      "vol": "22",
+      "title_en": "Bond of Mother and Child II",
+      "title_kr": "모자의 인연 II",
+      "subtitle_en": "A Photographic Meditation on Uireung Royal Tomb, Seoul",
+      "place_en": "Uireung Royal Tomb",
+      "place_kr": "의릉",
+      "lat": 37.603871,
+      "lon": 127.057551,
+      "category": "History › Asia › Korea",
+      "collection": "Royal Tombs — Names That Stay in Earth (왕릉 — 이름이 머무는 곳)",
+      "description_en": "The mother steps forward and asks, moved by pity for the son who stood alone and left the world too soon.\nA quiet photographic meditation set at Uireung Royal Tomb in Seokgwan-dong, Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, sorrow settles softly over stone. Light moves across the burial mounds; the guardians keep their watch; a quiet harmony of grief and devotion lingers in the still, ordered ground.\nNestled in Seokgwan-dong, Uireung holds the tombs of King Gyeongjong and his queen — a place of quiet sorrow. Gyeongjong's brief and solitary reign ended early, and here the bond of mother and son finds its second telling, in a tragic, tender harmony.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume continues the tale of mother and son, in a tomb of quiet sorrow.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Woman",
+          "scenes": [
+            {
+              "en": "Woman",
+              "kr": "의릉 앞 여인"
+            },
+            {
+              "en": "Woman 2",
+              "kr": "의릉 앞 여인"
+            },
+            {
+              "en": "Stelpavilion",
+              "kr": "비각"
+            },
+            {
+              "en": "Jeongjagak",
+              "kr": "정자각"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Uireung",
+          "scenes": [
+            {
+              "en": "Visitor",
+              "kr": null
+            },
+            {
+              "en": "Jeongjagak 2",
+              "kr": "정자각"
+            },
+            {
+              "en": "Visitor 2",
+              "kr": null
+            },
+            {
+              "en": "Jeongjagak 3",
+              "kr": "정자각"
+            },
+            {
+              "en": "Uireung Beyond Jeongjagak",
+              "kr": "정자각 너머 의릉"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Visitors",
+          "scenes": [
+            {
+              "en": "Uireung Under clouds",
+              "kr": "구름 아래 의릉"
+            },
+            {
+              "en": "Apartments Beyond Uireung",
+              "kr": "의릉 너머 아파트"
+            },
+            {
+              "en": "Visitor 3",
+              "kr": null
+            },
+            {
+              "en": "Civil Official Statue",
+              "kr": "문인석"
+            },
+            {
+              "en": "Military Official Statue",
+              "kr": "무인석"
+            },
+            {
+              "en": "Visitors",
+              "kr": "방문객들"
+            },
+            {
+              "en": "Jeongjagak 4",
+              "kr": "정자각"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Sunset",
+          "scenes": [
+            {
+              "en": "Hongsalmun Under Clouds",
+              "kr": "구름 아래 홍살문"
+            },
+            {
+              "en": "Residential Area",
+              "kr": "주택가"
+            },
+            {
+              "en": "Residential Area 2",
+              "kr": "주택가"
+            },
+            {
+              "en": "Residential Area 3",
+              "kr": "주택가"
+            },
+            {
+              "en": "Hongsalmun at Sunset",
+              "kr": "홍살문 석양"
+            }
+          ]
+        }
+      ],
+      "scene_count": 21,
+      "bg_places": [],
+      "ep_titles": [
+        "Woman",
+        "Uireung",
+        "Visitors",
+        "Sunset"
+      ],
+      "keywords": [
+        "Uireung royal tomb Seoul",
+        "Joseon King Gyeongjong",
+        "Korean royal tomb photography",
+        "mother and son bond",
+        "Korea history travel",
+        "Korean photo essay HongSahn",
+        "Seokgwan-dong royal tomb"
+      ],
+      "pages": 114,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751145",
+        "paperback": "9791124751411",
+        "hardcover": "9791124751718"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-05-09",
+        "paperback_hardcover": "2027-06-15",
+        "phase": "Phase 4"
+      },
+      "cover": "en_cover_kpe_22.jpg"
+    },
+    {
+      "vol": "23",
+      "title_en": "Flowing into Dots of Rain",
+      "title_kr": "점이 되어 흐른다",
+      "subtitle_en": "A Photographic Meditation on Gyedong, Bukchon, Seoul",
+      "place_en": "Bukchon Cultural Center",
+      "place_kr": "북촌문화센터",
+      "lat": 37.579031,
+      "lon": 126.986408,
+      "category": "History › Asia › Korea",
+      "collection": "Royal Tombs — Names That Stay in Earth (왕릉 — 이름이 머무는 곳)",
+      "description_en": "Autumn rain begins to fall, and the world grows momentarily still.\nA quiet photographic meditation set in Gyedong, the old hanok neighborhood of Bukchon in Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, rain gathers and flows like silver beads. Droplets bead along tiled eaves, then slip away in threads; the narrow lanes darken and shine; the old village turns inward, flowing as dots through the autumn afternoon.\nEast of Gyeongbokgung, Gyedong lies quietly — a Bukchon neighborhood of timber and tile that has held a century of city life within its walls. In autumn rain its hanok roofs and stone lanes recover an older stillness, a place where time settles drop by drop.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume rests in a century-old hanok village, where autumn rain flows as quiet dots.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Bukchon",
+          "scenes": [
+            {
+              "en": "Gate",
+              "kr": "대문"
+            },
+            {
+              "en": "Gate 2",
+              "kr": "대문"
+            },
+            {
+              "en": "Rain Streaks",
+              "kr": "빗줄기"
+            },
+            {
+              "en": "Raindrop",
+              "kr": "빗방울"
+            },
+            {
+              "en": "Raindrop 2",
+              "kr": "빗방울"
+            },
+            {
+              "en": "Raindrop 3",
+              "kr": "빗방울"
+            },
+            {
+              "en": "Raindrop 4",
+              "kr": "빗방울"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Woman",
+          "scenes": [
+            {
+              "en": "Woman Red Umbrella",
+              "kr": "빨간 우산 여인"
+            },
+            {
+              "en": "Raindrop 5",
+              "kr": "빗방울"
+            },
+            {
+              "en": "Raindrop 6",
+              "kr": "빗방울"
+            },
+            {
+              "en": "Raindrop 7",
+              "kr": "빗방울"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Autumn Rain",
+          "scenes": [
+            {
+              "en": "Tiled Roof In Rain",
+              "kr": "기와지붕 빗소리"
+            },
+            {
+              "en": "Raindrops On Bamboo",
+              "kr": "대나무 빗방울"
+            },
+            {
+              "en": "Tiled Roof In Rain 2",
+              "kr": "기와지붕 빗소리"
+            },
+            {
+              "en": "Eave Gutter",
+              "kr": "낙숫물"
+            },
+            {
+              "en": "Ladle",
+              "kr": "바가지"
+            }
+          ]
+        }
+      ],
+      "scene_count": 16,
+      "bg_places": [],
+      "ep_titles": [
+        "Bukchon",
+        "Woman",
+        "Autumn Rain"
+      ],
+      "keywords": [
+        "Bukchon hanok village",
+        "Gyedong Seoul",
+        "Korean hanok photography",
+        "autumn rain hanok",
+        "Korea travel photography Seoul",
+        "Korean photo essay HongSahn",
+        "Korean traditional neighborhood"
+      ],
+      "pages": 106,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751152",
+        "paperback": "9791124751428",
+        "hardcover": "9791124751725"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-05-09",
+        "paperback_hardcover": "2027-06-15",
+        "phase": "Phase 4"
+      },
+      "cover": "en_cover_kpe_23.jpg"
+    },
+    {
+      "vol": "24",
+      "title_en": "Where the Echoes Went",
+      "title_kr": "함성은 어디로",
+      "subtitle_en": "A Photographic Meditation on the National Museum of Korea, Yongsan, Seoul",
+      "place_en": "Yongsan",
+      "place_kr": "용산",
+      "lat": 37.521139,
+      "lon": 126.983938,
+      "category": "Religion & Spirituality › New Age & Spirituality › Mindfulness",
+      "collection": "Parks — An Ordinary Afternoon (공원 — 평범한 오후)",
+      "description_en": "The children shout, and beneath the blue sky they hurl their untainted hearts into the world.\nA quiet photographic meditation set in Yongsan, around the National Museum of Korea in Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, echoes move across open ground. Children run and call out; their voices scatter beneath wide reflecting pools and tall stone halls; the present brims with life while history stands quietly behind it.\nIn the heart of Yongsan, the National Museum of Korea is more than a keeper of relics — its broad plazas and water mirror the city around it. Here the long past and the bright present share the same ground, and a child's shout carries where echoes once went.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume listens where the echoes went, as the present plays before the past.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Children",
+          "scenes": [
+            {
+              "en": "Children",
+              "kr": null
+            },
+            {
+              "en": "Children 2",
+              "kr": null
+            },
+            {
+              "en": "Children 3",
+              "kr": null
+            },
+            {
+              "en": "Children 4",
+              "kr": null
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Background",
+          "scenes": [
+            {
+              "en": "Children 5",
+              "kr": null
+            },
+            {
+              "en": "Children 6",
+              "kr": null
+            },
+            {
+              "en": "Children 7",
+              "kr": null
+            },
+            {
+              "en": "Children 8",
+              "kr": null
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Moment",
+          "scenes": [
+            {
+              "en": "Children 9",
+              "kr": null
+            },
+            {
+              "en": "Children 10",
+              "kr": null
+            },
+            {
+              "en": "Children 11",
+              "kr": null
+            },
+            {
+              "en": "Children 12",
+              "kr": null
+            },
+            {
+              "en": "Children 13",
+              "kr": null
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Echo",
+          "scenes": [
+            {
+              "en": "Children 14",
+              "kr": null
+            },
+            {
+              "en": "Children 15",
+              "kr": null
+            },
+            {
+              "en": "Children 16",
+              "kr": null
+            },
+            {
+              "en": "Children 17",
+              "kr": null
+            }
+          ]
+        }
+      ],
+      "scene_count": 17,
+      "bg_places": [],
+      "ep_titles": [
+        "Children",
+        "Background",
+        "Moment",
+        "Echo"
+      ],
+      "keywords": [
+        "National Museum of Korea",
+        "Yongsan Seoul",
+        "Korean museum photography",
+        "children photo essay",
+        "Korea travel photography",
+        "Korean photo essay HongSahn",
+        "history and present Korea"
+      ],
+      "pages": 112,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751169",
+        "paperback": "9791124751435",
+        "hardcover": "9791124751732"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-05-09",
+        "paperback_hardcover": "2027-06-15",
+        "phase": "Phase 4"
+      },
+      "cover": "en_cover_kpe_24.jpg"
+    },
+    {
+      "vol": "25",
+      "title_en": "A Mother's Time on the Hill",
+      "title_kr": "엄마의 시간",
+      "subtitle_en": "A Photographic Meditation on Namsan Park, Seoul",
+      "place_en": "Namsan Park",
+      "place_kr": "남산공원",
+      "lat": 37.551169,
+      "lon": 126.988227,
+      "category": "Religion & Spirituality › New Age & Spirituality › Mindfulness",
+      "collection": "Parks — An Ordinary Afternoon (공원 — 평범한 오후)",
+      "description_en": "A mother's touch lingers beside her child, and before long the child grows and leaves.\nA quiet photographic meditation set in Namsan Park, the mountain at the heart of Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, a mountain holds a mother's time. A small hand steadies a child's first steps; seasons pass along the wooded paths; the gentle slope keeps the memory of those who climbed it together and apart.\nNamsan rises gently at the center of Seoul — not the tallest peak, yet immense in presence and memory. Its paths have carried generations of families, and in their quiet turning the park becomes a place to measure a mother's time against the city's.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume climbs Seoul's mountain of memory, following a mother's quiet time.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Mother",
+          "scenes": [
+            {
+              "en": "Mom and Child",
+              "kr": "엄마와 아이"
+            },
+            {
+              "en": "Teenagers",
+              "kr": "청소년들"
+            },
+            {
+              "en": "Rearview",
+              "kr": "뒷모습"
+            },
+            {
+              "en": "Rearview 2",
+              "kr": "뒷모습"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "The World",
+          "scenes": [
+            {
+              "en": "Shadow",
+              "kr": null
+            },
+            {
+              "en": "Uphill Path",
+              "kr": "오르막길"
+            },
+            {
+              "en": "City Below the Mountain",
+              "kr": "산 아래 도시"
+            },
+            {
+              "en": "Faint Mountain Trail",
+              "kr": "희미한 산자락"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Middle Age",
+          "scenes": [
+            {
+              "en": "Autumn Foliage",
+              "kr": "남산 단풍"
+            },
+            {
+              "en": "Middleage",
+              "kr": "중년"
+            },
+            {
+              "en": "Middleage 2",
+              "kr": "중년"
+            },
+            {
+              "en": "Observatory",
+              "kr": "남산 전망대"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Namsan",
+          "scenes": [
+            {
+              "en": "Tower",
+              "kr": "남산타워"
+            },
+            {
+              "en": "Trail",
+              "kr": "남산 둘레길"
+            },
+            {
+              "en": "Parkpond",
+              "kr": "연못"
+            },
+            {
+              "en": "Parkpond 2",
+              "kr": "연못"
+            }
+          ]
+        }
+      ],
+      "scene_count": 16,
+      "bg_places": [],
+      "ep_titles": [
+        "Mother",
+        "The World",
+        "Middle Age",
+        "Namsan"
+      ],
+      "keywords": [
+        "Namsan Park Seoul",
+        "Seoul mountain photography",
+        "mother and child photo essay",
+        "Namsan walking path",
+        "Korea travel photography",
+        "Korean photo essay HongSahn",
+        "contemplative Seoul park"
+      ],
+      "pages": 110,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751176",
+        "paperback": "9791124751442",
+        "hardcover": "9791124751749"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-05-09",
+        "paperback_hardcover": "2027-06-15",
+        "phase": "Phase 4"
+      },
+      "cover": "en_cover_kpe_25.jpg"
+    },
+    {
+      "vol": "26",
+      "title_en": "Time Coming and Going",
+      "title_kr": "가고 오는 시간",
+      "subtitle_en": "A Photographic Meditation on Haneul (Sky) Park, Seoul",
+      "place_en": "Haneul Park",
+      "place_kr": "하늘공원",
+      "lat": 37.567453,
+      "lon": 126.885478,
+      "category": "Religion & Spirituality › New Age & Spirituality › Mindfulness",
+      "collection": "Parks — An Ordinary Afternoon (공원 — 평범한 오후)",
+      "description_en": "When the blue sky settles over the wide fields, even adults walk with a child's fluttering heart.\nA quiet photographic meditation set in Haneul (Sky) Park, on the heights above the Han River in Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, time comes and goes across open grass. Silver eulalia waves in the wind; bright laughter drifts over the fields; the wide sky settles low, and the day moves with the lightness of children at play.\nSky Park rises where Nanjido once held a vast landfill — land reclaimed and reborn as meadow for the 2002 World Cup. Now grass and wind have erased the old scars, and the high field becomes a place where time, coming and going, is felt as open air.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume rises to a sky-high meadow, where time keeps coming and going on the wind.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Haneul Park",
+          "scenes": [
+            {
+              "en": "Children",
+              "kr": null
+            },
+            {
+              "en": "Visitors",
+              "kr": "관람객"
+            },
+            {
+              "en": "Two Women",
+              "kr": "두 여인"
+            },
+            {
+              "en": "Two Women 2",
+              "kr": "두 여인"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Silver Grass",
+          "scenes": [
+            {
+              "en": "Silver Grass",
+              "kr": "억새"
+            },
+            {
+              "en": "Cheering",
+              "kr": "환호"
+            },
+            {
+              "en": "Taking Photos",
+              "kr": "촬영"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Sunset",
+          "scenes": [
+            {
+              "en": "Couple with Parasol",
+              "kr": "양산 쓴 연인"
+            },
+            {
+              "en": "Couple with Parasol 2",
+              "kr": "양산 쓴 연인"
+            },
+            {
+              "en": "Visitors 2",
+              "kr": "방문객들"
+            },
+            {
+              "en": "Visitors 3",
+              "kr": "방문객들"
+            },
+            {
+              "en": "Tree Shade",
+              "kr": "나무 그늘"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Observatory",
+          "scenes": [
+            {
+              "en": "Taking Photos 2",
+              "kr": "촬영"
+            },
+            {
+              "en": "Taking Photos 3",
+              "kr": "촬영"
+            },
+            {
+              "en": "Park Observatory",
+              "kr": "전망대"
+            }
+          ]
+        }
+      ],
+      "scene_count": 15,
+      "bg_places": [],
+      "ep_titles": [
+        "Haneul Park",
+        "Silver Grass",
+        "Sunset",
+        "Observatory"
+      ],
+      "keywords": [
+        "Haneul Sky Park Seoul",
+        "Nanjido eulalia field",
+        "Korean park photography",
+        "World Cup Park Seoul",
+        "Korea autumn travel",
+        "Korean photo essay HongSahn",
+        "reclaimed landscape Korea"
+      ],
+      "pages": 106,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751183",
+        "paperback": "9791124751459",
+        "hardcover": "9791124751756"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-05-09",
+        "paperback_hardcover": "2027-06-15",
+        "phase": "Phase 4"
+      },
+      "cover": "en_cover_kpe_26.jpg"
+    },
+    {
+      "vol": "27",
+      "title_en": "Flowing Maple Leaves",
+      "title_kr": "흐르는 단풍",
+      "subtitle_en": "A Photographic Meditation on Daeseomun and Bukhansanseong Fortress, Seoul",
+      "place_en": "Daeseomun Gate",
+      "place_kr": "대서문",
+      "lat": 37.646956,
+      "lon": 126.973242,
+      "category": "History › Asia › Korea",
+      "collection": "Autumn Leaves — When Light Turns Quiet (단풍 — 빛이 고요해질 때)",
+      "description_en": "When autumn dyes the slopes of Bukhansan, everyone climbing the path becomes a familiar companion.\nA quiet photographic meditation set at Daeseomun, the Great Western Gate of Bukhansanseong Fortress near Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, maple leaves flow down the mountain. Color gathers along the fortress walls; climbers pass the old gate in clear autumn light; strangers nod like companions, carried together by the season.\nDaeseomun, the Great Western Gate, is the main entrance to Bukhansanseong Fortress — a stone threshold where the mountain's history meets its walkers. In autumn the slopes turn many-hued, and the gate stands quietly as the leaves and the people flow through.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume climbs to a fortress gate, where autumn leaves flow and strangers walk as companions.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Autumn Leave",
+          "scenes": [
+            {
+              "en": "Bukhansan Autumn Foliage",
+              "kr": "북한산 단풍"
+            },
+            {
+              "en": "Daeseomun Autumn Foliage",
+              "kr": "대서문 단풍"
+            },
+            {
+              "en": "Hikers",
+              "kr": "등산객들"
+            },
+            {
+              "en": "Vines Under Sunlight",
+              "kr": "햇살 아래 덩굴"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Rocks",
+          "scenes": [
+            {
+              "en": "Rocks Under Autumn Leaves",
+              "kr": "단풍 아래 바위"
+            },
+            {
+              "en": "Rocks Under Autumn Leaves 2",
+              "kr": "단풍 아래 바위"
+            },
+            {
+              "en": "Dog at Daeseomun Gate",
+              "kr": "개"
+            },
+            {
+              "en": "Autumn Leaves Beyond Eaves",
+              "kr": "처마 너머 단풍"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Sunlight",
+          "scenes": [
+            {
+              "en": "Autumn Leaves Beyond Eaves 2",
+              "kr": "처마 너머 단풍"
+            },
+            {
+              "en": "Autumn Leaves Beyond Eaves 3",
+              "kr": "처마 너머 단풍"
+            },
+            {
+              "en": "Gate Pavilion",
+              "kr": "문루"
+            },
+            {
+              "en": "Gate Railing",
+              "kr": "난간"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Returning Home",
+          "scenes": [
+            {
+              "en": "Hiker",
+              "kr": "등산객들"
+            },
+            {
+              "en": "Dog at Daeseomun Gate 2",
+              "kr": "개"
+            },
+            {
+              "en": "Flowing Autumn Colors",
+              "kr": "흐르는 단풍"
+            },
+            {
+              "en": "Flowing Autumn Colors 2",
+              "kr": "흐르는 단풍"
+            }
+          ]
+        }
+      ],
+      "scene_count": 16,
+      "bg_places": [],
+      "ep_titles": [
+        "Autumn Leave",
+        "Rocks",
+        "Sunlight",
+        "Returning Home"
+      ],
+      "keywords": [
+        "Daeseomun gate Bukhansan",
+        "Bukhansanseong fortress",
+        "Korean fortress photography",
+        "autumn maple Bukhansan",
+        "Korea hiking travel photography",
+        "Korean photo essay HongSahn",
+        "Korean mountain fortress"
+      ],
+      "pages": 110,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751190",
+        "paperback": "9791124751466",
+        "hardcover": "9791124751763"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-05-09",
+        "paperback_hardcover": "2027-06-15",
+        "phase": "Phase 4"
+      },
+      "cover": "en_cover_kpe_27.jpg"
+    },
+    {
+      "vol": "28",
+      "title_en": "Time Going Again",
+      "title_kr": "다시 가는 시간",
+      "subtitle_en": "A Photographic Meditation on Gijachon Village, Seoul",
+      "place_en": "Gijachon Village III",
+      "place_kr": "기자촌 III",
+      "lat": 37.634227,
+      "lon": 126.933479,
+      "category": "Religion & Spirituality › New Age & Spirituality › Mindfulness",
+      "collection": "Autumn Leaves — When Light Turns Quiet (단풍 — 빛이 고요해질 때)",
+      "description_en": "Under the late sunlight, shadows stretch long, and the last house of Gijachon hides among the trees.\nA quiet photographic meditation set in Gijachon, beneath Bukhansan in Jingwan-dong, Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, the village fades into evening light. Long shadows reach across empty lots; a lone figure walks beneath the trees; the last remaining house keeps its quiet among the leaves, holding the memory of all that has gone.\nTucked into Jingwan-dong, Gijachon was Korea's first residential community for journalists — a village that once knew how to record. Now it is going again, house by house, and in the late sunlight it offers a final, tender portrait of a place returning to the earth.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume returns once more to Gijachon, where time is going again beneath the trees.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Shadow",
+          "scenes": [
+            {
+              "en": "Shadow",
+              "kr": null
+            },
+            {
+              "en": "Last House",
+              "kr": "마지막 집"
+            },
+            {
+              "en": "Path",
+              "kr": null
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Walk",
+          "scenes": [
+            {
+              "en": "Walk",
+              "kr": "산책"
+            },
+            {
+              "en": "Construction Site",
+              "kr": "공사장"
+            },
+            {
+              "en": "Car Window Shadow",
+              "kr": "차창 그림자"
+            },
+            {
+              "en": "Autumn Leaves",
+              "kr": null
+            },
+            {
+              "en": "Autumn Leaves 2",
+              "kr": null
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Rock",
+          "scenes": [
+            {
+              "en": "Rock",
+              "kr": "바위"
+            },
+            {
+              "en": "Last Leaf",
+              "kr": "마지막 잎새"
+            },
+            {
+              "en": "Path 2",
+              "kr": null
+            },
+            {
+              "en": "Autumn Sunset",
+              "kr": "가을 석양"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Returning Home",
+          "scenes": [
+            {
+              "en": "Returning Home",
+              "kr": "귀가"
+            },
+            {
+              "en": "Crane",
+              "kr": "크레인"
+            },
+            {
+              "en": "Crane 2",
+              "kr": "크레인"
+            }
+          ]
+        }
+      ],
+      "scene_count": 15,
+      "bg_places": [],
+      "ep_titles": [
+        "Shadow",
+        "Walk",
+        "Rock",
+        "Returning Home"
+      ],
+      "keywords": [
+        "Gijachon village Seoul",
+        "vanishing village Bukhansan",
+        "Korean village photography",
+        "late sunlight memory",
+        "Korea contemplative photography",
+        "Korean photo essay HongSahn",
+        "journalists village Korea"
+      ],
+      "pages": 110,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751206",
+        "paperback": "9791124751473",
+        "hardcover": "9791124751770"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-05-09",
+        "paperback_hardcover": "2027-06-15",
+        "phase": "Phase 4"
+      },
+      "cover": "en_cover_kpe_28.jpg"
+    },
+    {
+      "vol": "29",
+      "title_en": "Climbing the Valley",
+      "title_kr": "계곡을 오르다",
+      "subtitle_en": "A Photographic Meditation on Geumseonsa Temple, Seoul",
+      "place_en": "Geumseonsa Temple",
+      "place_kr": "금선사",
+      "lat": 37.620578,
+      "lon": 126.953379,
+      "category": "Religion & Spirituality › Buddhism › Zen / Chan",
+      "collection": "Autumn Leaves — When Light Turns Quiet (단풍 — 빛이 고요해질 때)",
+      "description_en": "Leaving the city behind, I walk up the valley, and the sound of flowing water lightens each step.\nA quiet photographic meditation set at Geumseonsa, high on the slopes of Bukhansan in Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, the mountain breathes. Water falls away down the valley while pilgrims climb; pine scent thickens; a small temple appears where concrete fades into stone, and each step grows lighter as the city sinks below.\nHigh above the layered streets of Seoul, where concrete gives way to pine, Geumseonsa keeps the mountain's quiet. Reached only by climbing, it rewards the slow walker with stillness — a place where ascending the valley becomes its own kind of prayer.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume climbs the valley to a mountain temple, where the slope itself breathes.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Valley",
+          "scenes": [
+            {
+              "en": "Bukhansan",
+              "kr": "북한산"
+            },
+            {
+              "en": "Hiking Trail",
+              "kr": "등산로"
+            },
+            {
+              "en": "Signpost",
+              "kr": "이정표"
+            },
+            {
+              "en": "Mokjeong Cave",
+              "kr": "목정굴"
+            },
+            {
+              "en": "Valley Stream",
+              "kr": "계곡물"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Rock",
+          "scenes": [
+            {
+              "en": "Water Stream",
+              "kr": "물줄기"
+            },
+            {
+              "en": "Practitioner",
+              "kr": "수행자"
+            },
+            {
+              "en": "Practitioners",
+              "kr": "수행자들"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "People",
+          "scenes": [
+            {
+              "en": "Seoul Sky",
+              "kr": "서울 하늘"
+            },
+            {
+              "en": "Late Sunlight",
+              "kr": "늦은 햇살"
+            },
+            {
+              "en": "Shoes",
+              "kr": "신발들"
+            },
+            {
+              "en": "Autumn Leaves on Roof",
+              "kr": "지붕 위 낙엽"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Sky",
+          "scenes": [
+            {
+              "en": "Ascending Path",
+              "kr": "오르는 길"
+            },
+            {
+              "en": "Young Pine",
+              "kr": "어린 소나무"
+            },
+            {
+              "en": "Old Padlock",
+              "kr": "낡은 자물통"
+            }
+          ]
+        }
+      ],
+      "scene_count": 15,
+      "bg_places": [],
+      "ep_titles": [
+        "Valley",
+        "Rock",
+        "People",
+        "Sky"
+      ],
+      "keywords": [
+        "Geumseonsa temple Bukhansan",
+        "mountain temple Seoul",
+        "Korean Buddhist temple",
+        "valley climbing meditation",
+        "Korea hiking temple",
+        "Korean photo essay HongSahn",
+        "pine mountain temple"
+      ],
+      "pages": 114,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751213",
+        "paperback": "9791124751480",
+        "hardcover": "9791124751787"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-05-09",
+        "paperback_hardcover": "2027-06-15",
+        "phase": "Phase 4"
+      },
+      "cover": "en_cover_kpe_29.jpg"
+    },
+    {
+      "vol": "30",
+      "title_en": "Pond Beneath Autumn Leaves",
+      "title_kr": "단풍 아래 연못",
+      "subtitle_en": "A Photographic Meditation on Chundangji, Changgyeonggung Palace, Seoul",
+      "place_en": "Changgyeonggung Palace II",
+      "place_kr": "창경궁 II",
+      "lat": 37.578815,
+      "lon": 126.99493,
+      "category": "History › Asia › Korea",
+      "collection": "Autumn Leaves — When Light Turns Quiet (단풍 — 빛이 고요해질 때)",
+      "description_en": "When flowers fall and summer passes, autumn leaves arrive, and even the palace pond deepens into fall.\nA quiet photographic meditation set at Chundangji Pond in Changgyeonggung Palace, in the heart of Seoul. This is not a guide to Korea. It is a way of feeling it.\nThrough HongSahn's lens, a pond remembers the year. Leaves drift onto still water; reflections darken and glow; the old halls stand mirrored in the deepening surface as autumn settles over Chundangji.\nDeep within Changgyeonggung Palace, Chundangji lies like a pond that remembers — once royal rice fields, later a still water garden. As the seasons turn, its surface gathers blossom and leaf alike, holding the palace's long autumns in quiet reflection.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nThis volume closes Season I at a palace pond, where autumn leaves rest on water that remembers.",
+      "episodes": [
+        {
+          "no": 1,
+          "title": "Autumn Leaves",
+          "scenes": [
+            {
+              "en": "Autumn Foliage",
+              "kr": "가을 단풍"
+            },
+            {
+              "en": "Woman in Autumn",
+              "kr": "가을 여인"
+            },
+            {
+              "en": "Woman in Autumn 2",
+              "kr": "가을 여인"
+            },
+            {
+              "en": "Maple Leaf Women",
+              "kr": "단풍 여인들"
+            },
+            {
+              "en": "Autumn Waves",
+              "kr": "가을 물결"
+            }
+          ]
+        },
+        {
+          "no": 2,
+          "title": "Woman",
+          "scenes": [
+            {
+              "en": "Autumn Waves 2",
+              "kr": "가을 물결"
+            },
+            {
+              "en": "Woman in Autumn 3",
+              "kr": "가을 여인"
+            },
+            {
+              "en": "Maple Leaf Women 2",
+              "kr": "단풍 여인들"
+            },
+            {
+              "en": "Autumn Waves 3",
+              "kr": "가을 물결"
+            }
+          ]
+        },
+        {
+          "no": 3,
+          "title": "Pond",
+          "scenes": [
+            {
+              "en": "Autumn Waves 4",
+              "kr": "가을 물결"
+            },
+            {
+              "en": "Woman in Autumn 4",
+              "kr": "가을 여인"
+            },
+            {
+              "en": "Lovers",
+              "kr": null
+            },
+            {
+              "en": "Teenagers",
+              "kr": "청소년들"
+            },
+            {
+              "en": "People Flowing By",
+              "kr": "흘러가는 사람들"
+            }
+          ]
+        },
+        {
+          "no": 4,
+          "title": "Guest",
+          "scenes": [
+            {
+              "en": "Guests",
+              "kr": "손님"
+            },
+            {
+              "en": "Guests 2",
+              "kr": "손님"
+            },
+            {
+              "en": "Guests 3",
+              "kr": "손님"
+            },
+            {
+              "en": "Guests 4",
+              "kr": "손님"
+            },
+            {
+              "en": "Guests 5",
+              "kr": "손님"
+            }
+          ]
+        }
+      ],
+      "scene_count": 19,
+      "bg_places": [],
+      "ep_titles": [
+        "Autumn Leaves",
+        "Woman",
+        "Pond",
+        "Guest"
+      ],
+      "keywords": [
+        "Changgyeonggung Chundangji pond",
+        "Joseon palace autumn",
+        "Korean palace photography",
+        "autumn leaves pond",
+        "Korea travel photography",
+        "Korean photo essay HongSahn",
+        "Korean cultural heritage"
+      ],
+      "pages": 114,
+      "format": "6×9in (152.4×228.6mm) / 프리미엄 컬러",
+      "publisher": "홍산미디어",
+      "isbn": {
+        "kindle": "9791124751220",
+        "paperback": "9791124751497",
+        "hardcover": "9791124751794"
+      },
+      "price": {
+        "kindle": "5.99 USD",
+        "paperback": "21.99 USD",
+        "hardcover": "32.99 USD"
+      },
+      "pubdate": {
+        "kindle": "2027-05-09",
+        "paperback_hardcover": "2027-06-15",
+        "phase": "Phase 4"
+      },
+      "cover": "en_cover_kpe_30.jpg"
+    }
+  ],
+  "collections": [
+    {
+      "col": "I",
+      "col_no": 1,
+      "title_en": "Palaces — Where Time Rests",
+      "title_kr": "궁궐 — 시간이 머무는 곳",
+      "subtitle_en": "Korean Photo Essay Collection I",
+      "included": "01, 02, 03",
+      "vol_count": 3,
+      "description_en": "Three palaces of the Joseon dynasty, gathered as one meditation on stillness. From the Secret Garden of Changdeokgung — in autumn light and in autumn rain — to the flowing courtyards of Gyeongbokgung, this collection lingers where royal time slows and rests.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nIncludes: Vol.01 Beyond the Palace: The Secret Garden, Vol.02 Rainfall in the Secret Garden, Vol.03 Flowing Time",
+      "keywords": [
+        "Korean palace photography",
+        "Changdeokgung Gyeongbokgung",
+        "Joseon palace collection",
+        "Korea travel photography",
+        "contemplative photo essay collection"
+      ],
+      "pages": 306,
+      "publisher": "홍산미디어",
+      "isbn": {
+        "paperback": "9791124751800",
+        "hardcover": "9791124751909"
+      },
+      "price": {
+        "kindle": "9.99 USD",
+        "paperback": "54.99 USD",
+        "hardcover": "79.99 USD"
+      },
+      "savings": "K 41%↓",
+      "pubdate": {
+        "kindle_paperback": "2026-12-10",
+        "hardcover": "2027-07-19"
+      },
+      "cover": "en_cover_kpe_101.jpg",
+      "global_id": "KPE-COL01"
+    },
+    {
+      "col": "II",
+      "col_no": 2,
+      "title_en": "Snow — Silence After Footsteps",
+      "title_kr": "설경 — 발자국 이후의 침묵",
+      "subtitle_en": "Korean Photo Essay Collection II",
+      "included": "04, 05, 06",
+      "vol_count": 3,
+      "description_en": "When the first snow falls beneath Bukhansan, the villages grow still. Across the hanok roofs of Eunpyeong, the snow-covered hill of Yongchuljeong, and the quiet path through Gijachon, this collection follows winter into silence.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nIncludes: Vol.04 Snow Falls on the Village, Vol.05 Hill of Snow Blossoms, Vol.06 Snow Path Beneath the Hill",
+      "keywords": [
+        "Korean winter photography",
+        "hanok village snow",
+        "Bukhansan winter Seoul",
+        "first snow Korea",
+        "contemplative photo essay collection"
+      ],
+      "pages": 292,
+      "publisher": "홍산미디어",
+      "isbn": {
+        "paperback": "9791124751817",
+        "hardcover": "9791124751916"
+      },
+      "price": {
+        "kindle": "9.99 USD",
+        "paperback": "54.99 USD",
+        "hardcover": "79.99 USD"
+      },
+      "savings": "K 44%↓",
+      "pubdate": {
+        "kindle_paperback": "2027-02-10",
+        "hardcover": "2027-07-19"
+      },
+      "cover": "en_cover_kpe_102.jpg",
+      "global_id": "KPE-COL02"
+    },
+    {
+      "col": "III",
+      "col_no": 3,
+      "title_en": "Time — Moments That Overlap",
+      "title_kr": "시간 — 겹쳐지는 순간",
+      "subtitle_en": "Korean Photo Essay Collection III",
+      "included": "07, 08, 09",
+      "vol_count": 3,
+      "description_en": "In vanishing villages beneath Bukhansan, past and present dwell together. Through Gijachon's returning autumns, the living and the dead of Sangnim, and the layered memory of Jegakmal, this collection holds moments that overlap in time.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nIncludes: Vol.07 Where Flowers Come and Go, Vol.08 The Living and the Dead, Vol.09 Memories of Those Who Left",
+      "keywords": [
+        "vanishing village Korea",
+        "Korean village memory",
+        "Bukhansan Jingwan-dong",
+        "life and death photo essay",
+        "contemplative photo essay collection"
+      ],
+      "pages": 304,
+      "publisher": "홍산미디어",
+      "isbn": {
+        "paperback": "9791124751824",
+        "hardcover": "9791124751923"
+      },
+      "price": {
+        "kindle": "9.99 USD",
+        "paperback": "54.99 USD",
+        "hardcover": "79.99 USD"
+      },
+      "savings": "K 44%↓",
+      "pubdate": {
+        "kindle_paperback": "2027-02-10",
+        "hardcover": "2027-07-19"
+      },
+      "cover": "en_cover_kpe_103.jpg",
+      "global_id": "KPE-COL03"
+    },
+    {
+      "col": "IV",
+      "col_no": 4,
+      "title_en": "Walks — Between Leaving and Returning",
+      "title_kr": "산책 — 떠남과 돌아옴 사이",
+      "subtitle_en": "Korean Photo Essay Collection IV",
+      "included": "10, 11, 12",
+      "vol_count": 3,
+      "description_en": "To walk is to move between leaving and returning. Along Gongneung Stream, through the fading alleys of Bulgwang, and up the slow road toward Bulgwangsa, this collection follows the quiet rhythm of footsteps.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nIncludes: Vol.10 Beyond the Forest Railway, Vol.11 Those Who Pass Without Notice, Vol.12 Steps Moving Slowly",
+      "keywords": [
+        "walking meditation Korea",
+        "Korean stream alley photography",
+        "Bulgwang Bukhansan",
+        "contemplative walk photo essay",
+        "photo essay collection"
+      ],
+      "pages": 300,
+      "publisher": "홍산미디어",
+      "isbn": {
+        "paperback": "9791124751831",
+        "hardcover": "9791124751930"
+      },
+      "price": {
+        "kindle": "9.99 USD",
+        "paperback": "54.99 USD",
+        "hardcover": "79.99 USD"
+      },
+      "savings": "K 44%↓",
+      "pubdate": {
+        "kindle_paperback": "2027-04-08",
+        "hardcover": "2027-07-19"
+      },
+      "cover": "en_cover_kpe_104.jpg",
+      "global_id": "KPE-COL04"
+    },
+    {
+      "col": "V",
+      "col_no": 5,
+      "title_en": "Temples — The Shape of Stillness",
+      "title_kr": "절집 — 비움의 자리",
+      "subtitle_en": "Korean Photo Essay Collection V",
+      "included": "13, 14, 15",
+      "vol_count": 3,
+      "description_en": "Deep in the folds of Bukhansan, three temples keep the shape of stillness. From the spring lanterns of Jingwansa to the emptied seat of Samhwasa and the stone Buddha of Samcheonsa, this collection rests where silence takes form.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nIncludes: Vol.13 Lanterns Beneath Spring Blossoms, Vol.14 The Seat the Monk Left Behind, Vol.15 Buddha Beyond the Wind Chime",
+      "keywords": [
+        "Korean Buddhist temple",
+        "Bukhansan temple photography",
+        "Zen stillness photo essay",
+        "Jingwansa Samhwasa Samcheonsa",
+        "temple photo essay collection"
+      ],
+      "pages": 278,
+      "publisher": "홍산미디어",
+      "isbn": {
+        "paperback": "9791124751848",
+        "hardcover": "9791124751947"
+      },
+      "price": {
+        "kindle": "9.99 USD",
+        "paperback": "54.99 USD",
+        "hardcover": "79.99 USD"
+      },
+      "savings": "K 44%↓",
+      "pubdate": {
+        "kindle_paperback": "2027-04-08",
+        "hardcover": "2027-07-19"
+      },
+      "cover": "en_cover_kpe_105.jpg",
+      "global_id": "KPE-COL05"
+    },
+    {
+      "col": "VI",
+      "col_no": 6,
+      "title_en": "Palaces II — Echoes in Seasonal Light",
+      "title_kr": "궁궐 II — 계절빛의 울림",
+      "subtitle_en": "Korean Photo Essay Collection VI",
+      "included": "16, 17",
+      "vol_count": 2,
+      "description_en": "Two more palaces answer the turning seasons. In the spring shadows of Changgyeonggung and the spring-and-autumn crowds of Deoksugung, this collection listens to the echoes of light moving through old walls.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nIncludes: Vol.16 Shadows Beneath Sunlight, Vol.17 People of Spring and Autumn",
+      "keywords": [
+        "Korean palace photography",
+        "Changgyeonggung Deoksugung",
+        "Joseon palace collection",
+        "spring palace Seoul",
+        "photo essay collection"
+      ],
+      "pages": 204,
+      "publisher": "홍산미디어",
+      "isbn": {
+        "paperback": "9791124751855",
+        "hardcover": "9791124751954"
+      },
+      "price": {
+        "kindle": "8.99 USD",
+        "paperback": "36.99 USD",
+        "hardcover": "54.99 USD"
+      },
+      "savings": "K 25%↓",
+      "pubdate": {
+        "kindle_paperback": "2027-04-08",
+        "hardcover": "2027-07-19"
+      },
+      "cover": "en_cover_kpe_106.jpg",
+      "global_id": "KPE-COL06"
+    },
+    {
+      "col": "VII",
+      "col_no": 7,
+      "title_en": "Sunlight — Where Warmth Remains",
+      "title_kr": "햇살 — 온기가 남는 자리",
+      "subtitle_en": "Korean Photo Essay Collection VII",
+      "included": "18, 19, 20",
+      "vol_count": 3,
+      "description_en": "Slow sunlight settles where warmth remains. On the river island of Seonyudo, across the hanok village of Eunpyeong, and over the reflecting halls of the art museum, this collection follows light as it lingers.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nIncludes: Vol.18 Where Immortals Once Played, Vol.19 Slow Sunlight and Shadows, Vol.20 Reflections Beneath the Blue Sky",
+      "keywords": [
+        "slow light photo essay",
+        "Seonyudo Eunpyeong MMCA",
+        "Korean landscape photography",
+        "contemplative light Korea",
+        "photo essay collection"
+      ],
+      "pages": 298,
+      "publisher": "홍산미디어",
+      "isbn": {
+        "paperback": "9791124751862",
+        "hardcover": "9791124751961"
+      },
+      "price": {
+        "kindle": "9.99 USD",
+        "paperback": "54.99 USD",
+        "hardcover": "79.99 USD"
+      },
+      "savings": "K 44%↓",
+      "pubdate": {
+        "kindle_paperback": "2027-04-08",
+        "hardcover": "2027-07-19"
+      },
+      "cover": "en_cover_kpe_107.jpg",
+      "global_id": "KPE-COL07"
+    },
+    {
+      "col": "VIII",
+      "col_no": 8,
+      "title_en": "Royal Tombs — Names That Stay in Earth",
+      "title_kr": "왕릉 — 이름이 머무는 곳",
+      "subtitle_en": "Korean Photo Essay Collection VIII",
+      "included": "21, 22, 23",
+      "vol_count": 3,
+      "description_en": "Where the dynasty's names rest in earth, memory endures. Through the mother-and-child bond of Taegangneung and Uireung and the autumn rain of old Bukchon, this collection holds the names that time keeps.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nIncludes: Vol.21 Bond of Mother and Child, Vol.22 Bond of Mother and Child II, Vol.23 Flowing into Dots of Rain",
+      "keywords": [
+        "Joseon royal tomb",
+        "Taegangneung Uireung",
+        "Korean history photography",
+        "Bukchon hanok",
+        "photo essay collection"
+      ],
+      "pages": 294,
+      "publisher": "홍산미디어",
+      "isbn": {
+        "paperback": "9791124751879",
+        "hardcover": "9791124751978"
+      },
+      "price": {
+        "kindle": "9.99 USD",
+        "paperback": "54.99 USD",
+        "hardcover": "79.99 USD"
+      },
+      "savings": "K 44%↓",
+      "pubdate": {
+        "kindle_paperback": "2027-06-15",
+        "hardcover": "2027-07-19"
+      },
+      "cover": "en_cover_kpe_108.jpg",
+      "global_id": "KPE-COL08"
+    },
+    {
+      "col": "IX",
+      "col_no": 9,
+      "title_en": "Parks — An Ordinary Afternoon",
+      "title_kr": "공원 — 평범한 오후",
+      "subtitle_en": "Korean Photo Essay Collection IX",
+      "included": "24, 25, 26",
+      "vol_count": 3,
+      "description_en": "An ordinary afternoon unfolds across the city's open ground. Around the museum plazas of Yongsan, along the paths of Namsan, and over the high meadow of Haneul Park, this collection gathers the lightness of shared time.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nIncludes: Vol.24 Where the Echoes Went, Vol.25 A Mother's Time on the Hill, Vol.26 Time Coming and Going",
+      "keywords": [
+        "Seoul park photography",
+        "Namsan Haneul Park",
+        "Korean urban landscape",
+        "ordinary afternoon photo essay",
+        "photo essay collection"
+      ],
+      "pages": 292,
+      "publisher": "홍산미디어",
+      "isbn": {
+        "paperback": "9791124751886",
+        "hardcover": "9791124751985"
+      },
+      "price": {
+        "kindle": "9.99 USD",
+        "paperback": "54.99 USD",
+        "hardcover": "79.99 USD"
+      },
+      "savings": "K 44%↓",
+      "pubdate": {
+        "kindle_paperback": "2027-06-15",
+        "hardcover": "2027-07-19"
+      },
+      "cover": "en_cover_kpe_109.jpg",
+      "global_id": "KPE-COL09"
+    },
+    {
+      "col": "X",
+      "col_no": 10,
+      "title_en": "Autumn Leaves — When Light Turns Quiet",
+      "title_kr": "단풍 — 빛이 고요해질 때",
+      "subtitle_en": "Korean Photo Essay Collection X",
+      "included": "27, 28, 29, 30",
+      "vol_count": 4,
+      "description_en": "As autumn deepens, the light turns quiet. From the fortress gate of Daeseomun and the last house of Gijachon to the mountain temple of Geumseonsa and the pond of Changgyeonggung, this collection closes Season I where the leaves come to rest.\nThe Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.\n“This is not a guide to Korea. It is a way of feeling it.”\nIncludes: Vol.27 Flowing Maple Leaves, Vol.28 Time Going Again, Vol.29 Climbing the Valley, Vol.30 Pond Beneath Autumn Leaves",
+      "keywords": [
+        "Korean autumn photography",
+        "Daeseomun Geumseonsa Changgyeonggung",
+        "autumn leaves Korea",
+        "Season finale photo essay",
+        "photo essay collection"
+      ],
+      "pages": 394,
+      "publisher": "홍산미디어",
+      "isbn": {
+        "paperback": "9791124751893",
+        "hardcover": "9791124751992"
+      },
+      "price": {
+        "kindle": "9.99 USD",
+        "paperback": "72.99 USD",
+        "hardcover": "104.99 USD"
+      },
+      "savings": "K 58%↓",
+      "pubdate": {
+        "kindle_paperback": "2027-06-15",
+        "hardcover": "2027-07-19"
+      },
+      "cover": "en_cover_kpe_110.jpg",
+      "global_id": "KPE-COL10"
+    }
+  ]
+}
