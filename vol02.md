@@ -42,5 +42,6 @@ This volume continues the Secret Garden sequence — the same place, seen throug
 | **ISBN** | Kindle 9791199339781 · PB 9791199339750 · HC 9791124751510 |
 | **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
 | **Cover** | `en_cover_kpe_02.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Changdeokgung Secret Garden rain · autumn rain Korean garden · Secret Garden Huwon Seoul · contemplative palace photo book · Korea rainy season photography · Korean photo essay HongSahn · UNESCO Joseon palace Seoul

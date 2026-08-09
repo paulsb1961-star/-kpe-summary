@@ -24,5 +24,6 @@ Includes: Vol.24 Where the Echoes Went, Vol.25 A Mother's Time on the Hill, Vol.
 | **Price** | Kindle 9.99 USD · Paperback 54.99 USD · Hardcover 79.99 USD |
 | **Value** | K 44%↓ vs. individual volumes |
 | **Cover** | `en_cover_kpe_109.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Seoul park photography · Namsan Haneul Park · Korean urban landscape · ordinary afternoon photo essay · photo essay collection

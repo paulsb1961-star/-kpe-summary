@@ -24,5 +24,6 @@ Includes: Vol.13 Lanterns Beneath Spring Blossoms, Vol.14 The Seat the Monk Left
 | **Price** | Kindle 9.99 USD · Paperback 54.99 USD · Hardcover 79.99 USD |
 | **Value** | K 44%↓ vs. individual volumes |
 | **Cover** | `en_cover_kpe_105.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Korean Buddhist temple · Bukhansan temple photography · Zen stillness photo essay · Jingwansa Samhwasa Samcheonsa · temple photo essay collection

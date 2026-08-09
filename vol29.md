@@ -42,5 +42,6 @@ This volume climbs the valley to a mountain temple, where the slope itself breat
 | **ISBN** | Kindle 9791124751213 · PB 9791124751480 · HC 9791124751787 |
 | **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
 | **Cover** | `en_cover_kpe_29.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Geumseonsa temple Bukhansan · mountain temple Seoul · Korean Buddhist temple · valley climbing meditation · Korea hiking temple · Korean photo essay HongSahn · pine mountain temple

@@ -42,5 +42,6 @@ This volume continues the tale of mother and son, in a tomb of quiet sorrow.
 | **ISBN** | Kindle 9791124751145 · PB 9791124751411 · HC 9791124751718 |
 | **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
 | **Cover** | `en_cover_kpe_22.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Uireung royal tomb Seoul · Joseon King Gyeongjong · Korean royal tomb photography · mother and son bond · Korea history travel · Korean photo essay HongSahn · Seokgwan-dong royal tomb

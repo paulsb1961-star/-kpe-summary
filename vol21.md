@@ -42,5 +42,6 @@ This volume turns to the royal tombs, where a bond of mother and son outlasts th
 | **ISBN** | Kindle 9791124751138 · PB 9791124751404 · HC 9791124751701 |
 | **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
 | **Cover** | `en_cover_kpe_21.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Taegangneung royal tomb · Joseon royal tomb Seoul · Korean royal tomb photography · mother and son bond · Korea history travel · Korean photo essay HongSahn · Korean UNESCO royal tomb

@@ -24,5 +24,6 @@ Includes: Vol.27 Flowing Maple Leaves, Vol.28 Time Going Again, Vol.29 Climbing 
 | **Price** | Kindle 9.99 USD · Paperback 72.99 USD · Hardcover 104.99 USD |
 | **Value** | K 58%↓ vs. individual volumes |
 | **Cover** | `en_cover_kpe_110.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Korean autumn photography · Daeseomun Geumseonsa Changgyeonggung · autumn leaves Korea · Season finale photo essay · photo essay collection

@@ -24,5 +24,6 @@ Includes: Vol.10 Beyond the Forest Railway, Vol.11 Those Who Pass Without Notice
 | **Price** | Kindle 9.99 USD · Paperback 54.99 USD · Hardcover 79.99 USD |
 | **Value** | K 44%↓ vs. individual volumes |
 | **Cover** | `en_cover_kpe_104.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** walking meditation Korea · Korean stream alley photography · Bulgwang Bukhansan · contemplative walk photo essay · photo essay collection

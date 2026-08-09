@@ -41,5 +41,6 @@ This volume rests in a century-old hanok village, where autumn rain flows as qui
 | **ISBN** | Kindle 9791124751152 · PB 9791124751428 · HC 9791124751725 |
 | **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
 | **Cover** | `en_cover_kpe_23.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Bukchon hanok village · Gyedong Seoul · Korean hanok photography · autumn rain hanok · Korea travel photography Seoul · Korean photo essay HongSahn · Korean traditional neighborhood

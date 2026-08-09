@@ -42,5 +42,6 @@ This volume listens where the echoes went, as the present plays before the past.
 | **ISBN** | Kindle 9791124751169 · PB 9791124751435 · HC 9791124751732 |
 | **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
 | **Cover** | `en_cover_kpe_24.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** National Museum of Korea · Yongsan Seoul · Korean museum photography · children photo essay · Korea travel photography · Korean photo essay HongSahn · history and present Korea

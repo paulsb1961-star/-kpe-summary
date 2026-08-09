@@ -42,5 +42,6 @@ This volume returns to the palaces, where spring sunlight casts its quiet shadow
 | **ISBN** | Kindle 9791124751084 · PB 9791124751350 · HC 9791124751657 |
 | **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
 | **Cover** | `en_cover_kpe_16.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Changgyeonggung Palace spring · Joseon palace Seoul · Korean palace photography · spring blossoms palace pond · Korea travel photography · Korean photo essay HongSahn · Korean cultural heritage

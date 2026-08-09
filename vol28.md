@@ -42,5 +42,6 @@ This volume returns once more to Gijachon, where time is going again beneath the
 | **ISBN** | Kindle 9791124751206 · PB 9791124751473 · HC 9791124751770 |
 | **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
 | **Cover** | `en_cover_kpe_28.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Gijachon village Seoul · vanishing village Bukhansan · Korean village photography · late sunlight memory · Korea contemplative photography · Korean photo essay HongSahn · journalists village Korea

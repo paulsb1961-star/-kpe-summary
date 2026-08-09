@@ -24,5 +24,6 @@ Includes: Vol.16 Shadows Beneath Sunlight, Vol.17 People of Spring and Autumn
 | **Price** | Kindle 8.99 USD · Paperback 36.99 USD · Hardcover 54.99 USD |
 | **Value** | K 25%↓ vs. individual volumes |
 | **Cover** | `en_cover_kpe_106.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Korean palace photography · Changgyeonggung Deoksugung · Joseon palace collection · spring palace Seoul · photo essay collection

@@ -42,5 +42,6 @@ This volume climbs to a fortress gate, where autumn leaves flow and strangers wa
 | **ISBN** | Kindle 9791124751190 · PB 9791124751466 · HC 9791124751763 |
 | **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
 | **Cover** | `en_cover_kpe_27.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Daeseomun gate Bukhansan · Bukhansanseong fortress · Korean fortress photography · autumn maple Bukhansan · Korea hiking travel photography · Korean photo essay HongSahn · Korean mountain fortress

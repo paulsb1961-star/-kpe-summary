@@ -42,5 +42,6 @@ This volume closes Season I at a palace pond, where autumn leaves rest on water 
 | **ISBN** | Kindle 9791124751220 · PB 9791124751497 · HC 9791124751794 |
 | **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
 | **Cover** | `en_cover_kpe_30.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Changgyeonggung Chundangji pond · Joseon palace autumn · Korean palace photography · autumn leaves pond · Korea travel photography · Korean photo essay HongSahn · Korean cultural heritage

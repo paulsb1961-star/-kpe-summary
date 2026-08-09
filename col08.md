@@ -24,5 +24,6 @@ Includes: Vol.21 Bond of Mother and Child, Vol.22 Bond of Mother and Child II, V
 | **Price** | Kindle 9.99 USD · Paperback 54.99 USD · Hardcover 79.99 USD |
 | **Value** | K 44%↓ vs. individual volumes |
 | **Cover** | `en_cover_kpe_108.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Joseon royal tomb · Taegangneung Uireung · Korean history photography · Bukchon hanok · photo essay collection

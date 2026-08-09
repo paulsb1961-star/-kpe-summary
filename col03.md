@@ -24,5 +24,6 @@ Includes: Vol.07 Where Flowers Come and Go, Vol.08 The Living and the Dead, Vol.
 | **Price** | Kindle 9.99 USD · Paperback 54.99 USD · Hardcover 79.99 USD |
 | **Value** | K 44%↓ vs. individual volumes |
 | **Cover** | `en_cover_kpe_103.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** vanishing village Korea · Korean village memory · Bukhansan Jingwan-dong · life and death photo essay · contemplative photo essay collection

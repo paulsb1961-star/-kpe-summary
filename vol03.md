@@ -42,5 +42,6 @@ This volume turns from the Secret Garden to the great palace at the city's heart
 | **ISBN** | Kindle 9791199339774 · PB 9791199339712 · HC 9791124751527 |
 | **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
 | **Cover** | `en_cover_kpe_03.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Gyeongbokgung Palace photography · Joseon royal palace Seoul · Gyeonghoeru Sujeongjeon · Korean palace photo essay · Korea travel photography Seoul · Korean photo essay HongSahn · Korean cultural heritage UNESCO

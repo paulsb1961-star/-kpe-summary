@@ -24,5 +24,6 @@ Includes: Vol.04 Snow Falls on the Village, Vol.05 Hill of Snow Blossoms, Vol.06
 | **Price** | Kindle 9.99 USD · Paperback 54.99 USD · Hardcover 79.99 USD |
 | **Value** | K 44%↓ vs. individual volumes |
 | **Cover** | `en_cover_kpe_102.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Korean winter photography · hanok village snow · Bukhansan winter Seoul · first snow Korea · contemplative photo essay collection

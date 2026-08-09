@@ -24,5 +24,6 @@ Includes: Vol.01 Beyond the Palace: The Secret Garden, Vol.02 Rainfall in the Se
 | **Price** | Kindle 9.99 USD · Paperback 54.99 USD · Hardcover 79.99 USD |
 | **Value** | K 41%↓ vs. individual volumes |
 | **Cover** | `en_cover_kpe_101.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Korean palace photography · Changdeokgung Gyeongbokgung · Joseon palace collection · Korea travel photography · contemplative photo essay collection

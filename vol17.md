@@ -42,5 +42,6 @@ This volume lingers where palace seasons turn, among the people of spring and au
 | **ISBN** | Kindle 9791124751091 · PB 9791124751367 · HC 9791124751664 |
 | **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
 | **Cover** | `en_cover_kpe_17.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Deoksugung Palace Seoul · Joseon palace City Hall · Korean palace photography · spring autumn palace · Korea travel photography Seoul · Korean photo essay HongSahn · Korean modern history palace

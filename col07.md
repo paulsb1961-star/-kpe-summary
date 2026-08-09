@@ -24,5 +24,6 @@ Includes: Vol.18 Where Immortals Once Played, Vol.19 Slow Sunlight and Shadows, 
 | **Price** | Kindle 9.99 USD · Paperback 54.99 USD · Hardcover 79.99 USD |
 | **Value** | K 44%↓ vs. individual volumes |
 | **Cover** | `en_cover_kpe_107.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** slow light photo essay · Seonyudo Eunpyeong MMCA · Korean landscape photography · contemplative light Korea · photo essay collection

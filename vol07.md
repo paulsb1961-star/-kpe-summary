@@ -42,5 +42,6 @@ This volume returns to Gijachon, where the seasons go on coming and going over a
 | **ISBN** | Kindle 9791199339743 · PB 9791124751268 · HC 9791124751565 |
 | **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
 | **Cover** | `en_cover_kpe_07.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Gijachon village Seoul · autumn Korean village photography · vanishing village Bukhansan · Eunpyeong Jingwan-dong · Korea autumn travel photography · Korean photo essay HongSahn · Korean village memory archive

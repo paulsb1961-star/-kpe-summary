@@ -42,5 +42,6 @@ This volume turns to a place where the living and the dead keep quiet company.
 | **ISBN** | Kindle 9791124751008 · PB 9791124751275 · HC 9791124751572 |
 | **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
 | **Cover** | `en_cover_kpe_08.jpg` |
+| **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 
 **Keywords** Sangnim Village Seoul · Korean village photography Bukhansan · life and death photo essay · Jingwan-dong Eunpyeong · Korea contemplative photography · Korean photo essay HongSahn · Korean cultural landscape memory
