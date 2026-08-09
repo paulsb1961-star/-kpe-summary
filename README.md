@@ -66,7 +66,9 @@ A long-form bilingual photographic archive documenting emotional time across Kor
 ---
 
 ## Available on Amazon
-Series page and individual pre-orders available on Amazon KDP (global).
+**Series page:** https://www.amazon.com/dp/B0H6MRWF3X
+
+Individual volumes available on Amazon KDP (global), released by phase.
 
 ## License
 © 2026 HongSahn Media. All rights reserved. Cover images and bibliographic summaries in this repository are provided for discovery and reference. The full photographic and literary works are not included here and are subject to separate licensing terms.
