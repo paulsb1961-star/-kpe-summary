@@ -20,7 +20,7 @@ Includes: Vol.04 Snow Falls on the Village, Vol.05 Hill of Snow Blossoms, Vol.06
 | **Publisher** | HongSahn Media (홍산미디어) |
 | **Pages** | 292pp (combined) |
 | **Release** | Kindle/Paperback **2027-02-10** · Hardcover **2027-07-19** |
-| **ISBN** | PB 9791124751817 · HC 9791124751916 |
+| **ISBN** | PB 9791124751817 · HC 9791124751916 (Kindle: Amazon ASIN) |
 | **Price** | Kindle 9.99 USD · Paperback 54.99 USD · Hardcover 79.99 USD |
 | **Value** | K 44%↓ vs. individual volumes |
 | **Cover** | `en_cover_kpe_102.jpg` |

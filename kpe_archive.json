@@ -4352,12 +4352,14 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751800",
-        "hardcover": "9791124751909"
+        "hardcover": "9791124751909",
+        "kindle": null,
+        "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
-        "kindle": "9.99 USD",
         "paperback": "54.99 USD",
-        "hardcover": "79.99 USD"
+        "hardcover": "79.99 USD",
+        "kindle": "9.99 USD"
       },
       "savings": "K 41%↓",
       "pubdate": {
@@ -4387,12 +4389,14 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751817",
-        "hardcover": "9791124751916"
+        "hardcover": "9791124751916",
+        "kindle": null,
+        "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
-        "kindle": "9.99 USD",
         "paperback": "54.99 USD",
-        "hardcover": "79.99 USD"
+        "hardcover": "79.99 USD",
+        "kindle": "9.99 USD"
       },
       "savings": "K 44%↓",
       "pubdate": {
@@ -4422,12 +4426,14 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751824",
-        "hardcover": "9791124751923"
+        "hardcover": "9791124751923",
+        "kindle": null,
+        "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
-        "kindle": "9.99 USD",
         "paperback": "54.99 USD",
-        "hardcover": "79.99 USD"
+        "hardcover": "79.99 USD",
+        "kindle": "9.99 USD"
       },
       "savings": "K 44%↓",
       "pubdate": {
@@ -4457,12 +4463,14 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751831",
-        "hardcover": "9791124751930"
+        "hardcover": "9791124751930",
+        "kindle": null,
+        "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
-        "kindle": "9.99 USD",
         "paperback": "54.99 USD",
-        "hardcover": "79.99 USD"
+        "hardcover": "79.99 USD",
+        "kindle": "9.99 USD"
       },
       "savings": "K 44%↓",
       "pubdate": {
@@ -4492,12 +4500,14 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751848",
-        "hardcover": "9791124751947"
+        "hardcover": "9791124751947",
+        "kindle": null,
+        "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
-        "kindle": "9.99 USD",
         "paperback": "54.99 USD",
-        "hardcover": "79.99 USD"
+        "hardcover": "79.99 USD",
+        "kindle": "9.99 USD"
       },
       "savings": "K 44%↓",
       "pubdate": {
@@ -4527,12 +4537,14 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751855",
-        "hardcover": "9791124751954"
+        "hardcover": "9791124751954",
+        "kindle": null,
+        "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
-        "kindle": "8.99 USD",
         "paperback": "36.99 USD",
-        "hardcover": "54.99 USD"
+        "hardcover": "54.99 USD",
+        "kindle": "8.99 USD"
       },
       "savings": "K 25%↓",
       "pubdate": {
@@ -4562,12 +4574,14 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751862",
-        "hardcover": "9791124751961"
+        "hardcover": "9791124751961",
+        "kindle": null,
+        "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
-        "kindle": "9.99 USD",
         "paperback": "54.99 USD",
-        "hardcover": "79.99 USD"
+        "hardcover": "79.99 USD",
+        "kindle": "9.99 USD"
       },
       "savings": "K 44%↓",
       "pubdate": {
@@ -4597,12 +4611,14 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751879",
-        "hardcover": "9791124751978"
+        "hardcover": "9791124751978",
+        "kindle": null,
+        "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
-        "kindle": "9.99 USD",
         "paperback": "54.99 USD",
-        "hardcover": "79.99 USD"
+        "hardcover": "79.99 USD",
+        "kindle": "9.99 USD"
       },
       "savings": "K 44%↓",
       "pubdate": {
@@ -4632,12 +4648,14 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751886",
-        "hardcover": "9791124751985"
+        "hardcover": "9791124751985",
+        "kindle": null,
+        "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
-        "kindle": "9.99 USD",
         "paperback": "54.99 USD",
-        "hardcover": "79.99 USD"
+        "hardcover": "79.99 USD",
+        "kindle": "9.99 USD"
       },
       "savings": "K 44%↓",
       "pubdate": {
@@ -4667,12 +4685,14 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751893",
-        "hardcover": "9791124751992"
+        "hardcover": "9791124751992",
+        "kindle": null,
+        "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
-        "kindle": "9.99 USD",
         "paperback": "72.99 USD",
-        "hardcover": "104.99 USD"
+        "hardcover": "104.99 USD",
+        "kindle": "9.99 USD"
       },
       "savings": "K 58%↓",
       "pubdate": {
