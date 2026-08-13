@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.19
+## Korean Photo Essay Series · Vol.19
 ### Slow Sunlight and Shadows
 **느린 햇살 그림자**  ·  *A Photographic Meditation on Eunpyeong Hanok Village, Seoul*
 
-- **Location** Eunpyeong Hanok Village (은평한옥마을) · 37.641319, 126.939204
+- **Location** Eunpyeong Hanok Village (은평한옥마을) · 37.641319, 126.939204  ·  [Wikidata Q31179767](https://www.wikidata.org/wiki/Q31179767)
 - **Category** Religion & Spirituality › New Age & Spirituality › Mindfulness
 - **Collection** Sunlight — Where Warmth Remains (햇살 — 온기가 남는 자리)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, light moves at a walking pace. Slow sunlight crosses Yo
 
 On the hill behind the Eunpyeong Hanok Museum stands Yongchuljeong, a modest pavilion facing Bukhansan. Around it the hanok village gathers tiled roofs against the ridgelines — a contemporary place built to hold an older quiet, where sunlight and shadow keep slow company.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

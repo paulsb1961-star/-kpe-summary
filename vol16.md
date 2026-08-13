@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.16
+## Korean Photo Essay Series · Vol.16
 ### Shadows Beneath Sunlight
 **햇살 아래 그림자**  ·  *A Photographic Meditation on Changgyeonggung Palace, Seoul*
 
-- **Location** Changgyeonggung Palace (창경궁) · 37.578815, 126.99493
+- **Location** Changgyeonggung Palace (창경궁) · 37.578815, 126.99493  ·  [Wikidata Q482852](https://www.wikidata.org/wiki/Q482852)
 - **Category** History › Asia › Korea
 - **Collection** Palaces II — Echoes in Seasonal Light (궁궐 II — 계절빛의 울림)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, shadow and sunlight share the spring. Petals drift onto
 
 Among Seoul's palaces, Changgyeonggung feels closest to spring. Built as a residence for royal elders, it carries a gentler intimacy than the grander palaces — and when spring fully blooms, its ponds and pavilions soften into color and shade.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

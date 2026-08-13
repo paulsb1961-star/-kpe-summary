@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.30
+## Korean Photo Essay Series · Vol.30
 ### Pond Beneath Autumn Leaves
 **단풍 아래 연못**  ·  *A Photographic Meditation on Chundangji, Changgyeonggung Palace, Seoul*
 
-- **Location** Changgyeonggung Palace II (창경궁 II) · 37.578815, 126.99493
+- **Location** Changgyeonggung Palace II (창경궁 II) · 37.578815, 126.99493  ·  [Wikidata Q482852](https://www.wikidata.org/wiki/Q482852)
 - **Category** History › Asia › Korea
 - **Collection** Autumn Leaves — When Light Turns Quiet (단풍 — 빛이 고요해질 때)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, a pond remembers the year. Leaves drift onto still wate
 
 Deep within Changgyeonggung Palace, Chundangji lies like a pond that remembers — once royal rice fields, later a still water garden. As the seasons turn, its surface gathers blossom and leaf alike, holding the palace's long autumns in quiet reflection.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

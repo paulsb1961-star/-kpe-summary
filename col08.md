@@ -1,4 +1,4 @@
-## Korean Photo Essay Collection · VIII
+## Korean Photo Essay Series — Collection · VIII
 ### Royal Tombs — Names That Stay in Earth
 **왕릉 — 이름이 머무는 곳**
 
@@ -8,7 +8,7 @@
 
 Where the dynasty's names rest in earth, memory endures. Through the mother-and-child bond of Taegangneung and Uireung and the autumn rain of old Bukchon, this collection holds the names that time keeps.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

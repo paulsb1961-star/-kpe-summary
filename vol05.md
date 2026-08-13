@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.05
+## Korean Photo Essay Series · Vol.05
 ### Hill of Snow Blossoms
 **눈꽃 피는 언덕**  ·  *A Photographic Meditation on Yongchuljeong Pavilion in Winter, Seoul*
 
-- **Location** Yongchuljeong Pavilion (용출정) · 37.640445, 126.938121
+- **Location** Yongchuljeong Pavilion (용출정) · 37.640445, 126.938121  ·  [Wikidata Q31179767](https://www.wikidata.org/wiki/Q31179767)
 - **Category** Religion & Spirituality › New Age & Spirituality › Mindfulness
 - **Collection** Snow — Silence After Footsteps (설경 — 발자국 이후의 침묵)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, snow gathers like blossom across the open field and alo
 
 Yongchuljeong rises as the symbol of Eunpyeong Hanok Village, where the ridgelines of Bukhansan meet the rooftops below. Under snow the hill becomes a field of soft blossoms, and the pavilion — built for pause and prospect — turns into a place to measure stillness rather than distance.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.28
+## Korean Photo Essay Series · Vol.28
 ### Time Going Again
 **다시 가는 시간**  ·  *A Photographic Meditation on Gijachon Village, Seoul*
 
-- **Location** Gijachon Village III (기자촌 III) · 37.634227, 126.933479
+- **Location** Gijachon Village III (기자촌 III) · 37.634227, 126.933479  ·  [Wikidata Q16173625](https://www.wikidata.org/wiki/Q16173625)
 - **Category** Religion & Spirituality › New Age & Spirituality › Mindfulness
 - **Collection** Autumn Leaves — When Light Turns Quiet (단풍 — 빛이 고요해질 때)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, the village fades into evening light. Long shadows reac
 
 Tucked into Jingwan-dong, Gijachon was Korea's first residential community for journalists — a village that once knew how to record. Now it is going again, house by house, and in the late sunlight it offers a final, tender portrait of a place returning to the earth.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.20
+## Korean Photo Essay Series · Vol.20
 ### Reflections Beneath the Blue Sky
 **푸른 하늘 그림자**  ·  *A Photographic Meditation on the National Museum of Modern and Contemporary Art, Gwacheon*
 
-- **Location** National Museum of Modern and Contemporary Art (국립현대미술관) · 37.578833, 126.980428
+- **Location** National Museum of Modern and Contemporary Art (국립현대미술관) · 37.578833, 126.980428  ·  [Wikidata Q60823450](https://www.wikidata.org/wiki/Q60823450)
 - **Category** Religion & Spirituality › New Age & Spirituality › Mindfulness
 - **Collection** Sunlight — Where Warmth Remains (햇살 — 온기가 남는 자리)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, architecture and sky reflect one another. Glass and sto
 
 At the foot of Gwacheon's mountain, the museum breathes with the landscape around it — its architecture rising and resting with the slope. Here art, building, and sky meet, and a slow afternoon becomes a quiet meditation on reflection and time.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

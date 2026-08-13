@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.14
+## Korean Photo Essay Series · Vol.14
 ### The Seat the Monk Left Behind
 **선승이 비운 자리**  ·  *A Photographic Meditation on Samhwasa Temple, Seoul*
 
-- **Location** Samhwasa Temple (삼화사) · 37.634836, 126.941436
+- **Location** Samhwasa Temple (삼화사) · 37.634836, 126.941436  ·  [Wikidata Q31179767](https://www.wikidata.org/wiki/Q31179767)
 - **Category** Religion & Spirituality › Buddhism › Zen / Chan
 - **Collection** Temples — The Shape of Stillness (절집 — 비움의 자리)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, absence becomes presence. An empty cushion holds the sh
 
 Beyond the familiar path to Jingwansa, hidden deeper in the mountain, stands Samhwasa — small enough to miss, quiet enough to forget. Founded by a nun in the late 1950s, it remains a hermitage of returning silence, where what is absent speaks as clearly as what remains.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

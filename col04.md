@@ -1,4 +1,4 @@
-## Korean Photo Essay Collection · IV
+## Korean Photo Essay Series — Collection · IV
 ### Walks — Between Leaving and Returning
 **산책 — 떠남과 돌아옴 사이**
 
@@ -8,7 +8,7 @@
 
 To walk is to move between leaving and returning. Along Gongneung Stream, through the fading alleys of Bulgwang, and up the slow road toward Bulgwangsa, this collection follows the quiet rhythm of footsteps.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

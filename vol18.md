@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.18
+## Korean Photo Essay Series · Vol.18
 ### Where Immortals Once Played
 **신선이 노닐던 곳**  ·  *A Photographic Meditation on Seonyudo Park, Seoul*
 
-- **Location** Seonyudo Park (선유도) · 37.543569, 126.899716
+- **Location** Seonyudo Park (선유도) · 37.543569, 126.899716  ·  [Wikidata Q12601738](https://www.wikidata.org/wiki/Q12601738)
 - **Category** Religion & Spirituality › New Age & Spirituality › Mindfulness
 - **Collection** Sunlight — Where Warmth Remains (햇살 — 온기가 남는 자리)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, water and concrete learn to rest. Vines climb the old t
 
 Once a water treatment plant, Seonyudo was reborn as a garden where industry softened into green. Along the river's slow breath, it rests like a quiet pause in the city — a place where immortals were once imagined to play, now open to anyone walking slowly.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

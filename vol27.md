@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.27
+## Korean Photo Essay Series · Vol.27
 ### Flowing Maple Leaves
 **흐르는 단풍**  ·  *A Photographic Meditation on Daeseomun and Bukhansanseong Fortress, Seoul*
 
-- **Location** Daeseomun Gate (대서문) · 37.646956, 126.973242
+- **Location** Daeseomun Gate (대서문) · 37.646956, 126.973242  ·  [Wikidata Q496394](https://www.wikidata.org/wiki/Q496394)
 - **Category** History › Asia › Korea
 - **Collection** Autumn Leaves — When Light Turns Quiet (단풍 — 빛이 고요해질 때)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, maple leaves flow down the mountain. Color gathers alon
 
 Daeseomun, the Great Western Gate, is the main entrance to Bukhansanseong Fortress — a stone threshold where the mountain's history meets its walkers. In autumn the slopes turn many-hued, and the gate stands quietly as the leaves and the people flow through.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

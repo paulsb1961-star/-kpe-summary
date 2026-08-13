@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.06
+## Korean Photo Essay Series · Vol.06
 ### Snow Path Beneath the Hill
 **언덕 아래 눈길**  ·  *A Photographic Meditation on Gijachon Village in Winter, Seoul*
 
-- **Location** Gijachon Village (기자촌) · 37.634227, 126.933479
+- **Location** Gijachon Village (기자촌) · 37.634227, 126.933479  ·  [Wikidata Q16173625](https://www.wikidata.org/wiki/Q16173625)
 - **Category** Religion & Spirituality › New Age & Spirituality › Mindfulness
 - **Collection** Snow — Silence After Footsteps (설경 — 발자국 이후의 침묵)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, a single snow path leads beneath the hill and into stil
 
 Nestled beneath Bukhansan in Jingwan-dong, Gijachon was once home to journalists and has slowly faded at the city's edge. In snow its lanes and low houses become a path of memory — a vanishing village held for a moment in white, walked rather than viewed.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

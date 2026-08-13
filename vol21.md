@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.21
+## Korean Photo Essay Series · Vol.21
 ### Bond of Mother and Child
 **모자의 인연**  ·  *A Photographic Meditation on Taegangneung Royal Tomb, Seoul*
 
-- **Location** Taegangneung Royal Tomb (태강릉) · 37.63614, 127.097679
+- **Location** Taegangneung Royal Tomb (태강릉) · 37.63614, 127.097679  ·  [Wikidata Q6763186](https://www.wikidata.org/wiki/Q6763186)
 - **Category** History › Asia › Korea
 - **Collection** Royal Tombs — Names That Stay in Earth (왕릉 — 이름이 머무는 곳)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, the royal tombs keep their long silence. Pine shadows f
 
 In the quiet hills of Gongneung-dong lie two royal tombs — Taereung and Gangneung — joined in name and memory. Though crowns have long since passed, the tie between mother and son endures here, kept in stone and pine across five centuries.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

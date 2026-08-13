@@ -1,4 +1,4 @@
-## Korean Photo Essay Collection · VII
+## Korean Photo Essay Series — Collection · VII
 ### Sunlight — Where Warmth Remains
 **햇살 — 온기가 남는 자리**
 
@@ -8,7 +8,7 @@
 
 Slow sunlight settles where warmth remains. On the river island of Seonyudo, across the hanok village of Eunpyeong, and over the reflecting halls of the art museum, this collection follows light as it lingers.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

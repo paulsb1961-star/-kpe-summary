@@ -1,4 +1,4 @@
-## Korean Photo Essay Collection · II
+## Korean Photo Essay Series — Collection · II
 ### Snow — Silence After Footsteps
 **설경 — 발자국 이후의 침묵**
 
@@ -8,7 +8,7 @@
 
 When the first snow falls beneath Bukhansan, the villages grow still. Across the hanok roofs of Eunpyeong, the snow-covered hill of Yongchuljeong, and the quiet path through Gijachon, this collection follows winter into silence.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

@@ -1,4 +1,4 @@
-## Korean Photo Essay Collection · IX
+## Korean Photo Essay Series — Collection · IX
 ### Parks — An Ordinary Afternoon
 **공원 — 평범한 오후**
 
@@ -8,7 +8,7 @@
 
 An ordinary afternoon unfolds across the city's open ground. Around the museum plazas of Yongsan, along the paths of Namsan, and over the high meadow of Haneul Park, this collection gathers the lightness of shared time.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

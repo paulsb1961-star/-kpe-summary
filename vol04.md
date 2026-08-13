@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.04
+## Korean Photo Essay Series · Vol.04
 ### Snow Falls on the Village
 **눈 내리는 마을**  ·  *A Photographic Meditation on Eunpyeong Hanok Village in Winter, Seoul*
 
-- **Location** Eunpyeong Hanok Village (은평한옥마을) · 37.641319, 126.939204
+- **Location** Eunpyeong Hanok Village (은평한옥마을) · 37.641319, 126.939204  ·  [Wikidata Q31179767](https://www.wikidata.org/wiki/Q31179767)
 - **Category** Religion & Spirituality › New Age & Spirituality › Mindfulness
 - **Collection** Snow — Silence After Footsteps (설경 — 발자국 이후의 침묵)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, winter settles over the tiled roofs one flake at a time
 
 At the foot of Bukhansan in Jingwan-dong, Eunpyeong Hanok Village gathers traditional Korean houses against the mountain's ridgelines. In snow it sheds its postcard brightness and turns inward — courtyards, walls, and rooflines reduced to quiet shapes, a contemporary village remembering an older way of being still.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

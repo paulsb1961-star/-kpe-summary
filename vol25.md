@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.25
+## Korean Photo Essay Series · Vol.25
 ### A Mother's Time on the Hill
 **엄마의 시간**  ·  *A Photographic Meditation on Namsan Park, Seoul*
 
-- **Location** Namsan Park (남산공원) · 37.551169, 126.988227
+- **Location** Namsan Park (남산공원) · 37.551169, 126.988227  ·  [Wikidata Q27307220](https://www.wikidata.org/wiki/Q27307220)
 - **Category** Religion & Spirituality › New Age & Spirituality › Mindfulness
 - **Collection** Parks — An Ordinary Afternoon (공원 — 평범한 오후)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, a mountain holds a mother's time. A small hand steadies
 
 Namsan rises gently at the center of Seoul — not the tallest peak, yet immense in presence and memory. Its paths have carried generations of families, and in their quiet turning the park becomes a place to measure a mother's time against the city's.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

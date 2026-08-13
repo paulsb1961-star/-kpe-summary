@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.11
+## Korean Photo Essay Series · Vol.11
 ### Those Who Pass Without Notice
 **무심히 오가는 이들**  ·  *A Photographic Meditation on Bulgwang-dong and Changneung Stream, Seoul*
 
-- **Location** Changneung Stream · Bulgwang (창릉천·불광동 골목) · 37.647934, 126.885864
+- **Location** Changneung Stream · Bulgwang (창릉천·불광동 골목) · 37.647934, 126.885864  ·  [Wikidata Q79839](https://www.wikidata.org/wiki/Q79839)
 - **Category** Religion & Spirituality › New Age & Spirituality › Mindfulness
 - **Collection** Walks — Between Leaving and Returning (산책 — 떠남과 돌아옴 사이)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, darkness keeps its small secrets. Figures pass without 
 
 Bulgwang-dong — “the place touched by Buddha's light” — sits at the foot of Bukhansan, where temples once shaped the rhythm of daily life. Today the neighborhood is changing, and along Changneung Stream the old passages quietly give way, noticed by almost no one.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

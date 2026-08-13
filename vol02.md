@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.02
+## Korean Photo Essay Series · Vol.02
 ### Rainfall in the Secret Garden
 **비 내리는 후원**  ·  *A Photographic Meditation on Changdeokgung Palace in Autumn Rain, Seoul*
 
-- **Location** Changdeokgung Palace II (창덕궁 2) · 37.579431, 126.991043
+- **Location** Changdeokgung Palace II (창덕궁 2) · 37.579431, 126.991043  ·  [Wikidata Q626882](https://www.wikidata.org/wiki/Q626882)
 - **Category** History › Asia › Korea
 - **Collection** Palaces — Where Time Rests (궁궐 — 시간이 머무는 곳)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, rain becomes its own language. Drops gather on the stil
 
 Tucked along the slope of Bugaksan, the Secret Garden of Changdeokgung was made for stillness rather than display. In the rain its pavilions and ponds turn inward, and the garden reveals a different season of feeling: Buyongji under a steady shower, Yeonghwadang in the wet, and Aeryeonji veiled by falling water.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

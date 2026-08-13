@@ -1,4 +1,4 @@
-## Korean Photo Essay Collection · X
+## Korean Photo Essay Series — Collection · X
 ### Autumn Leaves — When Light Turns Quiet
 **단풍 — 빛이 고요해질 때**
 
@@ -8,7 +8,7 @@
 
 As autumn deepens, the light turns quiet. From the fortress gate of Daeseomun and the last house of Gijachon to the mountain temple of Geumseonsa and the pond of Changgyeonggung, this collection closes Season I where the leaves come to rest.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

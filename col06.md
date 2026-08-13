@@ -1,4 +1,4 @@
-## Korean Photo Essay Collection · VI
+## Korean Photo Essay Series — Collection · VI
 ### Palaces II — Echoes in Seasonal Light
 **궁궐 II — 계절빛의 울림**
 
@@ -8,7 +8,7 @@
 
 Two more palaces answer the turning seasons. In the spring shadows of Changgyeonggung and the spring-and-autumn crowds of Deoksugung, this collection listens to the echoes of light moving through old walls.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

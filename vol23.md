@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.23
+## Korean Photo Essay Series · Vol.23
 ### Flowing into Dots of Rain
 **점이 되어 흐른다**  ·  *A Photographic Meditation on Gyedong, Bukchon, Seoul*
 
-- **Location** Bukchon Cultural Center (북촌문화센터) · 37.579031, 126.986408
+- **Location** Bukchon Cultural Center (북촌문화센터) · 37.579031, 126.986408  ·  [Wikidata Q490981](https://www.wikidata.org/wiki/Q490981)
 - **Category** History › Asia › Korea
 - **Collection** Royal Tombs — Names That Stay in Earth (왕릉 — 이름이 머무는 곳)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, rain gathers and flows like silver beads. Droplets bead
 
 East of Gyeongbokgung, Gyedong lies quietly — a Bukchon neighborhood of timber and tile that has held a century of city life within its walls. In autumn rain its hanok roofs and stone lanes recover an older stillness, a place where time settles drop by drop.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

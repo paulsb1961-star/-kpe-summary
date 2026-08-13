@@ -1,4 +1,4 @@
-## Korean Photo Essay Collection · III
+## Korean Photo Essay Series — Collection · III
 ### Time — Moments That Overlap
 **시간 — 겹쳐지는 순간**
 
@@ -8,7 +8,7 @@
 
 In vanishing villages beneath Bukhansan, past and present dwell together. Through Gijachon's returning autumns, the living and the dead of Sangnim, and the layered memory of Jegakmal, this collection holds moments that overlap in time.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

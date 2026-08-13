@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.01
+## Korean Photo Essay Series · Vol.01
 ### Beyond the Palace: The Secret Garden
 **궁궐 너머 후원**  ·  *A Photographic Meditation on Changdeokgung Palace, Seoul*
 
-- **Location** Changdeokgung Palace (창덕궁) · 37.579431, 126.991043
+- **Location** Changdeokgung Palace (창덕궁) · 37.579431, 126.991043  ·  [Wikidata Q626882](https://www.wikidata.org/wiki/Q626882)
 - **Category** History › Asia › Korea
 - **Collection** Palaces — Where Time Rests (궁궐 — 시간이 머무는 곳)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, the garden becomes a space where time lingers — where
 
 Built in the 15th century, Changdeokgung Palace remains one of Korea's most intimate royal spaces. Its Secret Garden — the Huwon — was shaped not for spectacle but for contemplation. This volume approaches the garden not as history, but as lived time: the still water of Buyongji, the seclusion of Aeryeonjeong, and the quiet halls of Yeongyeongdang.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.08
+## Korean Photo Essay Series · Vol.08
 ### The Living and the Dead
 **산 자와 죽은 자**  ·  *A Photographic Meditation on Sangnim Village and Pokpodong, Seoul*
 
-- **Location** Sangnim · Pokpodong (상림마을·폭포동) · 37.645135, 126.927222
+- **Location** Sangnim · Pokpodong (상림마을·폭포동) · 37.645135, 126.927222  ·  [Wikidata Q16173625](https://www.wikidata.org/wiki/Q16173625)
 - **Category** Religion & Spirituality › New Age & Spirituality › Mindfulness
 - **Collection** Time — Moments That Overlap (시간 — 겹쳐지는 순간)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, life and death share a single hillside. Between old gra
 
 Sangnim Village takes its name from a single juniper — the “Sang Tree” — that once stood at Jingwan-nae-dong, beside an old well where neighbors gathered. On the slopes of Mount Imal, the resting places of court ladies and eunuchs overlap with the everyday life of the living, and time itself seems to fold.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

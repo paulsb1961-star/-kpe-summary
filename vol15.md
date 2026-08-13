@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.15
+## Korean Photo Essay Series · Vol.15
 ### Buddha Beyond the Wind Chime
 **풍경 너머 마애불**  ·  *A Photographic Meditation on Samcheonsa Temple, Seoul*
 
-- **Location** Samcheonsa Temple (삼천사) · 37.642205, 126.952501
+- **Location** Samcheonsa Temple (삼천사) · 37.642205, 126.952501  ·  [Wikidata Q16093454](https://www.wikidata.org/wiki/Q16093454)
 - **Category** Religion & Spirituality › Buddhism › Zen / Chan
 - **Collection** Temples — The Shape of Stillness (절집 — 비움의 자리)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, stone and wind keep an old conversation. A wind chime t
 
 On the slopes of Bukhansan, Samcheonsa keeps an older memory — tradition traces it to the Silla monk Wonhyo, and the Goryeosa records its monks across the centuries. Carved into stone and into time, it holds the long patience of a place that has watched everything pass.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

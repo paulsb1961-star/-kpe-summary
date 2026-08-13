@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.07
+## Korean Photo Essay Series · Vol.07
 ### Where Flowers Come and Go
 **꽃이 오고 단풍 가던**  ·  *A Photographic Meditation on Gijachon and Umulgol, Seoul*
 
-- **Location** Gijachon II & Umulgol (기자촌 2) · 37.636201, 126.93167
+- **Location** Gijachon II & Umulgol (기자촌 2) · 37.636201, 126.93167  ·  [Wikidata Q16173625](https://www.wikidata.org/wiki/Q16173625)
 - **Category** Religion & Spirituality › New Age & Spirituality › Mindfulness
 - **Collection** Time — Moments That Overlap (시간 — 겹쳐지는 순간)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, two timelines flow side by side. Leaves arrive and fall
 
 Built between 1969 and 1974, Gijachon was Korea's first residential community for journalists — more than 500 households in its narrow lanes. Today a new town has risen around it, and the old village lingers at the edge, half-remembered, as autumn keeps passing through.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

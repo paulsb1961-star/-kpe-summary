@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.12
+## Korean Photo Essay Series · Vol.12
 ### Steps Moving Slowly
 **느린 걸음 오가던**  ·  *A Photographic Meditation on the Road to Bulgwangsa and Bulgwang Park, Seoul*
 
-- **Location** Bulgwangsa · Bulgwang Park (불광사 길·불광근린공원 길) · 37.619694, 126.930112
+- **Location** Bulgwangsa · Bulgwang Park (불광사 길·불광근린공원 길) · 37.619694, 126.930112  ·  [Wikidata Q2648045](https://www.wikidata.org/wiki/Q2648045)
 - **Category** Religion & Spirituality › New Age & Spirituality › Mindfulness
 - **Collection** Walks — Between Leaving and Returning (산책 — 떠남과 돌아옴 사이)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, walking slows until distance dissolves. Through the nar
 
 At the foot of Bukhansan, in the quiet folds of Bulgwang-dong, the road climbs toward Bulgwangsa, beside Bulgwang Neighborhood Park where legend and stillness share a single hill. Here a slow walk becomes its own kind of seeing.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

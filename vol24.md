@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.24
+## Korean Photo Essay Series · Vol.24
 ### Where the Echoes Went
 **함성은 어디로**  ·  *A Photographic Meditation on the National Museum of Korea, Yongsan, Seoul*
 
-- **Location** Yongsan (용산) · 37.521139, 126.983938
+- **Location** Yongsan (용산) · 37.521139, 126.983938  ·  [Wikidata Q494407](https://www.wikidata.org/wiki/Q494407)
 - **Category** Religion & Spirituality › New Age & Spirituality › Mindfulness
 - **Collection** Parks — An Ordinary Afternoon (공원 — 평범한 오후)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, echoes move across open ground. Children run and call o
 
 In the heart of Yongsan, the National Museum of Korea is more than a keeper of relics — its broad plazas and water mirror the city around it. Here the long past and the bright present share the same ground, and a child's shout carries where echoes once went.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

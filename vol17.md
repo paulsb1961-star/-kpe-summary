@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.17
+## Korean Photo Essay Series · Vol.17
 ### People of Spring and Autumn
 **봄 가을 사람들**  ·  *A Photographic Meditation on Deoksugung Palace, Seoul*
 
-- **Location** Deoksugung Palace (덕수궁) · 37.565886, 126.974902
+- **Location** Deoksugung Palace (덕수궁) · 37.565886, 126.974902  ·  [Wikidata Q482631](https://www.wikidata.org/wiki/Q482631)
 - **Category** History › Asia › Korea
 - **Collection** Palaces II — Echoes in Seasonal Light (궁궐 II — 계절빛의 울림)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, the seasons turn within the old walls. Blossoms give wa
 
 Five minutes from City Hall, where glass towers rise and traffic moves, Deoksugung keeps history at walking distance. Its blend of palace halls and early-modern architecture makes it a threshold between eras — a place where the past and the present meet beneath the same sky.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

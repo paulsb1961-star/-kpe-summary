@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.09
+## Korean Photo Essay Series · Vol.09
 ### Memories of Those Who Left
 **떠난 이들의 기억**  ·  *A Photographic Meditation on Eunpyeong Hanok Village and Jegakmal, Seoul*
 
-- **Location** Hanok Village II & Jegakmal (한옥마을 2) · 37.641319, 126.939204
+- **Location** Hanok Village II & Jegakmal (한옥마을 2) · 37.641319, 126.939204  ·  [Wikidata Q31179767](https://www.wikidata.org/wiki/Q31179767)
 - **Category** Religion & Spirituality › New Age & Spirituality › Mindfulness
 - **Collection** Time — Moments That Overlap (시간 — 겹쳐지는 순간)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, the past and the present rest together. On one patch of
 
 Before the tiled roofs of today's Eunpyeong Hanok Village, this land was called Jegangmal, named for royal ancestral shrines once built here. The teachings of Confucianism, Buddhism, and Taoism were passed down together — and their traces still linger where past and present coexist.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

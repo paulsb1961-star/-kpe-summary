@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.10
+## Korean Photo Essay Series · Vol.10
 ### Beyond the Forest Railway
 **철길 숲속 저편에서**  ·  *A Photographic Meditation on Gongneung Stream, Seoul*
 
-- **Location** Gongneung Stream (공릉천) · 37.67427, 126.882476
+- **Location** Gongneung Stream (공릉천) · 37.67427, 126.882476  ·  [Wikidata Q31179011](https://www.wikidata.org/wiki/Q31179011)
 - **Category** Religion & Spirituality › New Age & Spirituality › Mindfulness
 - **Collection** Walks — Between Leaving and Returning (산책 — 떠남과 돌아옴 사이)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, a stream becomes a river of time. Walking paths, railwa
 
 Gongneungcheon rises in the hills of Goyang and moves south through the northern edge of the city before joining the Han River. Along its banks lie footpaths and old railway traces — an ordinary waterway that, walked slowly, becomes a passage through memory.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

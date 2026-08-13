@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.29
+## Korean Photo Essay Series · Vol.29
 ### Climbing the Valley
 **계곡을 오르다**  ·  *A Photographic Meditation on Geumseonsa Temple, Seoul*
 
-- **Location** Geumseonsa Temple (금선사) · 37.620578, 126.953379
+- **Location** Geumseonsa Temple (금선사) · 37.620578, 126.953379  ·  [Wikidata Q5554874](https://www.wikidata.org/wiki/Q5554874)
 - **Category** Religion & Spirituality › Buddhism › Zen / Chan
 - **Collection** Autumn Leaves — When Light Turns Quiet (단풍 — 빛이 고요해질 때)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, the mountain breathes. Water falls away down the valley
 
 High above the layered streets of Seoul, where concrete gives way to pine, Geumseonsa keeps the mountain's quiet. Reached only by climbing, it rewards the slow walker with stillness — a place where ascending the valley becomes its own kind of prayer.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

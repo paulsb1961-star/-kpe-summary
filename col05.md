@@ -1,4 +1,4 @@
-## Korean Photo Essay Collection · V
+## Korean Photo Essay Series — Collection · V
 ### Temples — The Shape of Stillness
 **절집 — 비움의 자리**
 
@@ -8,7 +8,7 @@
 
 Deep in the folds of Bukhansan, three temples keep the shape of stillness. From the spring lanterns of Jingwansa to the emptied seat of Samhwasa and the stone Buddha of Samcheonsa, this collection rests where silence takes form.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

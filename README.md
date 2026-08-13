@@ -1,74 +1,66 @@
-# Korean Photo Essay Archive
-**한국 포토에세이 아카이브** · KPE Archive
+# Korean Photo Essay Series
+**한국 포토에세이 시리즈 · KPE Archive** — by HongSahn, published by HongSahn Media
 
-A long-form bilingual photographic archive documenting emotional time across Korean cultural heritage sites — palaces, temples, hanok villages, royal tombs, and historical parks. Through a contemplative documentary lens, each volume approaches its place not as history, but as lived time.
+A bilingual (Korean / English) photo essay book series documenting emotional time across Korean cultural heritage — palaces, temples, hanok villages, royal tombs, and urban parks. **Season I: Coming and Going Time** comprises 30 individual photo essays and 10 thematic collections (2026–2027).
 
-> *"This is not a guide to Korea. It is a way of feeling it."*
+> “This is not a guide to Korea. It is a way of feeling it.”
 
-**Season I — Coming and Going Time** comprises **30 individual photo essays** and **10 thematic collections**, published by HongSahn Media (홍산미디어), 2026–2027.
+- **Author:** HongSahn (홍산)
+- **Publisher:** HongSahn Media (홍산미디어) · [hongsahnmedia.com](https://hongsahnmedia.com)
+- **Series (Amazon):** [KPE Archive](https://www.amazon.com/dp/B0H6MRWF3X)
+- **Also known as:** Korean Photo Essay Archive · KPE Archive · 한국 포토에세이 아카이브
 
-- **Author / Photographer** HongSahn (홍산)
-- **Publisher** HongSahn Media · [hongsahnmedia.com](https://hongsahnmedia.com)
-- **Format** Bilingual (English / Korean) · Kindle · Paperback · Hardcover
+Each entry below is a bibliographic summary (title, place, contents, ISBN, price). Place names link to their [Wikidata](https://www.wikidata.org) entities.
+
+## Season I — 30 Photo Essays
+
+| # | Title | 한글 | Summary |
+|---|---|---|---|
+| 01 | Beyond the Palace: The Secret Garden | 궁궐 너머 후원 | [vol01.md](vol01.md) |
+| 02 | Rainfall in the Secret Garden | 비 내리는 후원 | [vol02.md](vol02.md) |
+| 03 | Flowing Time | 흐르는 시간 | [vol03.md](vol03.md) |
+| 04 | Snow Falls on the Village | 눈 내리는 마을 | [vol04.md](vol04.md) |
+| 05 | Hill of Snow Blossoms | 눈꽃 피는 언덕 | [vol05.md](vol05.md) |
+| 06 | Snow Path Beneath the Hill | 언덕 아래 눈길 | [vol06.md](vol06.md) |
+| 07 | Where Flowers Come and Go | 꽃이 오고 단풍 가던 | [vol07.md](vol07.md) |
+| 08 | The Living and the Dead | 산 자와 죽은 자 | [vol08.md](vol08.md) |
+| 09 | Memories of Those Who Left | 떠난 이들의 기억 | [vol09.md](vol09.md) |
+| 10 | Beyond the Forest Railway | 철길 숲속 저편에서 | [vol10.md](vol10.md) |
+| 11 | Those Who Pass Without Notice | 무심히 오가는 이들 | [vol11.md](vol11.md) |
+| 12 | Steps Moving Slowly | 느린 걸음 오가던 | [vol12.md](vol12.md) |
+| 13 | Lanterns Beneath Spring Blossoms | 봄꽃 아래 연등 | [vol13.md](vol13.md) |
+| 14 | The Seat the Monk Left Behind | 선승이 비운 자리 | [vol14.md](vol14.md) |
+| 15 | Buddha Beyond the Wind Chime | 풍경 너머 마애불 | [vol15.md](vol15.md) |
+| 16 | Shadows Beneath Sunlight | 햇살 아래 그림자 | [vol16.md](vol16.md) |
+| 17 | People of Spring and Autumn | 봄 가을 사람들 | [vol17.md](vol17.md) |
+| 18 | Where Immortals Once Played | 신선이 노닐던 곳 | [vol18.md](vol18.md) |
+| 19 | Slow Sunlight and Shadows | 느린 햇살 그림자 | [vol19.md](vol19.md) |
+| 20 | Reflections Beneath the Blue Sky | 푸른 하늘 그림자 | [vol20.md](vol20.md) |
+| 21 | Bond of Mother and Child | 모자의 인연 | [vol21.md](vol21.md) |
+| 22 | Bond of Mother and Child II | 모자의 인연 II | [vol22.md](vol22.md) |
+| 23 | Flowing into Dots of Rain | 점이 되어 흐른다 | [vol23.md](vol23.md) |
+| 24 | Where the Echoes Went | 함성은 어디로 | [vol24.md](vol24.md) |
+| 25 | A Mother's Time on the Hill | 엄마의 시간 | [vol25.md](vol25.md) |
+| 26 | Time Coming and Going | 가고 오는 시간 | [vol26.md](vol26.md) |
+| 27 | Flowing Maple Leaves | 흐르는 단풍 | [vol27.md](vol27.md) |
+| 28 | Time Going Again | 다시 가는 시간 | [vol28.md](vol28.md) |
+| 29 | Climbing the Valley | 계곡을 오르다 | [vol29.md](vol29.md) |
+| 30 | Pond Beneath Autumn Leaves | 단풍 아래 연못 | [vol30.md](vol30.md) |
+
+## Season I — 10 Thematic Collections
+
+| # | Title | 한글 | Summary |
+|---|---|---|---|
+| I | Palaces — Where Time Rests | 궁궐 — 시간이 머무는 곳 | [col01.md](col01.md) |
+| II | Snow — Silence After Footsteps | 설경 — 발자국 이후의 침묵 | [col02.md](col02.md) |
+| III | Time — Moments That Overlap | 시간 — 겹쳐지는 순간 | [col03.md](col03.md) |
+| IV | Walks — Between Leaving and Returning | 산책 — 떠남과 돌아옴 사이 | [col04.md](col04.md) |
+| V | Temples — The Shape of Stillness | 절집 — 비움의 자리 | [col05.md](col05.md) |
+| VI | Palaces II — Echoes in Seasonal Light | 궁궐 II — 계절빛의 울림 | [col06.md](col06.md) |
+| VII | Sunlight — Where Warmth Remains | 햇살 — 온기가 남는 자리 | [col07.md](col07.md) |
+| VIII | Royal Tombs — Names That Stay in Earth | 왕릉 — 이름이 머무는 곳 | [col08.md](col08.md) |
+| IX | Parks — An Ordinary Afternoon | 공원 — 평범한 오후 | [col09.md](col09.md) |
+| X | Autumn Leaves — When Light Turns Quiet | 단풍 — 빛이 고요해질 때 | [col10.md](col10.md) |
 
 ---
-
-## Individual Volumes (30)
-
-| Vol | Title | Place | Release (Kindle) |
-|----|-------|-------|------|
-| [01](vol01.md) | Beyond the Palace: The Secret Garden | Changdeokgung Palace | 2026-11-15 |
-| [02](vol02.md) | Rainfall in the Secret Garden | Changdeokgung Palace II | 2026-11-15 |
-| [03](vol03.md) | Flowing Time | Gyeongbokgung Palace | 2026-11-15 |
-| [04](vol04.md) | Snow Falls on the Village | Eunpyeong Hanok Village | 2027-01-13 |
-| [05](vol05.md) | Hill of Snow Blossoms | Yongchuljeong Pavilion | 2027-01-13 |
-| [06](vol06.md) | Snow Path Beneath the Hill | Gijachon Village | 2027-01-13 |
-| [07](vol07.md) | Where Flowers Come and Go | Gijachon II & Umulgol | 2027-01-13 |
-| [08](vol08.md) | The Living and the Dead | Sangnim · Pokpodong | 2027-01-13 |
-| [09](vol09.md) | Memories of Those Who Left | Hanok Village II & Jegakmal | 2027-01-13 |
-| [10](vol10.md) | Beyond the Forest Railway | Gongneung Stream | 2027-03-09 |
-| [11](vol11.md) | Those Who Pass Without Notice | Changneung Stream · Bulgwang | 2027-03-09 |
-| [12](vol12.md) | Steps Moving Slowly | Bulgwangsa · Bulgwang Park | 2027-03-09 |
-| [13](vol13.md) | Lanterns Beneath Spring Blossoms | Jingwansa Temple | 2027-03-09 |
-| [14](vol14.md) | The Seat the Monk Left Behind | Samhwasa Temple | 2027-03-09 |
-| [15](vol15.md) | Buddha Beyond the Wind Chime | Samcheonsa Temple | 2027-03-09 |
-| [16](vol16.md) | Shadows Beneath Sunlight | Changgyeonggung Palace | 2027-03-09 |
-| [17](vol17.md) | People of Spring and Autumn | Deoksugung Palace | 2027-03-09 |
-| [18](vol18.md) | Where Immortals Once Played | Seonyudo Park | 2027-03-09 |
-| [19](vol19.md) | Slow Sunlight and Shadows | Eunpyeong Hanok Village | 2027-03-09 |
-| [20](vol20.md) | Reflections Beneath the Blue Sky | National Museum of Modern and Contemporary Art | 2027-03-09 |
-| [21](vol21.md) | Bond of Mother and Child | Taegangneung Royal Tomb | 2027-05-09 |
-| [22](vol22.md) | Bond of Mother and Child II | Uireung Royal Tomb | 2027-05-09 |
-| [23](vol23.md) | Flowing into Dots of Rain | Bukchon Cultural Center | 2027-05-09 |
-| [24](vol24.md) | Where the Echoes Went | Yongsan | 2027-05-09 |
-| [25](vol25.md) | A Mother's Time on the Hill | Namsan Park | 2027-05-09 |
-| [26](vol26.md) | Time Coming and Going | Haneul Park | 2027-05-09 |
-| [27](vol27.md) | Flowing Maple Leaves | Daeseomun Gate | 2027-05-09 |
-| [28](vol28.md) | Time Going Again | Gijachon Village III | 2027-05-09 |
-| [29](vol29.md) | Climbing the Valley | Geumseonsa Temple | 2027-05-09 |
-| [30](vol30.md) | Pond Beneath Autumn Leaves | Changgyeonggung Palace II | 2027-05-09 |
-
-## Thematic Collections (10)
-
-| Col | Title | Volumes | Release (Kindle/PB) |
-|----|-------|---------|------|
-| [I](col01.md) | Palaces — Where Time Rests | Vol. 01, 02, 03 | 2026-12-10 |
-| [II](col02.md) | Snow — Silence After Footsteps | Vol. 04, 05, 06 | 2027-02-10 |
-| [III](col03.md) | Time — Moments That Overlap | Vol. 07, 08, 09 | 2027-02-10 |
-| [IV](col04.md) | Walks — Between Leaving and Returning | Vol. 10, 11, 12 | 2027-04-08 |
-| [V](col05.md) | Temples — The Shape of Stillness | Vol. 13, 14, 15 | 2027-04-08 |
-| [VI](col06.md) | Palaces II — Echoes in Seasonal Light | Vol. 16, 17 | 2027-04-08 |
-| [VII](col07.md) | Sunlight — Where Warmth Remains | Vol. 18, 19, 20 | 2027-04-08 |
-| [VIII](col08.md) | Royal Tombs — Names That Stay in Earth | Vol. 21, 22, 23 | 2027-06-15 |
-| [IX](col09.md) | Parks — An Ordinary Afternoon | Vol. 24, 25, 26 | 2027-06-15 |
-| [X](col10.md) | Autumn Leaves — When Light Turns Quiet | Vol. 27, 28, 29, 30 | 2027-06-15 |
-
----
-
-## Available on Amazon
-**Series page:** https://www.amazon.com/dp/B0H6MRWF3X
-
-Individual volumes available on Amazon KDP (global), released by phase.
-
-## License
-© 2026 HongSahn Media. All rights reserved. Cover images and bibliographic summaries in this repository are provided for discovery and reference. The full photographic and literary works are not included here and are subject to separate licensing terms.
+*Bibliographic summaries only. Full text (essays, verses, photo descriptions) is not distributed here. © HongSahn Media. Discovery permitted; reuse and AI training restricted — see licensing.*

@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.22
+## Korean Photo Essay Series · Vol.22
 ### Bond of Mother and Child II
 **모자의 인연 II**  ·  *A Photographic Meditation on Uireung Royal Tomb, Seoul*
 
-- **Location** Uireung Royal Tomb (의릉) · 37.603871, 127.057551
+- **Location** Uireung Royal Tomb (의릉) · 37.603871, 127.057551  ·  [Wikidata Q16094363](https://www.wikidata.org/wiki/Q16094363)
 - **Category** History › Asia › Korea
 - **Collection** Royal Tombs — Names That Stay in Earth (왕릉 — 이름이 머무는 곳)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, sorrow settles softly over stone. Light moves across th
 
 Nestled in Seokgwan-dong, Uireung holds the tombs of King Gyeongjong and his queen — a place of quiet sorrow. Gyeongjong's brief and solitary reign ended early, and here the bond of mother and son finds its second telling, in a tragic, tender harmony.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.26
+## Korean Photo Essay Series · Vol.26
 ### Time Coming and Going
 **가고 오는 시간**  ·  *A Photographic Meditation on Haneul (Sky) Park, Seoul*
 
-- **Location** Haneul Park (하늘공원) · 37.567453, 126.885478
+- **Location** Haneul Park (하늘공원) · 37.567453, 126.885478  ·  [Wikidata Q11263863](https://www.wikidata.org/wiki/Q11263863)
 - **Category** Religion & Spirituality › New Age & Spirituality › Mindfulness
 - **Collection** Parks — An Ordinary Afternoon (공원 — 평범한 오후)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, time comes and goes across open grass. Silver eulalia w
 
 Sky Park rises where Nanjido once held a vast landfill — land reclaimed and reborn as meadow for the 2002 World Cup. Now grass and wind have erased the old scars, and the high field becomes a place where time, coming and going, is felt as open air.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

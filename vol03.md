@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.03
+## Korean Photo Essay Series · Vol.03
 ### Flowing Time
 **흐르는 시간**  ·  *A Photographic Meditation on Gyeongbokgung Palace, Seoul*
 
-- **Location** Gyeongbokgung Palace (경복궁) · 37.579617, 126.977041
+- **Location** Gyeongbokgung Palace (경복궁) · 37.579617, 126.977041  ·  [Wikidata Q482485](https://www.wikidata.org/wiki/Q482485)
 - **Category** History › Asia › Korea
 - **Collection** Palaces — Where Time Rests (궁궐 — 시간이 머무는 곳)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, the grand palace turns intimate. Wind passes over open 
 
 As the principal palace of the dynasty, Gyeongbokgung has stood at the center of Korean history — built, burned, and raised again. This volume approaches it not as monument but as flowing time: the reflecting pavilion of Gyeonghoeru, the scholar's hall of Sujeongjeon, and the long courtyards where the present and the past keep passing through one another.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 

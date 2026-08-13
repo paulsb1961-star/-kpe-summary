@@ -1,8 +1,8 @@
-## Korean Photo Essay · Vol.13
+## Korean Photo Essay Series · Vol.13
 ### Lanterns Beneath Spring Blossoms
 **봄꽃 아래 연등**  ·  *A Photographic Meditation on Jingwansa Temple, Seoul*
 
-- **Location** Jingwansa Temple (진관사) · 37.638388, 126.946406
+- **Location** Jingwansa Temple (진관사) · 37.638388, 126.946406  ·  [Wikidata Q22975011](https://www.wikidata.org/wiki/Q22975011)
 - **Category** Religion & Spirituality › Buddhism › Zen / Chan
 - **Collection** Temples — The Shape of Stillness (절집 — 비움의 자리)
 
@@ -16,7 +16,7 @@ Through HongSahn's lens, lantern light and blossom share the same air. Paper lan
 
 Founded in the early Goryeo period and sheltered in mountain light, Jingwansa is one of Seoul's enduring temples — a place where prayer has continued for a thousand years. In spring it fills with lotus lanterns, and the sacred and the seasonal quietly overlap.
 
-The Korean Photo Essay Archive is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
+The Korean Photo Essay Series (KPE Archive) is a long-form photographic archive documenting emotional time across Korean landscapes. Season I: Coming and Going Time comprises 30 individual photo essays and 10 thematic collections, 2026.
 
 “This is not a guide to Korea. It is a way of feeling it.”
 
