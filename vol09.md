@@ -38,9 +38,9 @@ This volume lingers where the village's past and present keep each other company
 |---|---|
 | **Publisher** | HongSahn Media (홍산미디어) |
 | **Pages / Format** | 112pp · 6×9in (152.4×228.6mm) / 프리미엄 컬러 |
-| **Release (Phase 2)** | Kindle **2027-01-13** · Paperback/Hardcover **2027-02-10** |
-| **ISBN** | Kindle 9791124751015 · PB 9791124751282 · HC 9791124751589 |
-| **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
+| **Release (Phase 2)** | Kindle **2027-01-13** · Paperback **2027-02-10** |
+| **ISBN** | Kindle 9791124751015 · PB 9791124751282 |
+| **Price** | Kindle 5.99 USD · Paperback 21.99 USD |
 | **Cover** | `en_cover_kpe_09.jpg` |
 | **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 

@@ -38,9 +38,9 @@ This volume returns to Gijachon, where the seasons go on coming and going over a
 |---|---|
 | **Publisher** | HongSahn Media (홍산미디어) |
 | **Pages / Format** | 112pp · 6×9in (152.4×228.6mm) / 프리미엄 컬러 |
-| **Release (Phase 2)** | Kindle **2027-01-13** · Paperback/Hardcover **2027-02-10** |
-| **ISBN** | Kindle 9791199339743 · PB 9791124751268 · HC 9791124751565 |
-| **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
+| **Release (Phase 2)** | Kindle **2027-01-13** · Paperback **2027-02-10** |
+| **ISBN** | Kindle 9791199339743 · PB 9791124751268 |
+| **Price** | Kindle 5.99 USD · Paperback 21.99 USD |
 | **Cover** | `en_cover_kpe_07.jpg` |
 | **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 

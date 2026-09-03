@@ -38,9 +38,9 @@ This volume rises to a sky-high meadow, where time keeps coming and going on the
 |---|---|
 | **Publisher** | HongSahn Media (홍산미디어) |
 | **Pages / Format** | 106pp · 6×9in (152.4×228.6mm) / 프리미엄 컬러 |
-| **Release (Phase 4)** | Kindle **2027-05-09** · Paperback/Hardcover **2027-06-15** |
-| **ISBN** | Kindle 9791124751183 · PB 9791124751459 · HC 9791124751756 |
-| **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
+| **Release (Phase 4)** | Kindle **2027-05-09** · Paperback **2027-06-15** |
+| **ISBN** | Kindle 9791124751183 · PB 9791124751459 |
+| **Price** | Kindle 5.99 USD · Paperback 21.99 USD |
 | **Cover** | `en_cover_kpe_26.jpg` |
 | **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 

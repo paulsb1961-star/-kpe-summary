@@ -38,9 +38,9 @@ This volume turns from the Secret Garden to the great palace at the city's heart
 |---|---|
 | **Publisher** | HongSahn Media (홍산미디어) |
 | **Pages / Format** | 114pp · 6×9in (152.4×228.6mm) / 프리미엄 컬러 |
-| **Release (Phase 1)** | Kindle **2026-11-15** · Paperback/Hardcover **2026-12-10** |
-| **ISBN** | Kindle 9791199339774 · PB 9791199339712 · HC 9791124751527 |
-| **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
+| **Release (Phase 1)** | Kindle **2026-11-15** · Paperback **2026-12-10** |
+| **ISBN** | Kindle 9791199339774 · PB 9791199339712 |
+| **Price** | Kindle 5.99 USD · Paperback 21.99 USD |
 | **Cover** | `en_cover_kpe_03.jpg` |
 | **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 

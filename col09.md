@@ -19,9 +19,9 @@ Includes: Vol.24 Where the Echoes Went, Vol.25 A Mother's Time on the Hill, Vol.
 |---|---|
 | **Publisher** | HongSahn Media (홍산미디어) |
 | **Pages** | 292pp (combined) |
-| **Release** | Kindle/Paperback **2027-06-15** · Hardcover **2027-07-19** |
-| **ISBN** | PB 9791124751886 · HC 9791124751985 (Kindle: Amazon ASIN) |
-| **Price** | Kindle 9.99 USD · Paperback 54.99 USD · Hardcover 79.99 USD |
+| **Release** | Kindle/Paperback **2027-06-15** |
+| **ISBN** | PB 9791124751886 (Kindle: Amazon ASIN) |
+| **Price** | Kindle 9.99 USD · Paperback 54.99 USD |
 | **Value** | K 44%↓ vs. individual volumes |
 | **Cover** | `en_cover_kpe_109.jpg` |
 | **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |

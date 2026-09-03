@@ -38,9 +38,9 @@ This volume marks the first chapter in an ongoing archive of emotional time.
 |---|---|
 | **Publisher** | HongSahn Media (홍산미디어) |
 | **Pages / Format** | 114pp · 6×9in (152.4×228.6mm) / 프리미엄 컬러 |
-| **Release (Phase 1)** | Kindle **2026-11-15** · Paperback/Hardcover **2026-12-10** |
-| **ISBN** | Kindle 9791199339798 · PB 9791199339767 · HC 9791124751503 |
-| **Price** | Kindle 4.99 USD · Paperback 19.99 USD · Hardcover 29.99 USD |
+| **Release (Phase 1)** | Kindle **2026-11-15** · Paperback **2026-12-10** |
+| **ISBN** | Kindle 9791199339798 · PB 9791199339767 |
+| **Price** | Kindle 4.99 USD · Paperback 19.99 USD |
 | **Cover** | `en_cover_kpe_01.jpg` |
 | **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 

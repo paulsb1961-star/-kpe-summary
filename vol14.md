@@ -38,9 +38,9 @@ This volume follows the temple path to a hermitage where the seat the monk left 
 |---|---|
 | **Publisher** | HongSahn Media (홍산미디어) |
 | **Pages / Format** | 102pp · 6×9in (152.4×228.6mm) / 프리미엄 컬러 |
-| **Release (Phase 3)** | Kindle **2027-03-09** · Paperback/Hardcover **2027-04-08** |
-| **ISBN** | Kindle 9791124751060 · PB 9791124751336 · HC 9791124751633 |
-| **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
+| **Release (Phase 3)** | Kindle **2027-03-09** · Paperback **2027-04-08** |
+| **ISBN** | Kindle 9791124751060 · PB 9791124751336 |
+| **Price** | Kindle 5.99 USD · Paperback 21.99 USD |
 | **Cover** | `en_cover_kpe_14.jpg` |
 | **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 

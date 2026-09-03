@@ -37,9 +37,9 @@ This volume rests in a century-old hanok village, where autumn rain flows as qui
 |---|---|
 | **Publisher** | HongSahn Media (홍산미디어) |
 | **Pages / Format** | 106pp · 6×9in (152.4×228.6mm) / 프리미엄 컬러 |
-| **Release (Phase 4)** | Kindle **2027-05-09** · Paperback/Hardcover **2027-06-15** |
-| **ISBN** | Kindle 9791124751152 · PB 9791124751428 · HC 9791124751725 |
-| **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
+| **Release (Phase 4)** | Kindle **2027-05-09** · Paperback **2027-06-15** |
+| **ISBN** | Kindle 9791124751152 · PB 9791124751428 |
+| **Price** | Kindle 5.99 USD · Paperback 21.99 USD |
 | **Cover** | `en_cover_kpe_23.jpg` |
 | **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 

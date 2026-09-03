@@ -153,17 +153,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791199339798",
-        "paperback": "9791199339767",
-        "hardcover": "9791124751503"
+        "paperback": "9791199339767"
       },
       "price": {
         "kindle": "4.99 USD",
-        "paperback": "19.99 USD",
-        "hardcover": "29.99 USD"
+        "paperback": "19.99 USD"
       },
       "pubdate": {
         "kindle": "2026-11-15",
-        "paperback_hardcover": "2026-12-10",
+        "paperback": "2026-12-10",
         "phase": "Phase 1"
       },
       "cover": "en_cover_kpe_01.jpg"
@@ -315,17 +313,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791199339781",
-        "paperback": "9791199339750",
-        "hardcover": "9791124751510"
+        "paperback": "9791199339750"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2026-11-15",
-        "paperback_hardcover": "2026-12-10",
+        "paperback": "2026-12-10",
         "phase": "Phase 1"
       },
       "cover": "en_cover_kpe_02.jpg"
@@ -487,17 +483,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791199339774",
-        "paperback": "9791199339712",
-        "hardcover": "9791124751527"
+        "paperback": "9791199339712"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2026-11-15",
-        "paperback_hardcover": "2026-12-10",
+        "paperback": "2026-12-10",
         "phase": "Phase 1"
       },
       "cover": "en_cover_kpe_03.jpg"
@@ -637,17 +631,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791199339705",
-        "paperback": "9791124751237",
-        "hardcover": "9791124751534"
+        "paperback": "9791124751237"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-01-13",
-        "paperback_hardcover": "2027-02-10",
+        "paperback": "2027-02-10",
         "phase": "Phase 2"
       },
       "cover": "en_cover_kpe_04.jpg"
@@ -779,17 +771,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791199339729",
-        "paperback": "9791124751244",
-        "hardcover": "9791124751541"
+        "paperback": "9791124751244"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-01-13",
-        "paperback_hardcover": "2027-02-10",
+        "paperback": "2027-02-10",
         "phase": "Phase 2"
       },
       "cover": "en_cover_kpe_05.jpg"
@@ -921,17 +911,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791199339736",
-        "paperback": "9791124751251",
-        "hardcover": "9791124751558"
+        "paperback": "9791124751251"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-01-13",
-        "paperback_hardcover": "2027-02-10",
+        "paperback": "2027-02-10",
         "phase": "Phase 2"
       },
       "cover": "en_cover_kpe_06.jpg"
@@ -1063,17 +1051,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791199339743",
-        "paperback": "9791124751268",
-        "hardcover": "9791124751565"
+        "paperback": "9791124751268"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-01-13",
-        "paperback_hardcover": "2027-02-10",
+        "paperback": "2027-02-10",
         "phase": "Phase 2"
       },
       "cover": "en_cover_kpe_07.jpg"
@@ -1205,17 +1191,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751008",
-        "paperback": "9791124751275",
-        "hardcover": "9791124751572"
+        "paperback": "9791124751275"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-01-13",
-        "paperback_hardcover": "2027-02-10",
+        "paperback": "2027-02-10",
         "phase": "Phase 2"
       },
       "cover": "en_cover_kpe_08.jpg"
@@ -1351,17 +1335,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751015",
-        "paperback": "9791124751282",
-        "hardcover": "9791124751589"
+        "paperback": "9791124751282"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-01-13",
-        "paperback_hardcover": "2027-02-10",
+        "paperback": "2027-02-10",
         "phase": "Phase 2"
       },
       "cover": "en_cover_kpe_09.jpg"
@@ -1489,17 +1471,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751022",
-        "paperback": "9791124751299",
-        "hardcover": "9791124751596"
+        "paperback": "9791124751299"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-03-09",
-        "paperback_hardcover": "2027-04-08",
+        "paperback": "2027-04-08",
         "phase": "Phase 3"
       },
       "cover": "en_cover_kpe_10.jpg"
@@ -1631,17 +1611,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751039",
-        "paperback": "9791124751305",
-        "hardcover": "9791124751602"
+        "paperback": "9791124751305"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-03-09",
-        "paperback_hardcover": "2027-04-08",
+        "paperback": "2027-04-08",
         "phase": "Phase 3"
       },
       "cover": "en_cover_kpe_11.jpg"
@@ -1765,17 +1743,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751046",
-        "paperback": "9791124751312",
-        "hardcover": "9791124751619"
+        "paperback": "9791124751312"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-03-09",
-        "paperback_hardcover": "2027-04-08",
+        "paperback": "2027-04-08",
         "phase": "Phase 3"
       },
       "cover": "en_cover_kpe_12.jpg"
@@ -1899,17 +1875,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751053",
-        "paperback": "9791124751329",
-        "hardcover": "9791124751626"
+        "paperback": "9791124751329"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-03-09",
-        "paperback_hardcover": "2027-04-08",
+        "paperback": "2027-04-08",
         "phase": "Phase 3"
       },
       "cover": "en_cover_kpe_13.jpg"
@@ -2031,17 +2005,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751060",
-        "paperback": "9791124751336",
-        "hardcover": "9791124751633"
+        "paperback": "9791124751336"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-03-09",
-        "paperback_hardcover": "2027-04-08",
+        "paperback": "2027-04-08",
         "phase": "Phase 3"
       },
       "cover": "en_cover_kpe_14.jpg"
@@ -2172,17 +2144,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751077",
-        "paperback": "9791124751343",
-        "hardcover": "9791124751640"
+        "paperback": "9791124751343"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-03-09",
-        "paperback_hardcover": "2027-04-08",
+        "paperback": "2027-04-08",
         "phase": "Phase 3"
       },
       "cover": "en_cover_kpe_15.jpg"
@@ -2314,17 +2284,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751084",
-        "paperback": "9791124751350",
-        "hardcover": "9791124751657"
+        "paperback": "9791124751350"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-03-09",
-        "paperback_hardcover": "2027-04-08",
+        "paperback": "2027-04-08",
         "phase": "Phase 3"
       },
       "cover": "en_cover_kpe_16.jpg"
@@ -2488,17 +2456,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751091",
-        "paperback": "9791124751367",
-        "hardcover": "9791124751664"
+        "paperback": "9791124751367"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-03-09",
-        "paperback_hardcover": "2027-04-08",
+        "paperback": "2027-04-08",
         "phase": "Phase 3"
       },
       "cover": "en_cover_kpe_17.jpg"
@@ -2666,17 +2632,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751107",
-        "paperback": "9791124751374",
-        "hardcover": "9791124751671"
+        "paperback": "9791124751374"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-03-09",
-        "paperback_hardcover": "2027-04-08",
+        "paperback": "2027-04-08",
         "phase": "Phase 3"
       },
       "cover": "en_cover_kpe_18.jpg"
@@ -2812,17 +2776,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751114",
-        "paperback": "9791124751381",
-        "hardcover": "9791124751688"
+        "paperback": "9791124751381"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-03-09",
-        "paperback_hardcover": "2027-04-08",
+        "paperback": "2027-04-08",
         "phase": "Phase 3"
       },
       "cover": "en_cover_kpe_19.jpg"
@@ -2958,17 +2920,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751121",
-        "paperback": "9791124751398",
-        "hardcover": "9791124751695"
+        "paperback": "9791124751398"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-03-09",
-        "paperback_hardcover": "2027-04-08",
+        "paperback": "2027-04-08",
         "phase": "Phase 3"
       },
       "cover": "en_cover_kpe_20.jpg"
@@ -3116,17 +3076,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751138",
-        "paperback": "9791124751404",
-        "hardcover": "9791124751701"
+        "paperback": "9791124751404"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-05-09",
-        "paperback_hardcover": "2027-06-15",
+        "paperback": "2027-06-15",
         "phase": "Phase 4"
       },
       "cover": "en_cover_kpe_21.jpg"
@@ -3278,17 +3236,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751145",
-        "paperback": "9791124751411",
-        "hardcover": "9791124751718"
+        "paperback": "9791124751411"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-05-09",
-        "paperback_hardcover": "2027-06-15",
+        "paperback": "2027-06-15",
         "phase": "Phase 4"
       },
       "cover": "en_cover_kpe_22.jpg"
@@ -3413,17 +3369,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751152",
-        "paperback": "9791124751428",
-        "hardcover": "9791124751725"
+        "paperback": "9791124751428"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-05-09",
-        "paperback_hardcover": "2027-06-15",
+        "paperback": "2027-06-15",
         "phase": "Phase 4"
       },
       "cover": "en_cover_kpe_23.jpg"
@@ -3559,17 +3513,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751169",
-        "paperback": "9791124751435",
-        "hardcover": "9791124751732"
+        "paperback": "9791124751435"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-05-09",
-        "paperback_hardcover": "2027-06-15",
+        "paperback": "2027-06-15",
         "phase": "Phase 4"
       },
       "cover": "en_cover_kpe_24.jpg"
@@ -3701,17 +3653,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751176",
-        "paperback": "9791124751442",
-        "hardcover": "9791124751749"
+        "paperback": "9791124751442"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-05-09",
-        "paperback_hardcover": "2027-06-15",
+        "paperback": "2027-06-15",
         "phase": "Phase 4"
       },
       "cover": "en_cover_kpe_25.jpg"
@@ -3839,17 +3789,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751183",
-        "paperback": "9791124751459",
-        "hardcover": "9791124751756"
+        "paperback": "9791124751459"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-05-09",
-        "paperback_hardcover": "2027-06-15",
+        "paperback": "2027-06-15",
         "phase": "Phase 4"
       },
       "cover": "en_cover_kpe_26.jpg"
@@ -3981,17 +3929,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751190",
-        "paperback": "9791124751466",
-        "hardcover": "9791124751763"
+        "paperback": "9791124751466"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-05-09",
-        "paperback_hardcover": "2027-06-15",
+        "paperback": "2027-06-15",
         "phase": "Phase 4"
       },
       "cover": "en_cover_kpe_27.jpg"
@@ -4119,17 +4065,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751206",
-        "paperback": "9791124751473",
-        "hardcover": "9791124751770"
+        "paperback": "9791124751473"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-05-09",
-        "paperback_hardcover": "2027-06-15",
+        "paperback": "2027-06-15",
         "phase": "Phase 4"
       },
       "cover": "en_cover_kpe_28.jpg"
@@ -4257,17 +4201,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751213",
-        "paperback": "9791124751480",
-        "hardcover": "9791124751787"
+        "paperback": "9791124751480"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-05-09",
-        "paperback_hardcover": "2027-06-15",
+        "paperback": "2027-06-15",
         "phase": "Phase 4"
       },
       "cover": "en_cover_kpe_29.jpg"
@@ -4411,17 +4353,15 @@
       "publisher": "홍산미디어",
       "isbn": {
         "kindle": "9791124751220",
-        "paperback": "9791124751497",
-        "hardcover": "9791124751794"
+        "paperback": "9791124751497"
       },
       "price": {
         "kindle": "5.99 USD",
-        "paperback": "21.99 USD",
-        "hardcover": "32.99 USD"
+        "paperback": "21.99 USD"
       },
       "pubdate": {
         "kindle": "2027-05-09",
-        "paperback_hardcover": "2027-06-15",
+        "paperback": "2027-06-15",
         "phase": "Phase 4"
       },
       "cover": "en_cover_kpe_30.jpg"
@@ -4448,19 +4388,16 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751800",
-        "hardcover": "9791124751909",
         "kindle": null,
         "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
         "paperback": "54.99 USD",
-        "hardcover": "79.99 USD",
         "kindle": "9.99 USD"
       },
       "savings": "K 41%↓",
       "pubdate": {
-        "kindle_paperback": "2026-12-10",
-        "hardcover": "2027-07-19"
+        "kindle_paperback": "2026-12-10"
       },
       "cover": "en_cover_kpe_101.jpg",
       "global_id": "KPE-COL01"
@@ -4485,19 +4422,16 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751817",
-        "hardcover": "9791124751916",
         "kindle": null,
         "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
         "paperback": "54.99 USD",
-        "hardcover": "79.99 USD",
         "kindle": "9.99 USD"
       },
       "savings": "K 44%↓",
       "pubdate": {
-        "kindle_paperback": "2027-02-10",
-        "hardcover": "2027-07-19"
+        "kindle_paperback": "2027-02-10"
       },
       "cover": "en_cover_kpe_102.jpg",
       "global_id": "KPE-COL02"
@@ -4522,19 +4456,16 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751824",
-        "hardcover": "9791124751923",
         "kindle": null,
         "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
         "paperback": "54.99 USD",
-        "hardcover": "79.99 USD",
         "kindle": "9.99 USD"
       },
       "savings": "K 44%↓",
       "pubdate": {
-        "kindle_paperback": "2027-02-10",
-        "hardcover": "2027-07-19"
+        "kindle_paperback": "2027-02-10"
       },
       "cover": "en_cover_kpe_103.jpg",
       "global_id": "KPE-COL03"
@@ -4559,19 +4490,16 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751831",
-        "hardcover": "9791124751930",
         "kindle": null,
         "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
         "paperback": "54.99 USD",
-        "hardcover": "79.99 USD",
         "kindle": "9.99 USD"
       },
       "savings": "K 44%↓",
       "pubdate": {
-        "kindle_paperback": "2027-04-08",
-        "hardcover": "2027-07-19"
+        "kindle_paperback": "2027-04-08"
       },
       "cover": "en_cover_kpe_104.jpg",
       "global_id": "KPE-COL04"
@@ -4596,19 +4524,16 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751848",
-        "hardcover": "9791124751947",
         "kindle": null,
         "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
         "paperback": "54.99 USD",
-        "hardcover": "79.99 USD",
         "kindle": "9.99 USD"
       },
       "savings": "K 44%↓",
       "pubdate": {
-        "kindle_paperback": "2027-04-08",
-        "hardcover": "2027-07-19"
+        "kindle_paperback": "2027-04-08"
       },
       "cover": "en_cover_kpe_105.jpg",
       "global_id": "KPE-COL05"
@@ -4633,19 +4558,16 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751855",
-        "hardcover": "9791124751954",
         "kindle": null,
         "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
         "paperback": "36.99 USD",
-        "hardcover": "54.99 USD",
         "kindle": "8.99 USD"
       },
       "savings": "K 25%↓",
       "pubdate": {
-        "kindle_paperback": "2027-04-08",
-        "hardcover": "2027-07-19"
+        "kindle_paperback": "2027-04-08"
       },
       "cover": "en_cover_kpe_106.jpg",
       "global_id": "KPE-COL06"
@@ -4670,19 +4592,16 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751862",
-        "hardcover": "9791124751961",
         "kindle": null,
         "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
         "paperback": "54.99 USD",
-        "hardcover": "79.99 USD",
         "kindle": "9.99 USD"
       },
       "savings": "K 44%↓",
       "pubdate": {
-        "kindle_paperback": "2027-04-08",
-        "hardcover": "2027-07-19"
+        "kindle_paperback": "2027-04-08"
       },
       "cover": "en_cover_kpe_107.jpg",
       "global_id": "KPE-COL07"
@@ -4707,19 +4626,16 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751879",
-        "hardcover": "9791124751978",
         "kindle": null,
         "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
         "paperback": "54.99 USD",
-        "hardcover": "79.99 USD",
         "kindle": "9.99 USD"
       },
       "savings": "K 44%↓",
       "pubdate": {
-        "kindle_paperback": "2027-06-15",
-        "hardcover": "2027-07-19"
+        "kindle_paperback": "2027-06-15"
       },
       "cover": "en_cover_kpe_108.jpg",
       "global_id": "KPE-COL08"
@@ -4744,19 +4660,16 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751886",
-        "hardcover": "9791124751985",
         "kindle": null,
         "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
         "paperback": "54.99 USD",
-        "hardcover": "79.99 USD",
         "kindle": "9.99 USD"
       },
       "savings": "K 44%↓",
       "pubdate": {
-        "kindle_paperback": "2027-06-15",
-        "hardcover": "2027-07-19"
+        "kindle_paperback": "2027-06-15"
       },
       "cover": "en_cover_kpe_109.jpg",
       "global_id": "KPE-COL09"
@@ -4781,19 +4694,16 @@
       "publisher": "홍산미디어",
       "isbn": {
         "paperback": "9791124751893",
-        "hardcover": "9791124751992",
         "kindle": null,
         "kindle_note": "Amazon ASIN (no ISBN)"
       },
       "price": {
         "paperback": "72.99 USD",
-        "hardcover": "104.99 USD",
         "kindle": "9.99 USD"
       },
       "savings": "K 58%↓",
       "pubdate": {
-        "kindle_paperback": "2027-06-15",
-        "hardcover": "2027-07-19"
+        "kindle_paperback": "2027-06-15"
       },
       "cover": "en_cover_kpe_110.jpg",
       "global_id": "KPE-COL10"

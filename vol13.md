@@ -38,9 +38,9 @@ This volume opens the temple sequence beneath Bukhansan, where prayer endures be
 |---|---|
 | **Publisher** | HongSahn Media (홍산미디어) |
 | **Pages / Format** | 106pp · 6×9in (152.4×228.6mm) / 프리미엄 컬러 |
-| **Release (Phase 3)** | Kindle **2027-03-09** · Paperback/Hardcover **2027-04-08** |
-| **ISBN** | Kindle 9791124751053 · PB 9791124751329 · HC 9791124751626 |
-| **Price** | Kindle 5.99 USD · Paperback 21.99 USD · Hardcover 32.99 USD |
+| **Release (Phase 3)** | Kindle **2027-03-09** · Paperback **2027-04-08** |
+| **ISBN** | Kindle 9791124751053 · PB 9791124751329 |
+| **Price** | Kindle 5.99 USD · Paperback 21.99 USD |
 | **Cover** | `en_cover_kpe_13.jpg` |
 | **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
 

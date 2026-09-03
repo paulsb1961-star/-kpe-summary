@@ -19,9 +19,9 @@ Includes: Vol.07 Where Flowers Come and Go, Vol.08 The Living and the Dead, Vol.
 |---|---|
 | **Publisher** | HongSahn Media (홍산미디어) |
 | **Pages** | 304pp (combined) |
-| **Release** | Kindle/Paperback **2027-02-10** · Hardcover **2027-07-19** |
-| **ISBN** | PB 9791124751824 · HC 9791124751923 (Kindle: Amazon ASIN) |
-| **Price** | Kindle 9.99 USD · Paperback 54.99 USD · Hardcover 79.99 USD |
+| **Release** | Kindle/Paperback **2027-02-10** |
+| **ISBN** | PB 9791124751824 (Kindle: Amazon ASIN) |
+| **Price** | Kindle 9.99 USD · Paperback 54.99 USD |
 | **Value** | K 44%↓ vs. individual volumes |
 | **Cover** | `en_cover_kpe_103.jpg` |
 | **Amazon** | [Series page](https://www.amazon.com/dp/B0H6MRWF3X) |
