@@ -1,7 +1,7 @@
-# Korean Photo Essay Series
-**한국 포토에세이 시리즈 · KPE Archive** — by HongSahn, published by HongSahn Media
+# Korean Photo Essay Archive
+**한국 포토에세이 아카이브 · KPE Archive** — by HongSahn, published by HongSahn Media
 
-A bilingual (Korean / English) photo essay book series documenting emotional time across Korean cultural heritage — palaces, temples, hanok villages, royal tombs, and urban parks. **Season I: Coming and Going Time** comprises 30 individual photo essays and 10 thematic collections (2026–2027).
+A photo essay archive documenting emotional time across Korean cultural heritage — palaces, temples, hanok villages, royal tombs, and urban parks. Published in two independent editions: Korean and English, each a fully original work. **Season I: Coming and Going Time** comprises 30 individual photo essays and 10 thematic collections (2026–2027).
 
 > “This is not a guide to Korea. It is a way of feeling it.”
 
